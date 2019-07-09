@@ -93,7 +93,7 @@ service-worker: true
 
 
 # Friends
-following [
+friends: [
     {
         title: "Tom Johnson",
         href: "https://idratherbewriting.com/"

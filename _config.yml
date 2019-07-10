@@ -55,10 +55,10 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_shortname: uufishtxl
+# disqus_shortname: uufishtxl
 
 # Gitalk
-#gitalk:
+gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 85d39cdf13a045a43f5e                            #生成的clientID
   clientSecret: e14f259dfd990a9be6092ae68cd86d08d721801d    #生成的clientSecret

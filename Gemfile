@@ -1,7 +1,9 @@
-# frozen_string_literal: true
+source 'http://rubygems.org'
 
-source "https://rubygems.org"
+gem 'jekyll'
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+group :jekyll_plugins do
+    gem "jekyll-paginate"
+end
 
-# gem "rails"
+gem 'wdm', '>= 0.1.0'

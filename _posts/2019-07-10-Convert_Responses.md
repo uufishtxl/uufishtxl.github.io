@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Convert Reponses into your API Docs
-subtitle: 只是想要试验一下功能而已
+subtitle: Step by step response schema definitions in line with openAPI on Swagger Editorin li
 date: 2019-07-10
 author: edith
-header-img: img/edith_post_dragon.jpg
+header-img: "img/post_bg_coding.jpg"
 catelog: true
 tags: 
   - Api_docs

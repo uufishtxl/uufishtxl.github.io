@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: 居·宅·❤
 SEOTitle: 居·宅 | ZYL_❤ Blog
 header-img: img/cover-cute-daylight-1698482.jpg
@@ -53,9 +53,9 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: uufishtxl
+#评论系统
+#Disqus（https://disqus.com/）
+disqus_username: uufishtxl
 
 # Gitalk
 #gitalk:

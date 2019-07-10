@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Convert Reponses into your API Docs
-subtitle: Step by step response schema definitions in line with openAPI on Swagger Editorin li
+title: Define Response Schema
+subtitle: Step by step response schema definitions
 date: 2019-07-10
 author: edith
 header-img: "img/post_bg_coding.jpg"
@@ -53,7 +53,7 @@ responses:
 
 ## Step 2: Move on to the second layer
 
-Now, let's proceed to the definition of its value part, in this case, an array. Unlike a dictionary, it consists several *items*. 
+Now, let's proceed to the definition of its value part, in this case, an array. Unlike a dictionary, it consists of several *items*. 
 ```
 components:
   schemas:

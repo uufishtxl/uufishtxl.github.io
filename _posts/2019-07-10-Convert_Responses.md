@@ -5,14 +5,14 @@ subtitle: Step by step response schema definitions
 date: 2019-07-10
 author: edith
 header-img: "img/post_bg_coding.jpg"
-catelog: true
+catalog: true
 tags: 
   - Api_docs
   - response
   - schema
 ---
 
-# Response example
+## Response example
 
 ```
 {

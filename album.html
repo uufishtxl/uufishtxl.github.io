@@ -1,0 +1,178 @@
+---
+layout: album_default
+title: 壹·龍
+description: 山有木兮木有枝 心悦君兮君不知 ​​​​
+header-img: "img/edith_bg_love.jpg"
+---
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading" id="tag-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <span class="subheading">{{ page.description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+    <style>
+        /* quick grid */
+        .container {
+            width: 93%;
+            margin: auto;
+        }
+
+        /* Bootstrap-style columns */
+        .column {
+            position: relative;
+            float: left;
+            min-height: 1px;
+            width: 25%;
+            padding-left: 4px;
+            padding-right: 4px;
+
+            /* Space between tiles */
+            margin-top: 8px;
+        }
+
+        .col-span {
+            width: 50%;
+        }
+
+        .my-sizer-element {
+            width: 8.33333%;
+        }
+
+        /* default styles so shuffle doesn't have to set them (it will if they're missing) */
+        .my-shuffle {
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Ensure images take up the same space when they load */
+        /* https://vestride.github.io/Shuffle/images */
+        .aspect {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 100%;
+            overflow: hidden;
+        }
+
+        .aspect__inner {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+
+        .aspect--16x9 {
+            padding-bottom: 56.25%;
+        }
+
+        .aspect--9x80 {
+            padding-bottom: calc(112.5% + 8px);
+        }
+
+        .aspect--32x9 {
+            padding-bottom: calc(28.125% - 3px);
+        }
+
+        img {
+            display: block;
+            width: 100%;
+
+            max-width: none;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Small reset */
+        *,
+        ::before,
+        ::after {
+            box-sizing: border-box;
+        }
+
+        figure {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <div class="container">
+                <div class="js-grid my-shuffle">
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><a target="_blank" href="img/zyl_campaign_refa.jpg"><img src="img/zyl_campaign_refa.jpg" obj.alt="obj.alt" /></a></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_commercial_Schwarzkopf).jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_dramaSeries_zf_1.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_fanParty_1.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column row-span">
+                <div class="aspect aspect--9x80">
+                    <div class="aspect__inner"><img src="img/zyl_mag_1.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_mag_2.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column col-span">
+                <div class="aspect aspect--32x9">
+                    <div class="aspect__inner"><img src="img/zyl_musicWonderCity_1.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_music_WonderCity_2.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_wallpaper_1.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_campaign_Schwarzkopf_1.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_campaign_lv_1.gif" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <figure class="js-item column">
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner"><img src="img/zyl_campaign_nivea_1.jpg" obj.alt="obj.alt" /></div>
+                </div>
+            </figure>
+            <div class="column my-sizer-element"></div>
+        </div>
+    </div>
+    <script>
+        var Shuffle = window.Shuffle;
+
+        var myShuffle = new Shuffle(document.querySelector('.my-shuffle'), {
+            itemSelector: '.js-item',
+            sizer: '.my-sizer-element',
+            buffer: 1,
+        });
+    </script>

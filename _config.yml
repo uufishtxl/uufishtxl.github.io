@@ -50,6 +50,9 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
 
 
 
@@ -99,3 +102,34 @@ friends: [
         href: "https://idratherbewriting.com/"
     }
 ]
+
+topnav_title: Tutorials and Notes
+# this appears on the top navigation bar next to the home button
+
+github_editme_path: uufishtxl/uufishtx.github.io/
+# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+
+feedback_subject_line: Tutorials and Notes
+
+feedback_email: edith1984@126.com
+# used as a contact email for the Feedback link in the top navigation bar
+
+# feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+
+# feedback_text: "Need help?"
+# if you uncomment the previous line, it changes the Feedback text
+
+# feedback_link: "http://helpy.io/"
+# if you uncomment the previous line, it changes where the feedback link points to
+
+defaults:
+  -
+    scope:
+      path: "pages/api_docs"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: api_sidebar
+      topnav: topnav

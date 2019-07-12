@@ -1,0 +1,22 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/uufishtxl
+    - title: Blogging
+      external_url: https://uufishtxl.github.io
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Tutorials
+      folderitems:
+        - title: Tom's tutorial
+          external_url: https://idratherbewriting.com/learnapidoc/
+        - title: OpenAPI specification
+          external_url: https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md#linkObject
+        - title: Swagger editor
+          external_url: https://editor.swagger.io/

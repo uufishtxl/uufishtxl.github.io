@@ -1,0 +1,41 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: API Documenting
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Conceptual topics
+      url: /api_conceptual_topics.html
+      output: web, pdf
+      type: homepage
+
+    - title: Subtitle1
+      url: 
+      output: web, pdf
+
+    - title: Subtitle2
+      url: 
+      output: web, pdf
+
+    - title: Subtitle3
+      url: 
+      output: web, pdf

@@ -106,7 +106,7 @@ friends: [
 topnav_title: Tutorials and Notes
 # this appears on the top navigation bar next to the home button
 
-github_editme_path: uufishtxl/uufishtxl.github.io/blob/master
+github_editme_path: "uufishtxl/uufishtxl.github.io/blob/master/"
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 feedback_subject_line: Tutorials and Notes

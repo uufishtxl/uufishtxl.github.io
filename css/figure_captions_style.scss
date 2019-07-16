@@ -39,7 +39,8 @@ a:active {
 
 p {
   margin: 1em 0;
-  line-height: 1.4
+  line-height: 1.4;
+  font-weight: 600;
 }
 
 /*
@@ -171,6 +172,7 @@ $item-height: 220px;
   margin-top: 0;
   margin-bottom: 4px;
   color: #95a5a6;
+  border-bottom: none;
 }
 
 .filters-group {
@@ -568,8 +570,8 @@ $item-height: 220px;
   }
 
   .container {
-    padding-left: 7%;
-    padding-right: 7%;
+    padding-left: 0%;
+    padding-right: 0%;
   }
 
   .row {

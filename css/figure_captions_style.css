@@ -41,6 +41,7 @@ a:active {
 p {
   margin: 1em 0;
   line-height: 1.4;
+  font-weight: 600;
 }
 
 /*
@@ -168,6 +169,7 @@ p {
   margin-top: 0;
   margin-bottom: 4px;
   color: #95a5a6;
+  border-bottom: none;
 }
 
 .filters-group {
@@ -565,8 +567,8 @@ p {
     width: 100%;
   }
   .container {
-    padding-left: 7%;
-    padding-right: 7%;
+    padding-left: 0%;
+    padding-right: 0%;
   }
   .row {
     max-width: 1200px;
@@ -624,10 +626,5 @@ p {
   .col-12\@md {
     width: 100%;
   }
-}
-
-
-legend {
-  border-bottom: none;
 }
 /*# sourceMappingURL=figure_captions_style.css.map */

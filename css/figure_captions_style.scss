@@ -83,6 +83,10 @@ $item-height: 220px;
   height: ($item-height * 2) + $picture-gutter; /* 2x the height + 1 gutter */
 }
 
+.picture-item--h3 {
+  height: ($item-height * 3) + ($picture-gutter * 2);
+}
+
 .picture-item__inner {
   position: relative;
   height: 100%;

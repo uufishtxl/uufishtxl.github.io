@@ -19,23 +19,27 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Conceptual topics in API docs
     output: web, pdf
     folderitems:
 
-    - title: Conceptual topics
+    - title: Overview
       url: /api_conceptual_topics.html
       output: web, pdf
       type: homepage
 
-    - title: Subtitle1
-      url: 
+    - title: Getting Started
+      url: /api_conceptual_topics_getting_started.html
       output: web, pdf
 
-    - title: Subtitle2
-      url: 
+    - title: API authentication and authorization
+      url: /api_conceptual_topics_auth.html
       output: web, pdf
 
-    - title: Subtitle3
-      url: 
+    - title: API rate limiting and threshold
+      url: /api_conceptual_topics_rate_limit.html
+      output: web, pdf
+
+    - title: Code tutorial
+      url: /api_conceptual_topics_code_tutorial.html
       output: web, pdf

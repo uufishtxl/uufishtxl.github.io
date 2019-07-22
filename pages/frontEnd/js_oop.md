@@ -12,25 +12,17 @@ summary: Class-based programming in JavaScript
 # topnav: topnav
 ---
 
+OOP, also known as object-oriented programming
+
 ## Resources
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xoL6WvCARJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-## About OOP
-
-OOP, also known as object-oriented programming
-
-### Class
+## Class
 
 > It is the design or blurprint of any entity, which defines the core properties and functions.
 
-### Inheritance
-
-> In OOP, the meaning of inheritance is very close to its actual meaning in English.
-> 
-> ![inheritance](/img/oop_inheritance.png)
-
-### Object
+## Object
 
 > An object is an inheritance of a class which has physical existence.
 > 
@@ -40,15 +32,27 @@ OOP, also known as object-oriented programming
 > 
 > You, me, our friends, have physical existence, while class is just a logical definition.
 
-### Abstraction
+## Inheritance
+
+> In OOP, the meaning of inheritance is very close to its actual meaning in English.
+> 
+> ![inheritance](/img/oop_inheritance.png)
+
+
+## Abstraction
 
 > Abstraction means hiding the details from the outside world.
+> 
+> Get the details hidden from the outside world and take a 'skin' as the abstraction factor to hide the inside mechanism from the outside world.
+>
+>![abstraction](/img/oop_abstraction.png)
 
-### Encapsulation
+
+## Encapsulation
 
 > Encapsulation refers to binding properties with functions.
 
-### Polymorphism
+## Polymorphism
 
 > Polymorphism means "many forms". It allows us to define more than one way to do something., either by using a different proces sfor it or by using different parts to do it.
 > 
@@ -62,6 +66,8 @@ OOP, also known as object-oriented programming
 >             print "Walk using our hands"
 >             print "this is overloading"
 >     ```
+
+## A metaphor
 
 -   **class**: HumanBeing
 

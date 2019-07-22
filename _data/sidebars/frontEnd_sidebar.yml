@@ -19,11 +19,74 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: JavaScript Basics
+    output: web, pdf
+    folderitems:
+
+    - title: Variables
+      url: /js_variables.html
+      output: web, pdf
+      type: homepage
+
+    - title: Literals
+      url: /js_literals.html
+      output: web, pdf
+
+    - title: Methods
+      url: /js_methods.html
+      output: web, pdf   
+      
+    - title: Equals
+      url: /js_equals.html
+      output: web, pdf   
+
+    - title: Looping
+      url: /js_looping.html
+      output: web, pdf   
+
+    - title: Arrow function expression
+      url: /js_arrow_function.html
+      output: web, pdf   
+
+    - title: Concatenation
+      url: /js_concatenation.html
+      output: web, pdf  
+
+    - title: Control flow
+      url: /js_control_flow.html
+      output: web, pdf  
+
   - title: OOP in JavaScript
     output: web, pdf
     folderitems:
 
     - title: About OOP
       url: /js_oop.html
+      output: web, pdf
+      type: homepage
+
+    - title: Constructor functions
+      url: /js_oop_constructor_function.html
+      output: web, pdf
+
+  - title: DOM Manipulation
+    output: web, pdf
+    folderitems:
+
+    - title: DOM Basics
+      url: /js_dom_basics.html
+      output: web, pdf
+      type: homepage
+
+    - title: Get hands-on with DOM manipulation
+      url: /js_dom_hands-on.html
+      output: web, pdf 
+
+  - title: Terminology
+    output: web, pdf
+    folderitems:
+
+    - title: Terminology
+      url: /js_terminology.html
       output: web, pdf
       type: homepage

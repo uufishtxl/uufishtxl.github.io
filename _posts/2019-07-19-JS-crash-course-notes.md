@@ -39,7 +39,7 @@ The console prints out grapes as well. This, however, is not the best practice t
 
 Only use `const` unless you know you're going to reassign the value.
 
-## Simplification
+## Simplified concatenation
 
 Traditional way of concatenation:
 
@@ -292,7 +292,7 @@ See? Dropping the `i` variable, this expression is way more graceful.
 
 Recommended for any kind of itemration with arrays.
 
-> `forEach()` **calls a provided `callback` function once for each element  in any array** in ascending order. It is not invoked for index properties that have been deleted or are uninitialized (i.e. on sparse arrays).
+> `forEach()` **calls a provided `callback` function once for each element in any array** in ascending order. It is not invoked for index properties that have been deleted or are uninitialized (i.e. on sparse arrays).
 
 ```
 todos.forEach(function(todo) {
@@ -478,63 +478,7 @@ const addNums = (num1 = 1, num2 = 1) => num1 + num2;
 console.log(addNums(5,5));
 ```
 
-## About OOP
 
-OOP, also known as object-oriented programming
-
-### Class
-
-> It is the design or blurprint of any entity, which defines the core properties and functions.
-
-### Inheritance
-
-> In OOP, the meaning of inheritance is very close to its actual meaning in English.
-> 
-> ![inheritance](/img/oop_inheritance.png)
-
-### Object
-
-> An object is an inheritance of a class which has physical existence.
-> 
-> My name is *edith*, and I am an *object* of class *Female*.
-> 
-> HumanBeing, Male or Female, we just mean a type/kind.
-> 
-> You, me, our friends, have physical existence, while class is just a logical definition.
-
-### Abstraction
-
-> Abstraction means hiding the details from the outside world.
-
-### Encapsulation
-
-> Encapsulation refers to binding properties with functions.
-
-### Polymorphism
-
-> Polymorphism means "many forms". It allows us to define more than one way to do something., either by using a different proces sfor it or by using different parts to do it.
-> 
-> Polymorphism methods:
-> 
-> -   Overriding: Everyone walks in the direction of his face. If one walks while facing the other direction, this is overriding. When you change the mechanism of function, it is called "overriding"
-> -   Overloading: When we use our hands, not our legs, to walk, overloading occurs.
->     ```
->     class HumanBeing:
->         def walk(hands):
->             print "Walk using our hands"
->             print "this is overloading"
->     ```
-
--   **class**: HumanBeing
-
-    -   **Properties**: Body Parts
-        -   Hands
-        -   Legs
-        -   Eyes...
-    -   **Functions**: Body functions:
-        -   Walk()
-        -   Talk()
-        -   See()
 
 ## Termiology
 

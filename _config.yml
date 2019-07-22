@@ -133,3 +133,13 @@ defaults:
       search: true
       sidebar: api_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/frontEnd"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: frontEnd_sidebar
+      topnav: topnav

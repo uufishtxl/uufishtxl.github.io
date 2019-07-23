@@ -35,6 +35,6 @@ fruits[3] = 'grapes';
 console.log(fruits);
 ```
 
-The console prints out grapes as well. This, however, is not the best practice to add a value into an array. See [push](#push) for a more refined solution.
+The console prints out grapes as well. This, however, is not the best practice to add a value into an array. See [push](/js_methods.html#push) for a more refined solution.
 
 Only use `const` unless you know you're going to reassign the value.

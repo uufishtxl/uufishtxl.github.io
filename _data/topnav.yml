@@ -21,4 +21,4 @@ topnav_dropdowns:
         - title: Swagger editor
           external_url: https://editor.swagger.io/
         - title: Front-end programming
-          url: /js_oop.html
+          url: /js_variables.html

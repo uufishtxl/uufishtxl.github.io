@@ -63,7 +63,6 @@ entries:
     - title: About OOP
       url: /js_oop.html
       output: web, pdf
-      type: homepage
 
     - title: Constructor functions
       url: /js_oop_constructor_function.html
@@ -76,7 +75,6 @@ entries:
     - title: DOM Basics
       url: /js_dom_basics.html
       output: web, pdf
-      type: homepage
 
     - title: Get hands-on with DOM manipulation
       url: /js_dom_hands-on.html
@@ -89,4 +87,3 @@ entries:
     - title: Terminology
       url: /js_terminology.html
       output: web, pdf
-      type: homepage

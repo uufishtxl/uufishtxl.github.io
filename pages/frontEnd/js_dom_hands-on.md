@@ -78,16 +78,16 @@ btn.style.background = 'red';
 ```
 const btn = document.querySelector('.btn');
 
-btn.eventListener('click', (e) => {
+btn.addEventListener('click', (e) => {
   e.preventDefault();
-  console.log('click);
-})
+  console.log('click');
+});
 ```
 
 ## Add a class to an element upon an event
 
 -   Method: `addEventListener`
--   Property: `style` | `background`
+-   Property: `style` / `background`
 -   Method: `classList.add()`
 -   Property: `.lastElementChild.innerHTML`
 

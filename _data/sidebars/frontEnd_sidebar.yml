@@ -87,3 +87,23 @@ entries:
     - title: Terminology
       url: /js_terminology.html
       output: web, pdf
+
+  - title: p5.js
+    output: web, pdf
+    folderitems:
+
+    - title: p5.js
+      url: /p5_js.html
+      output: web, pdf
+
+  - title: API Interaction
+    output: web, pdf
+    folderitems:
+
+    - title: Image
+      url: /js_api_fetch_image.html
+      output: web, pdf
+
+    - title: Tabular data
+      url: /js_api_fetch_csv.html
+      output: web, pdf

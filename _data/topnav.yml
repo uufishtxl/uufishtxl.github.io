@@ -22,3 +22,5 @@ topnav_dropdowns:
           external_url: https://editor.swagger.io/
         - title: Front-end programming
           url: /js_variables.html
+        - title: 美式发音笔记
+          url: /eng.html

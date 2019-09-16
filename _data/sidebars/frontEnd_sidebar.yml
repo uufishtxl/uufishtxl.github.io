@@ -107,3 +107,27 @@ entries:
     - title: Tabular data
       url: /js_api_fetch_csv.html
       output: web, pdf
+
+    - title: JSON from REST API
+      url: /js_api_fetch_api.html
+      output: web, pdf
+
+  - title: Server-side with Node.js
+    output: web, pdf
+    folderitems:
+
+    - title: JavaScript with Node.js
+      url: /js_api_node_js.html
+      output: web, pdf
+
+    - title: Sever-side with Node.js
+      url: /js_api_node_geo.html
+      output: web, pdf
+
+    - title: Save to a Database
+      url: /js_api_node_database.html
+      output: web, pdf
+
+    - title: Address security issues using dotenv
+      url: /js_api_dotenv.html
+      output: web, pdf

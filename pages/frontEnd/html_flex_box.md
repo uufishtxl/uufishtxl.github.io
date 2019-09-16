@@ -11,4 +11,6 @@ summary: About the flexible box module
 # topnav: topnav
 ---
 
+## Flex Box
+
 <p>The <mark>Flexbox Layout</mark>

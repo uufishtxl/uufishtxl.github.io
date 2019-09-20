@@ -1,0 +1,33 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Vue.js
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 准备开始
+    output: web, pdf
+    folderitems:
+
+    - title: vue-cli脚手架和项目初始化
+      url: /vue_cli.html
+      output: web, pdf
+      type: homepage
+
+    - title: 初步认识项目文件夹
+      url: /vue_files_folders.html
+      output: web, pdf

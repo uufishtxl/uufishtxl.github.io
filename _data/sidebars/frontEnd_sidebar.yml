@@ -19,6 +19,35 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: 正则表达式
+    output: web, pdf
+    folderitems:
+
+    - title: 正则表达式
+      url: /js_reg_exp.html
+      output: web, pdf
+      type: homepage
+
+  - title: JS基础入门之运动
+    output: web, pdf
+    folderitems:
+
+    - title: JS基础入门之运动 - 1
+      url: /js_basics_motion_part1.html
+      output: web, pdf
+
+    - title: 位移运动
+      url: /js_basics_stretch.html
+      output: web, pdf
+
+  - title: ECMAScript 6
+    output: web, pdf
+    folderitems:
+
+    - title: let, const 和 var
+      url: /js_es6_let_const.html
+      output: web, pdf
+
   - title: JavaScript Basics
     output: web, pdf
     folderitems:
@@ -26,7 +55,6 @@ entries:
     - title: Variables
       url: /js_variables.html
       output: web, pdf
-      type: homepage
 
     - title: Literals
       url: /js_literals.html

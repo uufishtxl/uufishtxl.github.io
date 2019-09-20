@@ -169,6 +169,115 @@ They're hanging on by a thread.
 
 彼此彼此。（一般是处境不好 同病相怜）
 
+## The Devil Wears Prada - Part 4
+
+### Where are we on sth.
+
+某件事情的进度如何。
+
+Where are you on the trip planning?
+
+Where are we on the project?
+
+Where were we on the conversation? 我们刚才说到哪儿了？
+
+### for crying out loud
+
+可以单用，可以用在句子里，表示“搞什么名堂啊”（不耐烦的一种表现），或者“哎呀”（生气的叹词）
+
+### You are in business
+
+You need a pair of heels, then you are in business.
+
+就搞定了...就齐活了...就准备就绪了...
+
+
+### chic / stylish
+
+You look so chic today. 你今天看起来真美。
+
+stylish说男士，有型。
+
+Learning Italian is starting to lose its chic factor. 学习意大利语开始失去新鲜感了。
+
+### The decision is yours.
+
+决定权在你。
+
+现在更多的人说：The choice is yours.
+
+或者说：Up to you.
+
+### You don't deserve them.
+
+你不配得到这些。
+
+He doesn't deserve that promotion.
+
+You deserve that. 你活该。
+
+## The Devil Wears Prada - Part 5
+
+### put up sb for sth
+
+She puts me up for it.
+
+是她推荐我的。
+
+也有忍受的意思：I don't know how you put up with it. (房间这么乱)，你是怎么忍受的。
+
+### call the shots
+
+自己做主
+
+I call the shots here.
+
+这里，我做主。
+
+Just give it your best shot.  尽你最大的努力吧！
+
+Nice shot! 好球！
+
+Take a shot！  / Give it a shot！ 试试吧！
+
+Let's take a shot! 让我们干杯吧！
+
+### not agree with sb.
+
+I love strawberries, but they don't agree with me.
+
+我喜欢草莓。但是吃了总感觉不舒服。
+
+### split up with sb...
+
+Nate and I just split up a couple days ago.
+
+几天前 Nate 刚和我分手。
+
+也可以用break up
+
+<mark> split 也可以作分开付钱的意思</mark> We'd like to split the bill.
+
+### lost one's mind
+
+Have you completely lost your mind?
+
+你是不是疯了？
+
+### time is right / pay back..
+
+When time is right, she'll pay me back.
+
+时机一到，她会报答我的。
+
+
+
+
+
+
+
+
+###
 
 
 

@@ -143,3 +143,13 @@ defaults:
       search: true
       sidebar: frontEnd_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/vue"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: vue_sidebar
+      topnav: topnav

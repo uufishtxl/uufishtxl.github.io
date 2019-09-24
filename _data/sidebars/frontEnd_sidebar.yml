@@ -40,6 +40,14 @@ entries:
       url: /js_basics_stretch.html
       output: web, pdf
 
+    - title: 透明度改变 / 多div框宽度伸缩
+      url: /js_animation_encapsulation.html
+      output: web, pdf
+
+    - title: 轮播框的制作
+      url: /js_loop.html
+      output: web, pdf
+
   - title: ECMAScript 6
     output: web, pdf
     folderitems:

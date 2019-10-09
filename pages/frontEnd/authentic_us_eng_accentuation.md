@@ -271,13 +271,88 @@ When time is right, she'll pay me back.
 时机一到，她会报答我的。
 
 
+## The Devil Wears Prada - Part 6
+
+### jump at
+
+She jumped at it. 她为此雀跃不已。
+
+### get ahead
+
+超过别人
+
+The best way to get ahead is through hard work.
+ 
+### Don't be rediculous
+
+别傻了，别逗了。
+
+Don't be ridiculous. Of course I love you.
+
+### turn one's back on sb/sth
+
+拒绝、不理睬、放弃了某些事/某些人
+
+I never turn my back on my friends.
+
+我对朋友从来都是真心实意。
+
+### figure something out
+
+We might be able to figure something out.
+
+我们会有办法的。
+
+### I have a favor to ask you.
+
+我有件事想请你帮忙。
+
+类似的表达：Can you **give me a hand**?
+
+### It's a huge imposition.
+
+这可真是强人所难。
+
+### You have some very big/large shoes to fill.
+
+接替别人，你要学的东西可多着。
 
 
+## Lalaland - Part I
 
+### Money is running low.
 
+囊中羞涩。
 
+The car's almost out of gas.
 
-###
+车快没油了。
+
+### She was completely wrecked.
+
+她已经酩酊大醉了。
+
+微醺 tipsy - I feel a little tipsy.
+
+醉了 drunk - I'm drunk.
+
+### What's your problem.
+
+你有病吧！
+
+### On us!
+
+我们请客！
+
+### How did your trip go?
+
+你玩得开心吗？
+
+### Same here.
+
+还是老样子。
+
+也有“我也是”的意思。
 
 
 

@@ -34,4 +34,6 @@ Cease negative mental chattering. - If you think a thing is impossible, you'll m
 
 The successful man 降 will profit from his mistakes and try again in a different way.
 
+It is the nature of man to rise to greatness if greatness is expected of him.
 
+Live as if you were to die tomorrow. Learn as if you were to live forever.

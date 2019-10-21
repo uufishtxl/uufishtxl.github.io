@@ -1030,7 +1030,88 @@ We should head to the cinema early.
 
 我觉得我应该置身事外。
 
-sit this one out 这次我就不参加了。
+sit this one out 这次就不参加
+
+### 摘金奇缘
+
+### in my way
+
+挡路了
+
+### I have to fly in to Shenzhen to talk them down.
+
+talke sb. down...
+
+稳住某个人...
+
+### I know you are having an affair.
+
+cheat on sb. 也有出轨的意思，但是不是特指夫妻之间
+
+have an affair 则是夫妻之间的出轨
+
+### I don't want to make a scene.
+
+make a scene 当众大吵大闹
+
+### As if every minute of my life I'm not reminded of it.
+
+就像自己每一分钟都没被提醒到这一点。
+
+### She'll be at the back somewhere laying low.
+
+她可能在后面坐着，保持低调呢。
+
+keep a low profile 保持低姿态
+
+### You'll get through this.
+
+你会挺过去的。
+
+## 摘金奇缘 - Part 6
+
+### I'll leave all of this behind.
+
+我将抛弃这一切。
+
+got left behind 
+
+I got left behind in maths. 我数学成绩很落后。
+
+### He said he'll walk away from his family and from you for good.
+
+walk away from: 离开
+
+I really want to walk away from this job.
+
+Just walk away. 走吧，别管了。
+
+You should walk away from John. 你应该远离John。
+
+for good 永远（比forever更口语一点）
+
+### It's not just my fault that things didn't work out.
+
+work out...事情成功的发展/想出解决的办法/锻炼
+
+The project didn't work out as planned. We need to work out a solution.
+
+### You're right. I shouldn't have kept things from you.
+
+keep things from sb. 对某人隐瞒某件事情
+
+### You give up on us.
+
+你放弃了我们。
+
+give up on 对某件事情感到绝望。
+
+Never give up on yourself. 不要放弃自己。
+
+### I'm right behind you. Don't mind me.
+
+Don't mind me. 我没事/别管我/别在意我。
+
 
 
 

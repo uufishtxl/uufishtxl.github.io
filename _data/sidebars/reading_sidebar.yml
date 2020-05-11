@@ -1,0 +1,41 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 爱在瘟疫蔓延时...
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Day 1 - 7
+    output: web, pdf
+    folderitems:
+
+    - title: Day 1 (May 8th)
+      url: /r_cholera_d1.html
+      output: web, pdf
+      type: homepage
+
+    - title: Day 2 (May 9th)
+      url: /r_cholera_d2.html
+      output: web, pdf
+
+    - title: Day 3 (May 10th)
+      url: /r_cholera_d3.html
+      output: web, pdf
+
+    - title: Day 4 (May 11th)
+      url: /r_cholera_d4.html
+      output: web, pdf

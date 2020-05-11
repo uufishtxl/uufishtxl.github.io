@@ -1,0 +1,114 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Help Message Hub
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Game
+    output: web, pdf
+    folderitems:
+
+    - title: Game
+      url: /osd_game.html
+      output: web, pdf
+      type: homepage
+
+    - title: Preset Modes
+      url: /osd_game_preset.html
+      output: web, pdf
+
+    - title: Game Enhance Mode
+      url: /osd_game_enhance.html
+      output: web, pdf
+
+  - title: Brightness/Contrast
+    output: web, pdf
+    folderitems:
+
+    - title: Brightness/Contrast
+      url: /osd_brightness.html
+      output: web, pdf
+      type: homepage
+
+  - title: Input Source
+    output: web, pdf
+    folderitems:
+
+    - title: Input Source
+      url: /osd_input.html
+      output: web, pdf
+      type: homepage
+
+  - title: Display
+    output: web, pdf
+    folderitems:
+
+    - title: Display
+      url: /osd_display.html
+      output: web, pdf
+      type: homepage
+
+  - title: Audio
+    output: web, pdf
+    folderitems:
+
+    - title: Audio
+      url: /osd_audio.html
+      output: web, pdf
+      type: homepage
+
+  - title: Menu
+    output: web, pdf
+    folderitems:
+
+    - title: Menu
+      url: /osd_menu.html
+      output: web, pdf
+      type: homepage
+
+  - title: Personalize
+    output: web, pdf
+    folderitems:
+
+    - title: Personalize
+      url: /osd_personalize.html
+      output: web, pdf
+      type: homepage
+
+  - title: Others
+    output: web, pdf
+    folderitems:
+
+    - title: Others
+      url: /osd_others.html
+      output: web, pdf
+      type: homepage
+
+  - title: Button Lock & Diagnostics
+    output: web, pdf
+    folderitems:
+
+    - title: Button Lock & Unlock
+      url: /osd_misc_lock.html
+      output: web, pdf
+      type: homepage
+
+    - title: Built-in Diagnostics
+      url: /osd_misc_diagnostics.html
+      output: web, pdf
+

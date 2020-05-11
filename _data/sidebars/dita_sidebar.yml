@@ -1,0 +1,50 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: DITA
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: DITA Basics
+    output: web, pdf
+    folderitems:
+
+    - title: DITA Basics
+      url: /dita_basics.html
+      output: web, pdf
+      type: homepage
+
+    - title: DITA Workflow
+      url: /dita_workflow.html
+      output: web, pdf
+
+  - title: Topics
+    output: web, pdf
+    folderitems:
+
+    - title: topicset
+      url: /dita_topicset.html
+      output: web, pdf
+  
+  - title: Reusing Content
+    output: web, pdf
+    folderitems:
+
+    - title: Reusing Content
+      url: /dita_reuse.html
+      output: web, pdf
+

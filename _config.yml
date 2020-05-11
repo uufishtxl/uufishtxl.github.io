@@ -153,3 +153,33 @@ defaults:
       search: true
       sidebar: vue_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/dita"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: dita_sidebar
+      topnav: topnav
+
+  -
+    scope:
+      path: "pages/osd"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: osd_s2721dgf_sidebar
+      topnav: topnav
+
+  -
+    scope:
+      path: "pages/love_cholera"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: reading_sidebar
+      topnav: topnav

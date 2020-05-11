@@ -12,6 +12,10 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+    - title: Mint Reading
+      folderitems:
+        - title: Love in the Time of Cholera
+          url: /r_cholera_d1.html
     - title: Tutorials
       folderitems:
         - title: Tom's tutorial
@@ -26,3 +30,7 @@ topnav_dropdowns:
           url: /vue_cli.html
         - title: 美式发音笔记
           url: /eng_spoken.html
+        - title: DITA
+          url: /dita_basics.html
+        - title: OSD Temporal Help
+          url: /osd_game.html

@@ -39,3 +39,15 @@ entries:
     - title: Day 4 (May 11th)
       url: /r_cholera_d4.html
       output: web, pdf
+
+    - title: Day 5 (May 12th)
+      url: /r_cholera_d5.html
+      output: web, pdf
+
+    - title: Day 6 (May 13th)
+      url: /r_cholera_d6.html
+      output: web, pdf
+
+    - title: Day 7 (May 14th)
+      url: /r_cholera_d7.html
+      output: web, pdf

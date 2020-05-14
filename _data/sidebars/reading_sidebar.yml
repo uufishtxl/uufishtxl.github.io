@@ -51,3 +51,35 @@ entries:
     - title: Day 7 (May 14th)
       url: /r_cholera_d7.html
       output: web, pdf
+
+  - title: Day 8 - 14
+    output: web, pdf
+    folderitems:
+
+    - title: Day 8 (May 15th)
+      url: /r_cholera_d8.html
+      output: web, pdf
+
+    - title: Day 9 (May 16th)
+      url: /r_cholera_d9.html
+      output: web, pdf
+
+    - title: Day 10 (May 17th)
+      url: /r_cholera_d10.html
+      output: web, pdf
+
+    - title: Day 11 (May 18th)
+      url: /r_cholera_d11.html
+      output: web, pdf
+
+    - title: Day 12 (May 19th)
+      url: /r_cholera_d12.html
+      output: web, pdf
+
+    - title: Day 13 (May 20th)
+      url: /r_cholera_d13.html
+      output: web, pdf
+
+    - title: Day 14 (May 21th)
+      url: /r_cholera_d14.html
+      output: web, pdf

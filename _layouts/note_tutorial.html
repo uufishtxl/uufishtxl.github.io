@@ -13,6 +13,19 @@ a.tag_tutorial:hover {
     color: #ffffff;
     background-color: #248ec2;
 }
+
+span.hili {
+            display: inline-block;
+            color: #eee;
+            background-color: skyblue;
+            border: 1px solid #eee;
+            padding: 5px 10px;
+            margin-left: 10px;
+            font-size: 8px;
+            line-height: 1;
+            cursor: pointer;
+            font-style: normal;
+        }
 </style>
 <div class="post-header">
    <h1 class="post-title-main">{{ page.title }}</h1>
@@ -94,3 +107,22 @@ a.tag_tutorial:hover {
 <!-- {{site.data.alerts.hr_shaded}} -->
 <link rel="stylesheet" href="{{ "/css/font-awesome.min.css" }}">
 {% include footer.html %}
+
+<script>
+    var btns = document.getElementsByClassName('hili');
+
+        for (let i = 0; i < btns.length; i++) {
+            btns[i].onclick = function() {stylePara(btns[i].parentElement, "beige", "#fff", btns[i])};
+        }
+
+
+        function stylePara (obj, bg1, bg2, btn) {
+            if (obj.style.backgroundColor == bg1) {
+                btn.innerText = "Highlight";
+                obj.style.backgroundColor = bg2
+            } else {
+                btn.innerText = "Restore"
+                obj.style.backgroundColor = bg1;
+            }
+        }
+</script>

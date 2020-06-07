@@ -147,3 +147,35 @@ entries:
     - title: Day 28 (June 4th)
       url: /r_cholera_d28.html
       output: web, pdf
+
+  - title: Day 29 - 35
+    output: web, pdf
+    folderitems:
+
+    - title: Day 29 (June 5th)
+      url: /r_cholera_d29.html
+      output: web, pdf
+
+    - title: Day 30 (June 6th)
+      url: /r_cholera_d30.html
+      output: web, pdf
+
+    - title: Day 31 (June 7th)
+      url: /r_cholera_d31.html
+      output: web, pdf
+
+    - title: Day 32 (June 8th)
+      url: /r_cholera_d32.html
+      output: web, pdf
+
+    - title: Day 33 (June 9th)
+      url: /r_cholera_d33.html
+      output: web, pdf
+
+    - title: Day 34 (June 10th)
+      url: /r_cholera_d34.html
+      output: web, pdf
+
+    - title: Day 35 (June 11th)
+      url: /r_cholera_d35.html
+      output: web, pdf

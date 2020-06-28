@@ -108,43 +108,69 @@ tags:
 
 #### Laughed yourself into stitches
 
+*笑破了肚皮*
+
 #### Too much of a good thing
+
+*the fact that something pleasant becomes unpleasant because you have or do too much of it*
 
 #### Cold comfort
 
+*When being told a particular thing about a bad situation is cold comfort, it does not make you feel better although it is intended to.*
+
 #### Seen better days
+
+*走过运*
 
 #### Fool's paradise
 
+**live in a fool's paradise** *: to be happy because you do not know or will not accept how bad a situation really is*
+
 #### More fool you
+
+**More fool sb** *:said to mean that you think someone is being unwise*
+
+"I lent Rhoda £100 and she hasn't paid me back." "More fool you - you know what she's like!"
 
 #### Foregone conclusion
 
-#### As good luck would have It
+*a result that is obvious to everyone even before it happens*
+
+> The result of the election seems to be a foregone conclusion.
+
+#### As good luck would have it
+
+*used to say that something happened because of good or bad luck*
+
+> Our car broke down on the road, but as luck would have it, there was a garage nearby.
 
 #### It's early days
 
+*said when you think it is too soon to make a judgment about the likely result of something because a lot might still happen or change*
+
 #### Clear out bag and baggage
 
-High time
+***bag and baggage*** *All of one's belongings, especially with reference to departing with them;*
 
-Long and short of It
+#### High time
 
-Game is up
+#### Long and short of It
 
-Truth will out
+#### Game is up
 
-Own flesh and blood
+#### Truth will out
 
-Lie low
+#### Own flesh and blood
 
-Crack of doom
+#### Lie low
 
-Teeth set on edge
+#### Crack of doom
 
-One fell swoop
+#### Teeth set on edge
 
-Without rhyme or reason
+#### One fell swoop
+
+#### Without rhyme or reason
 
 Give the devil his due
 

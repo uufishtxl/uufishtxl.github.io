@@ -31,3 +31,19 @@ entries:
     - title: 初步认识项目文件夹
       url: /vue_files_folders.html
       output: web, pdf
+
+  - title: Vue.js笔记
+    output: web, pdf
+    folderitems:
+
+    - title: Part 1
+      url: /vue_note_p1.html
+      output: web, pdf
+
+    - title: Computed Properties 计算属性
+      url: /vue_note_computed.html
+      output: web, pdf
+
+    - title: v-bind 及 class 与 style 的绑定
+      url: /vue_note_directive_bind.html
+      output: web, pdf

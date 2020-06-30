@@ -47,3 +47,35 @@ entries:
     - title: v-bind 及 class 与 style 的绑定
       url: /vue_note_directive_bind.html
       output: web, pdf
+
+    - title: 内置指令
+      url: /vue_note_directive_bind_builtin.html
+      output: web, pdf
+
+  - title: 表单与 v-model
+    output: web, pdf
+    folderitems:
+
+    - title: 基本用法
+      url: /vue_v_model_basics.html
+      output: web, pdf
+
+    - title: 绑定值
+      url: /vue_v_model_bind_value.html
+      output: web, pdf
+
+    - title: 修饰符
+      url: /vue_v_model_modifier.html
+      output: web, pdf
+
+  - title: 组件详解
+    output: web, pdf
+    folderitems:
+
+    - title: 组件与复用
+      url: vue_components_basics.html
+      output: web, pdf
+
+    - title: 使用 props 传递数据
+      url: vue_components_props.html
+      output: web, pdf

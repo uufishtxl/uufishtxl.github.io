@@ -79,3 +79,7 @@ entries:
     - title: 使用 props 传递数据
       url: vue_components_props.html
       output: web, pdf
+
+    - title: 组件通信
+      url: vue_components_comm.html
+      output: web, pdf

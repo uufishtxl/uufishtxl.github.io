@@ -12,6 +12,7 @@ summary:
 ## Words
 
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.commiseration}}">`commiseration`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.stigma}}">`stigma`</b>
 
 
 

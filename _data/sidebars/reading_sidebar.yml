@@ -19,6 +19,14 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Review
+    output: web, pdf
+    folderitems:
+
+    - title: Review
+      url: /r_cholera_review.html
+      output: web, pdf
+
   - title: Day 01 - 07
     output: web, pdf
     folderitems:

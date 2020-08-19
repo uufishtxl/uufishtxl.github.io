@@ -14,12 +14,73 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.enervated}}">`enervated | pale and enervated`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.exorcism}}">`exorcism | bitter exorcism`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.shoddy}}">`shoddy`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.puerile}}">`puerile`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.tenacious}}">`tenacious`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.pretentious}}">`pretentious`</b>
+pretension
 
 
 
 ## Expressions
 
 ### 2020/08/14
+
+#### 27
+
+- But there were many clients who came every Sunday to <b data-toggle="tooltip" data-original-title="{{site.data.answers.27_h}}">`________(为...争抢)`</b> the telescope for the pure delight of tasting the insipid forbidden fruits of the walled area that was <b data-toggle="tooltip" data-original-title="{{site.data.answers.27_h2}}">`________(阻碍了他们)`</b>.
+
+#### 29
+
+- She made a long and detailed tour with no planned itinerary, stopping with no other motive than <b data-toggle="tooltip" data-original-title="{{site.data.answers.29_b}}">`________(她沉浸在事物本身不慌不忙的喜悦中)`</b>.
+
+- She turned her head and saw, <b data-toggle="tooltip" data-original-title="{{site.data.answers.29_h}}">`________(在她眼前一只手的距离开外)`</b>, those other glacial eyes, that livid face, those lips petrified with fear, just as she had seen them in the crowd at Midnight Mass the first time he was so close to her.
+
+#### 36
+
+ -  At first glance it seemed impossible that her cousin could have been on the verge of madness because of that almost invisible clerk <b data-toggle="tooltip" data-original-title="{{site.data.answers.36_i}}">`________(神态活像一条挨了打的狗)`</b>, whose clothing, <b data-toggle="tooltip" data-original-title="{{site.data.answers.36_i2}}">`________(像落难的犹太教士)`</b>, and whose solemn manner could not perturb anyone's heart.
+
+#### 41
+
+- Then he felt alone in the world, and the memory of Fermina Daza, <b data-toggle="tooltip" data-original-title="{{site.data.answers.41_h}}">`________(藏在暗中)`</b> in recent days, <b data-toggle="tooltip" data-original-title="{{site.data.answers.41_h2}}">`________(给了他致命的一击)`</b>.
+
+#### 44
+
+- Trasito Ariza knew that world, although this was the only time it caused her suffering <b data-toggle="tooltip" data-original-title="{{site.data.answers.44_l}}">`________(本人/亲自)`</b>.
+
+#### 46
+
+- Laferrière seemed less pretentious and voracious to her, but her wise decision was to buy her <b data-toggle="tooltip" data-original-title="{{site.data.answers.46_j}}">`________(她最喜欢的东西)`</b> in the secondhand shops, although her husband swore in dismay that it was corpses's clothing.
+
+
+#### 47
+
+- But he was not <b data-toggle="tooltip" data-original-title="{{site.data.answers.47_h}}">`________(一个涉世未深的人)`</b>, either: everyone who crossed his path suffered the consequences of the overwhelming determination, capable of anything, that <b data-toggle="tooltip" data-original-title="{{site.data.answers.47_h2}}">`________(藏在他那无助的外表下)`</b>.
+
+#### 48
+
+- His mother had spoken of him as a great man with no <b data-toggle="tooltip" data-original-title="{{site.data.answers.48_f}}">`________(商业使命感)`</b>.
+
+#### 50
+
+- On the other hand, Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.50_b}}">`________(沉迷于...)`</b> the charms of nudity, and she removed his clothes with sure delight as soon as she closed the door.
+
+#### 53
+
+- She had moved on in life and was <b data-toggle="tooltip" data-original-title="{{site.data.answers.53_b}}">`________([生命历程]已经走到了他的前面，尽管他原来比她年长了20岁)`</b>: she had grown too old for him.
+
+#### 54
+
+- The bad ones were those in the lugubrious restaurants along the waterfront, where one was as likely to eat like a king as to die a sudden death at the table, sitting before a plate of rat meat with sunflowers, and which were thought to be nothing more than <b data-toggle="tooltip" data-original-title="{{site.data.answers.54_d}}">`________(掩盖白人奴隶交易的人)`</b> and many other kinds of <b data-toggle="tooltip" data-original-title="{{site.data.answers.54_d2}}">`________(非法买卖)`</b>.
+
+#### 66
+
+- She, on the other hand, <b data-toggle="tooltip" data-original-title="{{site.data.answers.66_g}}">`________(待他以礼节)`</b> and never made the slightest gestures that might allow him to suspect that she remembered him from her unmarried years.
+
+#### 68
+
+- When she made her rash decision, she told her children that she was going to <b data-toggle="tooltip" data-original-title="{{site.data.answers.68_d}}">`________(换换环境)`</b> for three months or so with Aunt Hildebranda, but her determination was not to return.
+
+- That frightening faculty, which could just <b data-toggle="tooltip" data-original-title="{{site.data.answers.68_f}}">`________(也许源自于千年积累的智慧，也许出于一副铁石心肠)`</b>, met its moment of misfortune one ill-fated Sunday before Mass.
 
 #### 69
 
@@ -41,7 +102,7 @@ summary:
 
 - She said: "You do that only when you are looking for someone to cry with." Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.82_f}}">`________(缴械投降)`</b>.
 
-#### #84
+#### 84
 
 - She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.84_i}}">`________(加强她的嗅觉、提高她的手腕)`</b> so that she could <b data-toggle="tooltip" data-original-title="{{site.data.answers.84_i2}}">`________(找出)`</b> the miserable whore who had ruined her life.
 

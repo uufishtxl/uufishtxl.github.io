@@ -12,10 +12,12 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Mint Reading
+    - title: Reading
       folderitems:
         - title: Love in the Time of Cholera
           url: /r_cholera_d1.html
+        - title: CNET
+          url: /cnet_071.html
     - title: Tutorials
       folderitems:
         - title: Tom's tutorial

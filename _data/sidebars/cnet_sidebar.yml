@@ -1,0 +1,33 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: CNET Reading
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 071 - 065
+    output: web, pdf
+    folderitems:
+
+    - title: Article 70
+      url: /cnet_070.html
+      output: web, pdf
+
+    - title: Article 71
+      url: /cnet_071.html
+      output: web, pdf
+      type: homepage

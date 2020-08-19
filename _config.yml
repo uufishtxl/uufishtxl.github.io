@@ -183,3 +183,13 @@ defaults:
       search: true
       sidebar: reading_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/cnet"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: cnet_sidebar
+      topnav: topnav

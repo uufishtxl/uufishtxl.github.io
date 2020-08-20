@@ -16,6 +16,8 @@ topnav_dropdowns:
       folderitems:
         - title: Love in the Time of Cholera
           url: /r_cholera_d1.html
+        - title: Pride & Prejudice
+          url: /r_pp_d1.html
         - title: CNET
           url: /cnet_071.html
     - title: Tutorials

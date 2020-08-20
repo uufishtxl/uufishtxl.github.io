@@ -193,3 +193,13 @@ defaults:
       search: true
       sidebar: cnet_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/prdpjd"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: pp_sidebar
+      topnav: topnav

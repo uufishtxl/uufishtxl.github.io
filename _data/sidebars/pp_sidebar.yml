@@ -1,0 +1,489 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 傲慢与偏见
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Review
+    output: web, pdf
+    folderitems:
+
+    - title: Review
+      url: /r_cholera_review.html
+      output: web, pdf
+
+  - title: Day 01 - 07
+    output: web, pdf
+    folderitems:
+
+    - title: Day 01 (Aug 20th)
+      url: /r_pp_d1.html
+      output: web, pdf
+      type: homepage
+
+    - title: Day 02 (May 9th)
+      url: /r_cholera_d2.html
+      output: web, pdf
+
+    - title: Day 03 (May 10th)
+      url: /r_cholera_d3.html
+      output: web, pdf
+
+    - title: Day 04 (May 11th)
+      url: /r_cholera_d4.html
+      output: web, pdf
+
+    - title: Day 05 (May 12th)
+      url: /r_cholera_d5.html
+      output: web, pdf
+
+    - title: Day 06 (May 13th)
+      url: /r_cholera_d6.html
+      output: web, pdf
+
+    - title: Day 07 (May 14th)
+      url: /r_cholera_d7.html
+      output: web, pdf
+
+  - title: Day 08 - 14
+    output: web, pdf
+    folderitems:
+
+    - title: Day 08 (May 15th)
+      url: /r_cholera_d8.html
+      output: web, pdf
+
+    - title: Day 09 (May 16th)
+      url: /r_cholera_d9.html
+      output: web, pdf
+
+    - title: Day 10 (May 17th)
+      url: /r_cholera_d10.html
+      output: web, pdf
+
+    - title: Day 11 (May 18th)
+      url: /r_cholera_d11.html
+      output: web, pdf
+
+    - title: Day 12 (May 19th)
+      url: /r_cholera_d12.html
+      output: web, pdf
+
+    - title: Day 13 (May 20th)
+      url: /r_cholera_d13.html
+      output: web, pdf
+
+    - title: Day 14 (May 21th)
+      url: /r_cholera_d14.html
+      output: web, pdf
+
+  - title: Day 15 - 21
+    output: web, pdf
+    folderitems:
+
+    - title: Day 15 (May 22th)
+      url: /r_cholera_d15.html
+      output: web, pdf
+
+    - title: Day 16 (May 23th)
+      url: /r_cholera_d16.html
+      output: web, pdf
+
+    - title: Day 17 (May 24th)
+      url: /r_cholera_d17.html
+      output: web, pdf
+
+    - title: Day 18 (May 25th)
+      url: /r_cholera_d18.html
+      output: web, pdf
+
+    - title: Day 19 (May 26th)
+      url: /r_cholera_d19.html
+      output: web, pdf
+
+    - title: Day 20 (May 27th)
+      url: /r_cholera_d20.html
+      output: web, pdf
+
+    - title: Day 21 (May 28th)
+      url: /r_cholera_d21.html
+      output: web, pdf
+
+  - title: Day 22 - 28
+    output: web, pdf
+    folderitems:
+
+    - title: Day 22 (May 29th)
+      url: /r_cholera_d22.html
+      output: web, pdf
+
+    - title: Day 23 (May 30th)
+      url: /r_cholera_d23.html
+      output: web, pdf
+
+    - title: Day 24 (May 31th)
+      url: /r_cholera_d24.html
+      output: web, pdf
+
+    - title: Day 25 (June 1st)
+      url: /r_cholera_d25.html
+      output: web, pdf
+
+    - title: Day 26 (June 2nd)
+      url: /r_cholera_d26.html
+      output: web, pdf
+
+    - title: Day 27 (June 3rd)
+      url: /r_cholera_d27.html
+      output: web, pdf
+
+    - title: Day 28 (June 4th)
+      url: /r_cholera_d28.html
+      output: web, pdf
+
+  - title: Day 29 - 35
+    output: web, pdf
+    folderitems:
+
+    - title: Day 29 (June 5th)
+      url: /r_cholera_d29.html
+      output: web, pdf
+
+    - title: Day 30 (June 6th)
+      url: /r_cholera_d30.html
+      output: web, pdf
+
+    - title: Day 31 (June 7th)
+      url: /r_cholera_d31.html
+      output: web, pdf
+
+    - title: Day 32 (June 8th)
+      url: /r_cholera_d32.html
+      output: web, pdf
+
+    - title: Day 33 (June 9th)
+      url: /r_cholera_d33.html
+      output: web, pdf
+
+    - title: Day 34 (June 10th)
+      url: /r_cholera_d34.html
+      output: web, pdf
+
+    - title: Day 35 (June 11th)
+      url: /r_cholera_d35.html
+      output: web, pdf
+
+  - title: Day 36 - 42
+    output: web, pdf
+    folderitems:
+
+    - title: Day 36 (June 12th)
+      url: /r_cholera_d36.html
+      output: web, pdf
+
+    - title: Day 37 (June 13th)
+      url: /r_cholera_d37.html
+      output: web, pdf
+
+    - title: Day 38 (June 14th)
+      url: /r_cholera_d38.html
+      output: web, pdf
+
+    - title: Day 39 (June 15th)
+      url: /r_cholera_d39.html
+      output: web, pdf
+
+    - title: Day 40 (June 16th)
+      url: /r_cholera_d40.html
+      output: web, pdf
+
+    - title: Day 41 (June 17th)
+      url: /r_cholera_d41.html
+      output: web, pdf
+
+    - title: Day 42 (June 18th)
+      url: /r_cholera_d42.html
+      output: web, pdf
+
+  - title: Day 43 - 49
+    output: web, pdf
+    folderitems:
+
+    - title: Day 43 (June 19th)
+      url: /r_cholera_d43.html
+      output: web, pdf
+
+    - title: Day 44 (June 20th)
+      url: /r_cholera_d44.html
+      output: web, pdf
+
+    - title: Day 45 (June 21st)
+      url: /r_cholera_d45.html
+      output: web, pdf
+
+    - title: Day 46 (June 22nd)
+      url: /r_cholera_d46.html
+      output: web, pdf
+
+    - title: Day 47 (June 23rd)
+      url: /r_cholera_d47.html
+      output: web, pdf
+
+    - title: Day 48 (June 24th)
+      url: /r_cholera_d48.html
+      output: web, pdf
+
+    - title: Day 49 (June 25th)
+      url: /r_cholera_d49.html
+      output: web, pdf
+
+  - title: Day 50 - 56
+    output: web, pdf
+    folderitems:
+
+    - title: Day 50 (June 26th)
+      url: /r_cholera_d50.html
+      output: web, pdf
+
+    - title: Day 51 (June 27th)
+      url: /r_cholera_d51.html
+      output: web, pdf
+
+    - title: Day 52 (June 28th)
+      url: /r_cholera_d52.html
+      output: web, pdf
+
+    - title: Day 53 (June 29th)
+      url: /r_cholera_d53.html
+      output: web, pdf
+
+    - title: Day 54 (June 30th)
+      url: /r_cholera_d54.html
+      output: web, pdf
+
+    - title: Day 55 (July 1st)
+      url: /r_cholera_d55.html
+      output: web, pdf
+
+    - title: Day 56 (July 2nd)
+      url: /r_cholera_d56.html
+      output: web, pdf
+  
+  - title: Day 57 - 63
+    output: web, pdf
+    folderitems:
+
+    - title: Day 57 (July 3rd)
+      url: /r_cholera_d57.html
+      output: web, pdf
+
+    - title: Day 58 (July 4th)
+      url: /r_cholera_d58.html
+      output: web, pdf
+
+    - title: Day 59 (July 5th)
+      url: /r_cholera_d59.html
+      output: web, pdf
+
+    - title: Day 60 (July 6th)
+      url: /r_cholera_d60.html
+      output: web, pdf
+
+    - title: Day 61 (July 7th)
+      url: /r_cholera_d61.html
+      output: web, pdf
+
+    - title: Day 62 (July 8th)
+      url: /r_cholera_d62.html
+      output: web, pdf
+
+    - title: Day 63 (July 9th)
+      url: /r_cholera_d63.html
+      output: web, pdf
+
+  - title: Day 64 - 70
+    output: web, pdf
+    folderitems:
+
+    - title: Day 64 (July 10th)
+      url: /r_cholera_d64.html
+      output: web, pdf
+
+    - title: Day 65 (July 11th)
+      url: /r_cholera_d65.html
+      output: web, pdf
+
+    - title: Day 66 (July 12th)
+      url: /r_cholera_d66.html
+      output: web, pdf
+
+    - title: Day 67 (July 13th)
+      url: /r_cholera_d67.html
+      output: web, pdf
+
+    - title: Day 68 (July 14th)
+      url: /r_cholera_d68.html
+      output: web, pdf
+
+    - title: Day 69 (July 15th)
+      url: /r_cholera_d69.html
+      output: web, pdf
+
+    - title: Day 70 (July 16th)
+      url: /r_cholera_d70.html
+      output: web, pdf
+
+  - title: Day 71 - 77
+    output: web, pdf
+    folderitems:
+
+    - title: Day 71 (July 17th)
+      url: /r_cholera_d71.html
+      output: web, pdf
+
+    - title: Day 72 (July 18th)
+      url: /r_cholera_d72.html
+      output: web, pdf
+
+    - title: Day 73 (July 19th)
+      url: /r_cholera_d73.html
+      output: web, pdf
+
+    - title: Day 74 (July 20th)
+      url: /r_cholera_d74.html
+      output: web, pdf
+
+    - title: Day 75 (July 21st)
+      url: /r_cholera_d75.html
+      output: web, pdf
+
+    - title: Day 76 (July 22nd)
+      url: /r_cholera_d76.html
+      output: web, pdf
+
+    - title: Day 77 (July 23rd)
+      url: /r_cholera_d77.html
+      output: web, pdf
+
+  - title: Day 78 - 84
+    output: web, pdf
+    folderitems:
+
+    - title: Day 78 (July 24th)
+      url: /r_cholera_d78.html
+      output: web, pdf
+
+    - title: Day 79 (July 25th)
+      url: /r_cholera_d79.html
+      output: web, pdf
+
+    - title: Day 80 (July 26th)
+      url: /r_cholera_d80.html
+      output: web, pdf
+
+    - title: Day 81 (July 27th)
+      url: /r_cholera_d81.html
+      output: web, pdf
+
+    - title: Day 82 (July 28th)
+      url: /r_cholera_d82.html
+      output: web, pdf
+
+    - title: Day 83 (July 29th)
+      url: /r_cholera_d83.html
+      output: web, pdf
+
+    - title: Day 84 (July 30th)
+      url: /r_cholera_d84.html
+      output: web, pdf
+
+  - title: Day 85 - 91
+    output: web, pdf
+    folderitems:
+
+    - title: Day 85 (July 31st)
+      url: /r_cholera_d85.html
+      output: web, pdf
+
+    - title: Day 86 (Aug 1st)
+      url: /r_cholera_d86.html
+      output: web, pdf
+
+    - title: Day 87 (Aug 2nd)
+      url: /r_cholera_d87.html
+      output: web, pdf
+
+    - title: Day 88 (Aug 3rd)
+      url: /r_cholera_d88.html
+      output: web, pdf
+
+    - title: Day 89 (Aug 4th)
+      url: /r_cholera_d89.html
+      output: web, pdf
+
+    - title: Day 90 (Aug 5th)
+      url: /r_cholera_d90.html
+      output: web, pdf
+
+    - title: Day 91 (Aug 6th)
+      url: /r_cholera_d91.html
+      output: web, pdf
+
+  - title: Day 92 - 98
+    output: web, pdf
+    folderitems:
+
+    - title: Day 92 (Aug 7th)
+      url: /r_cholera_d92.html
+      output: web, pdf
+
+    - title: Day 93 (Aug 8th)
+      url: /r_cholera_d93.html
+      output: web, pdf
+
+    - title: Day 94 (Aug 9th)
+      url: /r_cholera_d94.html
+      output: web, pdf
+
+    - title: Day 95 (Aug 10th)
+      url: /r_cholera_d95.html
+      output: web, pdf
+
+    - title: Day 96 (Aug 11th)
+      url: /r_cholera_d96.html
+      output: web, pdf
+
+    - title: Day 97 (Aug 12th)
+      url: /r_cholera_d97.html
+      output: web, pdf
+
+    - title: Day 98 (Aug 13th)
+      url: /r_cholera_d98.html
+      output: web, pdf
+
+  - title: Day 99 - 100
+    output: web, pdf
+    folderitems:
+
+    - title: Day 99 (Aug 14th)
+      url: /r_cholera_d99.html
+      output: web, pdf
+
+    - title: Day 100 (Aug 15th)
+      url: /r_cholera_d100.html
+      output: web, pdf

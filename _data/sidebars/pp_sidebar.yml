@@ -37,7 +37,7 @@ entries:
       type: homepage
 
     - title: Day 02 (May 9th)
-      url: /r_cholera_d2.html
+      url: /r_pp_d2.html
       output: web, pdf
 
     - title: Day 03 (May 10th)

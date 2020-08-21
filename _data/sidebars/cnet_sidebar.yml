@@ -23,6 +23,18 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Article 67
+      url: /cnet_067.html
+      output: web, pdf
+
+    - title: Article 68
+      url: /cnet_068.html
+      output: web, pdf
+    
+    - title: Article 69
+      url: /cnet_069.html
+      output: web, pdf
+    
     - title: Article 70
       url: /cnet_070.html
       output: web, pdf
@@ -31,3 +43,11 @@ entries:
       url: /cnet_071.html
       output: web, pdf
       type: homepage
+
+  - title: Review
+    output: web, pdf
+    folderitems:
+
+    - title: Review
+      url: /cnet_review.html
+      output: web, pdf

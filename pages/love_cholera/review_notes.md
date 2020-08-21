@@ -17,13 +17,46 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.puerile}}">`puerile`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.tenacious}}">`tenacious`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.pretentious}}">`pretentious`</b>
-pretension
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.pretentious}}">`pretension`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.dissimulate}}">`dissimulate`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.peremptory}}">`peremptory`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.innocuous}}">`innocuous`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.intransigence}}">`intransigence`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.mutilate}}">`mutilate`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.demented}}">`demented`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.irredeemable}}">`irredeemable`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.gratuitous}}">`gratuitous`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.illicit}}">`illicit`</b>
 
 
 
 ## Expressions
 
 ### 2020/08/14
+
+#### 6
+
+- Then, just for love of the labor, he taught him the Latin <b data-toggle="tooltip" data-original-title="{{site.data.answers.d6_f}}">`________(作为...的伴奏)`</b> the Mass and selected passages from the Gospel according to St. Matthew, and he tried without success to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d6_f2}}">`________(灌输他[某种知识/技能])`</b> a working notion of the <b data-toggle="tooltip" data-original-title="{{site.data.answers.d6_f3}}">`________(四则运算)`</b>.
+
+- Dr. Urbino weas reluctant to confess his hatred of animals, which he disguised with all kinds of <b data-toggle="tooltip" data-original-title="{{site.data.answers.d6_a}}">`________________(杜撰的科学故事或哲学说辞)`</b> that convinced many, but not his wife.
+
+- But one rainy afternoon, at the end of an exhausting day, he encountered a disaster in the house that <b data-toggle="tooltip" data-original-title="{{site.data.answers.d6_d}}">`________(使他恢复理智)`</b>.
+
+#### 7
+
+- That was how the local firemen learned to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d7_e}}">`________(提供/给予)`</b> other emergency services, such as <b data-toggle="tooltip" data-original-title="{{site.data.answers.d7_e2}}">`________(撬开门锁)`</b> or killing poisonous snakes, and the Medical School offered them a special course in first aid for minor accidents.
+
+#### 16
+
+- But her father's strict regime soon <b data-toggle="tooltip" data-original-title="{{site.data.answers.16_d}}">`________(带来)`</b> an irremediable difficulty. 
+
+- So he decided to send Fermina Daza a simple note written on both sides of the paper <b data-toggle="tooltip" data-original-title="{{site.data.answers.16_f}}">`________(用公证员般漂亮的字体)`</b>.
+
+- So that the appearance of Florentino Ariza was for them another of the <b data-toggle="tooltip" data-original-title="{{site.data.answers.16_i}}">`________(众多打发沉闷时光的消遣方式)`</b>.
+
+#### 26
+
+- During the long month it had remained here, the days and nights <b data-toggle="tooltip" data-original-title="{{site.data.answers.26_h}}">`________(用于庆祝)`</b>. 
 
 #### 27
 

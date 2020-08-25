@@ -10,7 +10,7 @@ summary:
 
 ## Expressions
 
-<b data-toggle="tooltip" data-original-title="{{site.data.cans.67_a}}">``</b>
+<b data-toggle="tooltip" data-original-title="{{site.data.cans.fg_a}}">``</b>
 
 图一
 There is certainly more ____ ____(计入) these phones than ever before.

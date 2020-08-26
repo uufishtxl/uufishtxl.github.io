@@ -129,19 +129,19 @@ summary:
 
 #### 81
 
-- She evoked him as she evoked the day she had sent her first telegram, and she could never erase from her heart the memory of <b data-toggle="tooltip" data-original-title="{{site.data.answers.81_a}}">`________(可怜样)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.81_a2}}">`________(惨遭遗忘)`</b>.
+- She evoked him as she evoked the day she had sent her first telegram, and she could never erase from her heart the memory of <b data-toggle="tooltip" data-original-title="{{site.data.answers.ha_a}}">`________(可怜样)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.ha_a2}}">`________(惨遭遗忘)`</b>.
 
 #### 82
 
-- She said: "You do that only when you are looking for someone to cry with." Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.82_f}}">`________(缴械投降)`</b>.
+- She said: "You do that only when you are looking for someone to cry with." Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.hb_f}}">`________(缴械投降)`</b>.
 
 #### 84
 
-- She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.84_i}}">`________(加强她的嗅觉、提高她的手腕)`</b> so that she could <b data-toggle="tooltip" data-original-title="{{site.data.answers.84_i2}}">`________(找出)`</b> the miserable whore who had ruined her life.
+- She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i}}">`________(加强她的嗅觉、提高她的手腕)`</b> so that she could <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i2}}">`________(找出)`</b> the miserable whore who had ruined her life.
 
-- <b data-toggle="tooltip" data-original-title="{{site.data.answers.84_j}}">`________(他的思维陷在对未来幻想的混乱之中)`</b>, he did not realize that women can become adults in three days, and that three days had gone by since he had met her boat from Puerto Padre.
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_j}}">`________(他的思维陷在对未来幻想的混乱之中)`</b>, he did not realize that women can become adults in three days, and that three days had gone by since he had met her boat from Puerto Padre.
 
-- The chauffeur did not know, of course, that the additional letters were blank pages that Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.84_k}}">`________(寄给自己)`</b>, for he had never <b data-toggle="tooltip" data-original-title="{{site.data.answers.84_k2}}">`________(保持私人通信)`</b> with anyone.
+- The chauffeur did not know, of course, that the additional letters were blank pages that Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_k}}">`________(寄给自己)`</b>, for he had never <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_k2}}">`________(保持私人通信)`</b> with anyone.
 
 - Floretino Ariza still had dim memories of the journey of his youth, and in dazzling flashes of lightning <b data-toggle="tooltip" data-original-title="{{site.data.answers.93_g}}">`________(河上的景象使那些回忆复活了)`</b> as if they had happened yesterday.
 

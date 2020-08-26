@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Review
-      url: /r_cholera_review.html
+      url: /prdpjd_review.html
       output: web, pdf
 
   - title: Day 01 - 07

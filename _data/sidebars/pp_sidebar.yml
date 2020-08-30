@@ -59,3 +59,31 @@ entries:
     - title: Day 07 (May 14th)
       url: /r_pp_d7.html
       output: web, pdf
+
+  - title: Day 08 - 14
+    output: web, pdf
+    folderitems:
+
+    - title: Day 08 (Aug 27th)
+      url: /r_pp_d8.html
+      output: web, pdf
+
+    - title: Day 09 (Aug 28th)
+      url: /r_pp_d9.html
+      output: web, pdf
+
+    - title: Day 10 (Aug 29th)
+      url: /r_pp_d10.html
+      output: web, pdf
+
+    - title: Day 11 (Aug 30th)
+      url: /r_pp_d11.html
+      output: web, pdf
+
+    - title: Day 12 (Aug 31st)
+      url: /r_pp_d12.html
+      output: web, pdf
+
+    - title: Day 13 (Sep 1st)
+      url: /r_pp_d13.html
+      output: web, pdf

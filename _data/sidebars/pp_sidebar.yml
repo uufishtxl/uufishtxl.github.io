@@ -87,3 +87,7 @@ entries:
     - title: Day 13 (Sep 1st)
       url: /r_pp_d13.html
       output: web, pdf
+
+    - title: Day 14 (Sep 2nd)
+      url: /r_pp_d14.html
+      output: web, pdf

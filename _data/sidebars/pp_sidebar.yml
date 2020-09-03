@@ -91,3 +91,15 @@ entries:
     - title: Day 14 (Sep 2nd)
       url: /r_pp_d14.html
       output: web, pdf
+
+  - title: Day 15 - 21
+    output: web, pdf
+    folderitems:
+
+    - title: Day 15 (Sep 3rd)
+      url: /r_pp_d15.html
+      output: web, pdf
+
+    - title: Day 16 (Sep 4th)
+      url: /r_pp_d16.html
+      output: web, pdf

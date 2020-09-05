@@ -103,3 +103,11 @@ entries:
     - title: Day 16 (Sep 4th)
       url: /r_pp_d16.html
       output: web, pdf
+
+    - title: Day 17 (Sep 5th)
+      url: /r_pp_d17.html
+      output: web, pdf
+
+    - title: Day 18 (Sep 6th)
+      url: /r_pp_d18.html
+      output: web, pdf

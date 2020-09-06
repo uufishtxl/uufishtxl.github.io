@@ -111,3 +111,19 @@ entries:
     - title: Day 18 (Sep 6th)
       url: /r_pp_d18.html
       output: web, pdf
+
+    - title: Day 18 (Sep 6th)
+      url: /r_pp_d18.html
+      output: web, pdf
+
+    - title: Day 19 (Sep 7th)
+      url: /r_pp_d19.html
+      output: web, pdf
+
+    - title: Day 20 (Sep 8th)
+      url: /r_pp_d20.html
+      output: web, pdf
+    
+    - title: Day 21 (Sep 9th)
+      url: /r_pp_d21.html
+      output: web, pdf

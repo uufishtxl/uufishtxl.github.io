@@ -14,7 +14,7 @@ tags:
 
 - station wagon: 旅行车
 
-- pediatrician: 儿科医生
+- pediatrician: 儿科医生  \ ˌpē-dē-ə-ˈtri-shən  \
 
 - pigtail: 马尾辫
 
@@ -40,7 +40,7 @@ tags:
 
 - keepsake: 纪念品
 
-- mantal: 壁炉架
+- mantel: 壁炉架
 
 - swampy parts of the Internet: 互联网的阴暗角落
 
@@ -49,7 +49,7 @@ tags:
 
 ## Page 3
 
-- bowling alley: 保龄球场
+- bowling alley: 保龄球场  \ ˈbō-liŋ  \
 
 - florist: 花店
 
@@ -67,7 +67,7 @@ tags:
 
 - The chill of winter had finally lifted. 寒冷的冬天终于要过去了。
 
-- crocuses 藏红花
+- crocuses 番红花 \ ˈkrō-kəs  \
 
 - jarring 不和谐的
 
@@ -85,7 +85,7 @@ tags:
 
 # Page 4
 
-- boosting the volumn
+- boosting the volume
 
 - blot it all out: 盖过其他声音
 
@@ -111,11 +111,11 @@ tags:
 
 - implacability
 
-- alligiance
+- allegiance  \ ə-ˈlē-jən(t)s  \ 
 
 - pudge-faced
 
-- no-nonsense: SERIOUS
+- no-nonsense: SERIOUS the fidelity owed by a subject or citizen to a sovereign or government
 
 - bruiser 好斗分子
 

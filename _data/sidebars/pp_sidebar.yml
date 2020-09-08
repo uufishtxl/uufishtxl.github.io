@@ -112,10 +112,6 @@ entries:
       url: /r_pp_d18.html
       output: web, pdf
 
-    - title: Day 18 (Sep 6th)
-      url: /r_pp_d18.html
-      output: web, pdf
-
     - title: Day 19 (Sep 7th)
       url: /r_pp_d19.html
       output: web, pdf

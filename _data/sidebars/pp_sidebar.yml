@@ -123,3 +123,35 @@ entries:
     - title: Day 21 (Sep 9th)
       url: /r_pp_d21.html
       output: web, pdf
+
+  - title: Day 22 - 28
+    output: web, pdf
+    folderitems:
+
+    - title: Day 22 (Sep 10th)
+      url: /r_pp_d22.html
+      output: web, pdf
+
+    - title: Day 23 (Sep 11th)
+      url: /r_pp_d23.html
+      output: web, pdf
+
+    - title: Day 24 (Sep 12th)
+      url: /r_pp_d24.html
+      output: web, pdf
+
+    - title: Day 25 (Sep 13th)
+      url: /r_pp_d25.html
+      output: web, pdf
+
+    - title: Day 26 (Sep 14th)
+      url: /r_pp_d26.html
+      output: web, pdf
+
+    - title: Day 27 (Sep 15th)
+      url: /r_pp_d27.html
+      output: web, pdf
+    
+    - title: Day 28 (Sep 16th)
+      url: /r_pp_d28.html
+      output: web, pdf

@@ -167,3 +167,11 @@ entries:
     - title: Address security issues using dotenv
       url: /js_api_dotenv.html
       output: web, pdf
+
+  - title: CSS
+    output: web, pdf
+    folderitems:
+
+    - title: A Guide to CSS Flex and Grid
+      url: /css_layout_flex_grid.html
+      output: web, pdf

@@ -166,3 +166,10 @@ The free space is calculated after any non-flexible items.
 Repeating the name of a grid area causes the content to span those cells. 
 
 
+Set a column to be 1fr, but shrink no further than 200px
+grid-template-columns: 1fr minmax(200px, 1fr);
+
+There is repeat() function, which saves some typing, like making 10 columns:
+grid-template-columns: repeat(10, 1fr);
+
+If no end line value is declared, the item will span 1 track by default.

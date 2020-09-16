@@ -620,4 +620,13 @@ tags:
 
 6.  never `sugarcoat` what they took to be the hardest truths about life: `sugarcoat` - 粉饰; `took to be` - 认为是
 
-7.  
+7.  feel `the breeze off the water`: 感受水面上吹来的微风
+
+8.  `got a brutal tongue-lashing from my mother`: `lash` - 鞭打; `tongue-lashing` - 斥责; 被我妈妈好一顿斥责
+
+9.  It was a thing we'd always have to navigate: navigate - GET AROUND 这是我们必然会经历的事情。
+
+# Page 26
+
+1.  Our family was never going to be `house poor`: 我们家庭从来不会因房致穷
+

@@ -20,6 +20,8 @@ topnav_dropdowns:
           url: /r_pp_d1.html
         - title: CNET
           url: /cnet_071.html
+        - title: Becoming
+          url: /r_becoming_p31.html
     - title: Tutorials
       folderitems:
         - title: Tom's tutorial

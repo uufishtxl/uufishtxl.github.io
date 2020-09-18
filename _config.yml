@@ -203,3 +203,13 @@ defaults:
       search: true
       sidebar: pp_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/becoming"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: becoming_sidebar
+      topnav: topnav

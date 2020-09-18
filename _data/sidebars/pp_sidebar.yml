@@ -155,3 +155,35 @@ entries:
     - title: Day 28 (Sep 16th)
       url: /r_pp_d28.html
       output: web, pdf
+
+  - title: Day 29 - 35
+    output: web, pdf
+    folderitems:
+
+    - title: Day 29 (Sep 17th)
+      url: /r_pp_d29.html
+      output: web, pdf
+
+    - title: Day 30 (Sep 18th)
+      url: /r_pp_d30.html
+      output: web, pdf
+
+    - title: Day 31 (Sep 19th)
+      url: /r_pp_d31.html
+      output: web, pdf
+
+    - title: Day 32 (Sep 20th)
+      url: /r_pp_d32.html
+      output: web, pdf
+
+    - title: Day 33 (Sep 21st)
+      url: /r_pp_d33.html
+      output: web, pdf
+
+    - title: Day 34 (Sep 22nd)
+      url: /r_pp_d34.html
+      output: web, pdf
+
+    - title: Day 35 (Sep 23rd)
+      url: /r_pp_d35.html
+      output: web, pdf

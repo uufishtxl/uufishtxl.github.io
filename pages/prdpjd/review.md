@@ -33,3 +33,12 @@ summary:
 ### 07
 
 - Mr. Bennet's property consisted almost entirely in an estate of two thousand a year, which, unfortunately for his daughters, was <b data-toggle="tooltip" data-original-title="{{site.data.answers.d07_h}}">`________(因为没有男性继承人，而限定继承给了远方亲戚)`</b>, and their mother's fortune, though ample for her situation in life, could but <b data-toggle="tooltip" data-original-title="{{site.data.answers.d07_h2}}">`________(难以弥补他的不足)`</b>.
+
+
+### 12
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_j}}">`________(不过就算情况像你说的那样)`</b>, you must remember, Miss Bennet, that the friend who is supposed to desire his return to the house and the delay of his plan, has merely desired it, asked it <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_j2}}">`________(未给出理由说明其要求是合理的)`</b>.
+
+### 30
+
+- The envelop contained a sheet of elegant, little, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d30_f}}">`________(烫平纸)`</b>, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d30_f2}}">`________(写满了娟秀流畅的字迹)`</b>.

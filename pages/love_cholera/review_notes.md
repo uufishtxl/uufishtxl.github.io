@@ -103,6 +103,10 @@ summary:
 
 - The bad ones were those in the lugubrious restaurants along the waterfront, where one was as likely to eat like a king as to die a sudden death at the table, sitting before a plate of rat meat with sunflowers, and which were thought to be nothing more than <b data-toggle="tooltip" data-original-title="{{site.data.answers.ed_d}}">`________(掩盖白人奴隶交易的人)`</b> and many other kinds of <b data-toggle="tooltip" data-original-title="{{site.data.answers.ed_d2}}">`________(非法买卖)`</b>.
 
+#### 65
+
+- The officials were there with no more protection against the sun than ordinary umbrellas, the elementary schools were there waving little flags <b data-toggle="tooltip" data-original-title="{{site.data.answers.fe_g}}">`________(和着音乐的节拍)`</b>, and the beauty queens with scorched flowers and crowns made of gold cardboard, and the <b data-toggle="tooltip" data-original-title="{{site.data.answers.fe_g2}}">`________(铜管乐队)`</b> of the prosperous town of Gayra, which in those days was the best along the Caribbean coast.
+
 #### 66
 
 - She, on the other hand, <b data-toggle="tooltip" data-original-title="{{site.data.answers.ff_g}}">`________(待他以礼节)`</b> and never made the slightest gestures that might allow him to suspect that she remembered him from her unmarried years.
@@ -137,12 +141,9 @@ summary:
 
 - She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i}}">`________(加强她的嗅觉、提高她的手腕)`</b> so that she could <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i2}}">`________(找出)`</b> the miserable whore who had ruined her life.
 
-- <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_j}}">`________(他的思维陷在对未来幻想的混乱之中)`</b>, he did not realize that women can become adults in three days, and that three days had gone by since he had met her boat from Puerto Padre.
-
-- The chauffeur did not know, of course, that the additional letters were blank pages that Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_k}}">`________(寄给自己)`</b>, for he had never <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_k2}}">`________(保持私人通信)`</b> with anyone.
-
-- Floretino Ariza still had dim memories of the journey of his youth, and in dazzling flashes of lightning <b data-toggle="tooltip" data-original-title="{{site.data.answers.ic_g}}">`________(河上的景象使那些回忆复活了)`</b> as if they had happened yesterday.
 
 - But this time <b data-toggle="tooltip" data-original-title="{{site.data.answers.d9_f}}">`________(他超越了自我)`</b>.
 
-- Florentino Ariza, on the other hand, had not stopped thinking of her for a single moment since Fermina Daza had rejected him <b data-toggle="tooltip" data-original-title="{{site.data.answers.ae_d}}">`________(不假思索地/断然地)`</b> after a long and troubled love affair fifty-one years, nine months, and four days ago.
+#### 91
+
+- She <b data-toggle="tooltip" data-original-title="{{site.data.answers.ia_a}}">`________(喜欢上了[某人/某事])`</b> to the soap operas from Santiago de Cuba that she waited with impatience for each day's new episode.

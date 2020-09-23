@@ -23,6 +23,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Article 66
+      url: /cnet_066.html
+      output: web, pdf
+
     - title: Article 67
       url: /cnet_067.html
       output: web, pdf

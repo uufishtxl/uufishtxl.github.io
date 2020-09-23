@@ -187,3 +187,99 @@ entries:
     - title: Day 35 (Sep 23rd)
       url: /r_pp_d35.html
       output: web, pdf
+
+  - title: Day 36 - 42
+    output: web, pdf
+    folderitems:
+
+    - title: Day 36 (Sep 24th)
+      url: /r_pp_d35.html
+      output: web, pdf
+
+    - title: Day 37 (Sep 25th)
+      url: /r_pp_d37.html
+      output: web, pdf
+
+    - title: Day 38 (Sep 26th)
+      url: /r_pp_d38.html
+      output: web, pdf
+
+    - title: Day 39 (Sep 27th)
+      url: /r_pp_d39.html
+      output: web, pdf
+
+    - title: Day 40 (Sep 28st)
+      url: /r_pp_d40.html
+      output: web, pdf
+
+    - title: Day 41 (Sep 29nd)
+      url: /r_pp_d41.html
+      output: web, pdf
+
+    - title: Day 42 (Sep 30th)
+      url: /r_pp_d42.html
+      output: web, pdf
+
+  - title: Day 43 - 49
+    output: web, pdf
+    folderitems:
+
+    - title: Day 43 (Oct 1)
+      url: /r_pp_d43.html
+      output: web, pdf
+
+    - title: Day 44 (Oct 2)
+      url: /r_pp_d44.html
+      output: web, pdf
+
+    - title: Day 45 (Oct 3)
+      url: /r_pp_d45.html
+      output: web, pdf
+
+    - title: Day 46 (Oct 4)
+      url: /r_pp_d46.html
+      output: web, pdf
+
+    - title: Day 47 (Oct 5)
+      url: /r_pp_d47.html
+      output: web, pdf
+
+    - title: Day 48 (Oct 6)
+      url: /r_pp_d48.html
+      output: web, pdf
+
+    - title: Day 49 (Oct 7)
+      url: /r_pp_d49.html
+      output: web, pdf
+
+  - title: Day 50 - 56
+    output: web, pdf
+    folderitems:
+
+    - title: Day 50 (Oct 8)
+      url: /r_pp_d50.html
+      output: web, pdf
+
+    - title: Day 51 (Oct 9)
+      url: /r_pp_d51.html
+      output: web, pdf
+
+    - title: Day 52 (Oct 10)
+      url: /r_pp_d52.html
+      output: web, pdf
+
+    - title: Day 53 (Oct 11)
+      url: /r_pp_d53.html
+      output: web, pdf
+
+    - title: Day 54 (Oct 12)
+      url: /r_pp_d54.html
+      output: web, pdf
+
+    - title: Day 55 (Oct 13)
+      url: /r_pp_d55.html
+      output: web, pdf
+
+    - title: Day 56 (Oct 14)
+      url: /r_pp_d56.html
+      output: web, pdf

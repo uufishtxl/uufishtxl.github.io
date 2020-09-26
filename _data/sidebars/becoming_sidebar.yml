@@ -35,3 +35,13 @@ entries:
       url: /r_becoming_p31.html
       output: web, pdf
       type: homepage
+
+    - title: Page 33 ~ Page 35
+      url: /r_becoming_p34.html
+      output: web, pdf
+      type: homepage
+
+    - title: Page 36 ~ Page 41
+      url: /r_becoming_p36.html
+      output: web, pdf
+      type: homepage

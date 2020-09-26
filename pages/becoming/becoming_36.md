@@ -1,0 +1,125 @@
+---
+title: Page 36 ~ 
+catalog: true
+tags: 
+  - reading
+permalink: /r_becoming_p36.html
+folder: love_cholera
+summary: 
+---
+
+<b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_a}}">`________()`</b>
+
+# Day 36
+
+1. My father's family, meanwhile, <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_g}}">`________(遍布)`</b> Chicago's broader South Side and include <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_g2}}">`________(一堆姑婆和三代表亲)`</b>, plus a few <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_g3}}">`________(游散的远亲)`</b> whose blood connection remain <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_g4}}">`________(模糊不清)`</b>. We <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_g5}}">`________(和所有人都有来往)`</b>.
+
+2. <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_h}}">`________(卷发)`</b> little man
+
+3. <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_i}}">`________(酷炫时髦)`</b>
+
+4. They wore <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_j}}">`________(喇叭裤)`</b> and <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_j2}}">`________(高领毛衣)`</b>.
+
+5. My grandfather was <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_k}}">`________(相处起来没那么好玩)`</b>.
+
+6. with <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp36_l}}">`________(晚间新闻正在播报)`</b> on the television nearby
+
+7.  He was **galled** by the day's headlines: **gall** - 胆汁 (名词)；VEX (动词)
+
+8.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp35_a}}">`________(让全世界的黑人都背上恶名)`</b>
+
+# Day 37
+
+1.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_a}}">`________(经营得很好)`</b> a thriving Bible bookstore
+
+2.  In her <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_b}}">`________(下班时间)`</b>
+
+3.  **meekness**: 温和
+
+4.  his <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_c}}">`________(接二连三的抱怨)`</b>
+
+5.  There was something about my grandmother's silence and passivity in her relationship with Dandy that <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_d}}">`________(让我不爽)`</b>.
+
+6.  I was the only one in the family to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_e}}">`________(RETORT ON / 顶嘴)`</b> Dandy when he yelled.
+
+7.  His stubbornness was something I recognized, something I'd inherited myself, though I hoped in a less <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_f}}">`________(伤人感情的)`</b> form.
+
+8.  There was also a softness in Dandy, which I <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_g}}">`________(只在不经意的一瞥中见过)`</b>.
+
+9.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_h}}">`________(聊天的时候不经意说了一个复杂的词)`</b>
+
+10. But then something would <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_i}}">`________(激怒他)`</b> and he'd start snarling again.
+
+11. **crankily**: 任性的/暴躁的
+
+12. A <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_j}}">`________(机智灵敏的)`</b> and intelligent kid
+
+13. He'd been <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_k}}">`________(CHRISTENED/起外号叫)`</b> "the Professor" and <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp37_k2}}">`________(设定了将来有一天上大学的理想)`</b>.
+
+# Day 38
+
+1.  He also <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_a}}">`________(成年/达到法定年龄)`</b> during the Great Depression.
+
+2.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_b}}">`________(他能做的选择永远都不会变多)`</b>.
+
+3.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_c}}">`________(在50年间)`</b>.
+
+4.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_d}}">`________(很难得到工作)`</b>.
+
+5.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_e}}">`________(在保龄球馆摆放瓶子)`</b> and <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_e2}}">`________(做一些杂务的零活)`</b>
+
+6.  Gradually, he <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_f}}">`________(湮灭了希望)`</b>, <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_f2}}">`________(放弃了上大学的梦想)`</b>, thinking he'd <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_f3}}">`________(培训做某事)`</b> become an electrician instead. But this, too, was quickly <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp38_f4}}">`________(挫败)`</b>.
+
+7.  **jitney**: 小型公共汽车
+
+8.  **able-bodied**: 身强力壮的
+
+# Day 39
+
+1.  It pained them, I know, to be <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_a}}">`________(扔在一边)`</b>, to be <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_a2}}">`________(困在一份以自己的能力绰绰有余的岗位上)`</b>, to watch white people <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_a3}}">`________(超过他们)`</b> at work, sometimes training new employees they knew might one day become their bosses
+
+2.  And it <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_b}}">`________(在他们每个人心中都滋生[怨恨])`</b> at least a basic level of resentment and mistrust: You never quite knew what other folks saw you to be.
+
+3.  He then went on to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_c}}">`________(走过了三十年)`</b> as a postal worker before retiring with a pension that helped allow him all that time to yell at the boo-boos on TV from the comfort of his recliner.
+
+4.  But still, Dandy would remain unable to see his children's accomplishments as <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_d}}">`________(作为他[自身梦想]的一种延伸)`</b>. As we saw every Sunday arriving at Parkway Gardens for dinner, my grandfather lived with the <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_d2}}">`________(他自己那破灭了的梦想留下的苦涩残渣)`</b>.
+
+5.  part of the <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_e}}">`________(亲缘关系疏远的人群)`</b> that often turned up when my parents drove over for a visit
+
+6.  As the adults drank coffee and laughed in the kitchen, <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_f}}">`________(将出现同步的场景)`</b> as Craig and I joined whatever <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp39_f2}}">`________(一群孩子)`</b> came with those adults.
+
+# Day 40
+
+1.  I'd jump double Dutch or try to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_a}}">`________(融入到任何进行中的玩笑话中)`</b>.
+
+2.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_b}}">`________(在某一时刻)`</b>， one of the girls, a second, third, or fourth cusin of mine, <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_b2}}">`________(斜眼看我)`</b> and said, just <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_b3}}">`________(有点激动)`</b>, "<b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_b4}}">`________(为什么)`</b> you talk like a white girl?"
+
+3.  **anthill**: 蚁
+
+4.  The question was <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_c}}">`________(尖刻)`</b>.
+
+5.  But I knew <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_d}}">`________(她指的是什么)`</b>.
+
+6.  I did speak differnt <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_e}}">`________(FROM)`</b> some of my relatives.
+
+7.  Our parents had <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_f}}">`________(灌输给我们)`</b> the importance of using proper <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_f2}}">`________(措辞)`</b>, of saying "going" instead of "goin" and "isnt't" instead of "ain't". We were taught to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_f3}}">`________(完成)`</b> our words.
+
+8.  They bought us a dictionary and a full Encyclopaedia Britannica set, which <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_g}}">`________(放在)`</b> a shelf in the stairwell to our department, its titles <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_g2}}">`________(蚀刻)`</b> in gold.
+
+9.  Dandy, too, <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_h}}">`________(是一个影响因子)`</b>, meticulously correcting our grammar or <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_h2}}">`________(劝告)`</b> us to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_h3}}">`________()`</b> our words when we went over for dinner.
+
+10. We were expected not just to be smart but to own our smartness -- to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_i}}">`________(拥有)`</b> it with pride -- and this <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp40_i2}}">`________(反映在)`</b> how we speak.
+
+# Day 41
+
+1. white middle-class **Kansans**: 堪萨斯州人 /ˈkænzəs/ 
+
+2. I'd see this confusion <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp41_a}}">`________(发生 UNFOLD)`</b> on the national stage among whites and blacks alike.
+
+3.  I passed the rest of that day trying to say less to my cousin, feeling <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp41_b}}">`________(扫兴)`</b> by her hostility, but also wanting her to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp41_b2}}">`________(认为我是一个真诚的人)`</b> -- not trying to <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp41_b3}}">`________(炫耀)`</b> some advantage.
+
+4.  my parents' laughter <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp41_c}}">`________([笑声]轻松响亮)`</b> over the yead.
+
+5.  I watched my brother <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp41_d}}">`________(在..过程中)`</b> a sweaty game with a group of boys on the adjacent street corner.
+
+6.  I look back on the discomfort of that moment now and recognize the more universal challenge of <b data-toggle="tooltip" data-original-title="{{site.data.answers.bp41_e}}">`________(矫正)`</b> who you are with where you come from and where you want to go.

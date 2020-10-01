@@ -10,78 +10,70 @@ summary:
 
 ## Expressions
 
-<b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_a}}">`________()`</b>
+## PIC - 1
 
-图一
-Magic Leap One AR Headset is _____(公开发售) now for $2,295, but only in six specific cities.
+1.  Magic Leap One AR Headset is <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_a}}">`________(公开发售)`</b> now for $2,295, but only in six specific cities.
 
-The Magic Leap One, the mysterious augmented reality headsets, has been _____(画饼) for so many years, it started to seem as unreal as the worlds it creates.
+2.  The Magic Leap One, the mysterious augmented reality headsets, has been <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_b}}">`________(画饼)`</b> for so many years, it started to seem as unreal as the worlds it creates.
 
-at $2,295 _____ _____(可购买) in only a few cities in the US.
+3.  at $2,295 <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_c}}">`________(可购买)`</b> in only a few cities in the US.
 
-It's hardly a _____ ______ (面向大众市场) product.
+4.  It's hardly a <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_d}}">`________(面向大众市场)`</b> product.
 
-out 
-promised
-with availability
-mass market
 
-图二
-While it's ____ ____ ____ ____(大前进) for augmented reality, it's not a _____(跳跃).
-参观设施
-We _________________(深入研究) how Magic Leap came to be called one of tech's most secrative startups.
+## PIC - 2
 
-a big step forward...leap
-tour the facility
-take a deep dive into
+1.  While it's <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_e}}">`________(大前进)`</b> for augmented reality, it's not a <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_e2}}">`________(跳跃)`</b>.
 
-图三
-The Magic Leap One is a standalone device with its own wearable computer and _____(头戴式) display and is ____ ____ ____(逐鹿市场) for AR along with Microsoft, Apple and others.
-The price of this standalone AR headset is well above any consumer VR ____ ____ ____(市面上).
+2.  <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_f}}">`________(参观设施)`</b>
 
-head-mounted...chasing the market
-on the market
+3.  We <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_g}}">`________(深入研究)`</b> how Magic Leap came to be called one of tech's most secrative startups.
 
-图四
-The headset will only be sold in the US ____ ____(开始).
 
-If you enter your area code on the site and delivery isn't available, you'll apparently be able to reserve a headset until a time when delivery someday _________________(解锁了你所在的城市).
-专业服务 [2种说法]
 
-to start
-makes it to your city
-White glove service = Meticulous Service
+## PIC - 3
 
-图五
-The service will personally deliver and set up the device for you _____(到家), ensuring a perfect fit.
-And yes, this reconfirms that Magic Leap One isn't a product for _____, _____ _____(普通用户日常使用) yet.
-处方眼镜（这个说法，真的奇葩）
+1.  The Magic Leap One is a standalone device with its own wearable computer and <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_h}}">`________(头戴式)`</b> display and is <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_h2}}">`________(逐鹿市场)`</b> for AR along with Microsoft, Apple and others.
 
-in-home
-normal, everyday people
-priscription lenses
+2.  The price of this standalone AR headset is well above any consumer VR <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_i}}">`________(市面上)`</b>.
 
-图六
-_____(罩壳式) headset
-a _____(更轻型的)  pair of goggles is _____(连接) into a disc-shaped Nvidia-powered micro-PC running a Tegra X2 processor that _____ _____(扣在)  your pants or into an over-the-should strap.
-a home button and a circular touchpad with a ______(圈) of LED lights.
-It has ______(触觉的) vibrating feedback.
 
-visor
-lighter-weight...cored...clips onto
-ring...
-haptic
+## PIC - 4
 
-VR headsets _____ _____ _____(让东西消失) like a windowless scuba mask.
-Magic Leap is trying to ______(抵消) that limitation by emphasizing how objects seen in the headset can seem larger as the effective ____(圆锥体)/pyramid of the view extends farther back.
+1.  The headset will only be sold in the US <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_j}}">`________(开始)`</b>.
 
-blind things off 
-offset
-cone
+2.  If you enter your area code on the site and delivery isn't available, you'll apparently be able to reserve a headset until a time when delivery someday <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_k}}">`________(解锁了你所在的城市)`</b>.
 
-图九
-The clip-on ____(轻型) PC has ____(参数配置) greater than a phone or the Nintendo Swtich, and more on the order of a PC.
-Only 95GB will ____ ____(可用) to store ____(下载的文件).
+3.  <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_l}}">`________(专业服务 [2种说法])`</b>
 
-Lightpack...specs 
-be free...downloads
+## PIC - 5
+
+1.  The service will personally deliver and set up the device for you <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_m}}">`________(到家)`</b>, ensuring a perfect fit.
+
+2.  And yes, this reconfirms that Magic Leap One isn't a product for <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_n}}">`________(普通用户日常使用)`</b> yet.
+
+3.  <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_o}}">`________(处方眼镜)`</b>
+
+
+## PIC - 6
+
+1.  <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_p}}">`________(罩壳式)`</b> headset
+
+2.  a <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_q}}">`________(更轻型的)`</b> pair of goggles is <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_q2}}">`________(连接)`</b> into a disc-shaped Nvidia-powered micro-PC running a Tegra X2 processor that <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_q3}}">`________(扣在)`</b> your pants or into an over-the-should strap.
+
+3.  a home button and a circular touchpad with a <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_r}}">`________(圈)`</b> of LED lights.
+
+4.  It has <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_s}}">`________(触觉的)`</b> vibrating feedback.
+
+
+## PIC - 7 / 8 
+
+1.  VR headsets <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_t}}">`________(让东西消失)`</b> like a windowless scuba mask.
+
+2.  Magic Leap is trying to <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_u}}">`________(抵消)`</b> that limitation by emphasizing how objects seen in the headset can seem larger as the effective <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_u2}}">`________(圆锥体)`</b>/pyramid of the view extends farther back.
+
+## PIC - 9
+
+1.  The clip-on <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_v}}">`________(轻型)`</b> PC has <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_v2}}">`________(参数配置)`</b> greater than a phone or the Nintendo Switch, and more on the order of a PC.
+
+2.  Only 95GB will <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_w}}">`________(可用)`</b> to store <b data-toggle="tooltip" data-original-title="{{site.data.cans.fe_w2}}">`________(下载的文件)`</b>.

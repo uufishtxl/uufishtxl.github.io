@@ -39,9 +39,19 @@ entries:
     - title: Page 33 ~ Page 35
       url: /r_becoming_p34.html
       output: web, pdf
-      type: homepage
 
     - title: Page 36 ~ Page 41
       url: /r_becoming_p36.html
       output: web, pdf
-      type: homepage
+
+    - title: Page 42 ~ 49
+      url: /r_becoming_p42.html
+      output: web, pdf
+
+    - title: Page 50 ~ 52
+      url: /r_becoming_p50.html
+      output: web, pdf
+
+    - title: Page 53 ~ 5
+      url: /r_becoming_p53.html
+      output: web, pdf

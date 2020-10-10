@@ -27,20 +27,20 @@ entries:
       url: /prdpjd_review.html
       output: web, pdf
 
-  - title: Page 31 ~ Page 
+  - title: Page 31 ~  
     output: web, pdf
     folderitems:
 
-    - title: Page 31 ~ Page 
+    - title: Page 31 ~ 32
       url: /r_becoming_p31.html
       output: web, pdf
       type: homepage
 
-    - title: Page 33 ~ Page 35
+    - title: Page 33 ~ 35
       url: /r_becoming_p34.html
       output: web, pdf
 
-    - title: Page 36 ~ Page 41
+    - title: Page 36 ~ 41
       url: /r_becoming_p36.html
       output: web, pdf
 
@@ -52,6 +52,14 @@ entries:
       url: /r_becoming_p50.html
       output: web, pdf
 
-    - title: Page 53 ~ 5
+    - title: Page 53 ~ 56
       url: /r_becoming_p53.html
+      output: web, pdf
+
+    - title: Page 57 ~ 60
+      url: /r_becoming_p57.html
+      output: web, pdf
+
+    - title: Page 61 ~ 
+      url: /r_becoming_p61.html
       output: web, pdf

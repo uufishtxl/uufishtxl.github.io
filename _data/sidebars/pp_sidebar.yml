@@ -283,3 +283,35 @@ entries:
     - title: Day 56 (Oct 14)
       url: /r_pp_d56.html
       output: web, pdf
+
+  - title: Day 57 - 63
+    output: web, pdf
+    folderitems:
+
+    - title: Day 57 (Oct 15)
+      url: /r_pp_d57.html
+      output: web, pdf
+
+    - title: Day 58 (Oct 16)
+      url: /r_pp_d58.html
+      output: web, pdf
+
+    - title: Day 59 (Oct 17)
+      url: /r_pp_d59.html
+      output: web, pdf
+
+    - title: Day 60 (Oct 18)
+      url: /r_pp_d60.html
+      output: web, pdf
+
+    - title: Day 61 (Oct 19)
+      url: /r_pp_d61.html
+      output: web, pdf
+
+    - title: Day 62 (Oct 20)
+      url: /r_pp_d62.html
+      output: web, pdf
+
+    - title: Day 63 (Oct 21)
+      url: /r_pp_d63.html
+      output: web, pdf

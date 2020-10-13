@@ -9,18 +9,43 @@ folder: love_cholera
 summary: 
 ---
 
+# 2020/10/13
+
 ## Words
 
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.puerile}}">`puerile`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.innocuous}}">`innocuous`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.intransigence}}">`intransigence`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.mutilate}}">`mutilate`</b>
--   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.irredeemable}}">`irredeemable`</b>
--   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.gratuitous}}">`gratuitous`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.scourge}}">`scourge`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.fortitude}}">`fortitude`</b>
 
 ## Expressions
 
-### 2020/09/08
+## 11
+
+- He was on the verge of reaching that state now when a <b data-toggle="tooltip" data-original-title="{{site.data.answers.aa_c}}">`________(一道仁慈之光点亮了他的回忆)`</b>: the boy had been one of his students last year.
+
+## 13
+
+- It was the culmination of a spectacular civic campaign that involved every sector of the city in a <b data-toggle="tooltip" data-original-title="{{site.data.answers.ac_d}}">`________(全民总动员)`</b> that many thought <b data-toggle="tooltip" data-original-title="{{site.data.answers.ac_d2}}">`________(堪称伟业)`</b>.
+
+## 27
+
+- But she was so accustomed to his <b data-toggle="tooltip" data-original-title="{{site.data.answers.bg_e}}">`________(诗意的夸张)`</b> that she celebrated the adventures of the galleon as one of <b data-toggle="tooltip" data-original-title="{{site.data.answers.bg_e2}}">`________(他最大的成就)`</b>.
+
+- Then what had to happen sooner or later happened: Florentino Ariza asked his mother for help in <b data-toggle="tooltip" data-original-title="{{site.data.answers.bg_f}}">`________(为他的冒险画上一个成功的句号)`</b>.
+
+## 65
+
+- The officials were there with no more protection against the sun than ordinary umbrellas, the elementary schools were there waving little flags <b data-toggle="tooltip" data-original-title="{{site.data.answers.fe_g}}">`________(和着音乐的节拍)`</b>, and the beauty queens with scorched flowers and crowns made of gold cardboard, and the <b data-toggle="tooltip" data-original-title="{{site.data.answers.fe_g2}}">`________(铜管乐队)`</b> of the prosperous town of Gayra, which in those days was the best along the Caribbean coast.
+
+# 99
+
+全篇
+
+
+<!-- ### 2020/09/08
 
 #### 16
 
@@ -146,4 +171,4 @@ summary:
 
 #### 91
 
-- She <b data-toggle="tooltip" data-original-title="{{site.data.answers.ia_a}}">`________(喜欢上了[某人/某事])`</b> to the soap operas from Santiago de Cuba that she waited with impatience for each day's new episode.
+- She <b data-toggle="tooltip" data-original-title="{{site.data.answers.ia_a}}">`________(喜欢上了[某人/某事])`</b> to the soap operas from Santiago de Cuba that she waited with impatience for each day's new episode. -->

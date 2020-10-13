@@ -8,6 +8,10 @@ folder: prdpjd
 summary: 
 ---
 
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.ingenuity}}">`ingenuity`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.solicitation}}">`solicitation`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.solicitation}}">`solicitation`</b>
+
 ## 20200826
 
 - 01: ★★★★★

@@ -19,6 +19,13 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.mutilate}}">`mutilate`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.scourge}}">`scourge`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.fortitude}}">`fortitude`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.protagonist}}">`protagonist`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.parsimonious}}">`parsimonious`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.pallor}}">`pallor`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.ailment}}">`ailment`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.presentiment}}">`presentiment`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.rowdy}}">`rowdy`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.inexorable}}">`inexorable | `</b>
 
 ## Expressions
 
@@ -36,9 +43,91 @@ summary:
 
 - Then what had to happen sooner or later happened: Florentino Ariza asked his mother for help in <b data-toggle="tooltip" data-original-title="{{site.data.answers.bg_f}}">`________(为他的冒险画上一个成功的句号)`</b>.
 
+## 30
+
+- His mother moved him most of all. She was still young, a woman who had <b data-toggle="tooltip" data-original-title="{{site.data.answers.c0_e}}">`________(投身生活)`</b> with her elegance and <b data-toggle="tooltip" data-original-title="{{site.data.answers.c0_e2}}">`________(社交活力)`</b>, but who was now slowly withering in the aroma of camphor that rose from her widow's crepe. 
+
+## 32
+
+- But after the death of his father he learned <b data-toggle="tooltip" data-original-title="{{site.data.answers.cb_e}}">`________(所有有关...的知识)`</b> the different forms of cholera.
+
+## 34
+
+- Dr. Juvenal Urbino listened to his mother without hearing her as he clutched the doorframe, and then he <b data-toggle="tooltip" data-original-title="{{site.data.answers.cd_e}}">`________(转过半个身子)`</b>, trying to reach his bedroom, but he <b data-toggle="tooltip" data-original-title="{{site.data.answers.cd_e2}}">`________(脸朝下摔倒)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.cd_e3}}">`________(喷吐出来，溅得到处都是茴香酒)`</b>.
+
+- The truth was that Dr. Juvenal Urbino did not drink coffee, <b data-toggle="tooltip" data-original-title="{{site.data.answers.cd_j}}">`________(除非是早起第一杯咖啡)`</b>.
+
+## 35
+
+- Both of them said <b data-toggle="tooltip" data-original-title="{{site.data.answers.ce_d}}">`________(基本上/大体上)`</b> what had been said in the first, and were <b data-toggle="tooltip" data-original-title="{{site.data.answers.ce_d2}}">`________(怀着同样的谦卑)`</b>, but underneath their <b data-toggle="tooltip" data-original-title="{{site.data.answers.ce_d3}}">`________(得体)`</b> one could begin to detect an impatience that was never evident in the parsimonious letters of Florentino Ariza.
+
+## 44
+
+- She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.dd_d}}">`________(完美担任了上流夫人的角色)`</b> that Florentino Ariza needed a moment of reflection to recognize her.
+
+- But what impressed him most was that she and her husband made an admirable couple, and both of them <b data-toggle="tooltip" data-original-title="{{site.data.answers.dd_f}}">`________(自如地周旋于他们的世界)`</b> that seemed to <b data-toggle="tooltip" data-original-title="{{site.data.answers.dd_f2}}">`________(飞越了现实中的种种陷阱)`</b>.
+
+## 47
+
+- When he was not occupied with the administration of his decrepit vessels, still afloat <b data-toggle="tooltip" data-original-title="{{site.data.answers.dg_f}}">`________(由于...完全的疏忽)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.dg_f2}}">`________(由命运之神[主导的]])`</b>, or with the problems of river navigation, which grew more and more critical every day, he devoted his free time to the enrichment of his lyric repertoire.
+
+## 56
+
+- Nor did she cherish that dream again after her first formal fiance, whom she loved with the almost demented passion of which one is capable at the age of eighteen, <b data-toggle="tooltip" data-original-title="{{site.data.answers.ef_b}}">`________(撕毁婚约)`</b> before the date they had set for wedding, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.ef_b2}}">`________(使她成了被抛弃的新娘，无归无宿)`</b>.
+
+## 58
+
+- The truth is that Juvenal Urbino's suit had never been undertaken in the name of love, and it was curious, <b data-toggle="tooltip" data-original-title="{{site.data.answers.eh_d}}">`________(至少可以说)`</b>, that a militant Catholic like him would offer her only worldly goods: security, order, happiness, contiguous numbers that, once they were added together, might resemble love, almost be love.
+
+## 62
+
+- The death of his mother left Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.fb_d}}">`________(再次陷入他那各类疯狂的琐事)`</b>: the office, his meetings <b data-toggle="tooltip" data-original-title="{{site.data.answers.fb_d2}}">`________(紧密的排程)`</b> with his regular mistresses, the domino games at he Commercial Club, the same books of love, the Sunday visits to the cemetery.
+
+## 64
+
+- Without realizing it, she was menaced by the same trap of pity that had been the <b data-toggle="tooltip" data-original-title="{{site.data.answers.fd_c}}">`________(失败)`</b> of so many of Florentino Ariza's defenseless victims.
+
 ## 65
 
 - The officials were there with no more protection against the sun than ordinary umbrellas, the elementary schools were there waving little flags <b data-toggle="tooltip" data-original-title="{{site.data.answers.fe_g}}">`________(和着音乐的节拍)`</b>, and the beauty queens with scorched flowers and crowns made of gold cardboard, and the <b data-toggle="tooltip" data-original-title="{{site.data.answers.fe_g2}}">`________(铜管乐队)`</b> of the prosperous town of Gayra, which in those days was the best along the Caribbean coast.
+
+- All at once, in the large mirror on the back wall, he caught a glimpse of Fermina Daza sitting at a table with her husband and two other couples, at an angle that allowed him to see her reflected <b data-toggle="tooltip" data-original-title="{{site.data.answers.fe_h}}">`________(展现迷人的风姿)`</b>.
+
+## 66
+
+- She, on the other hand, <b data-toggle="tooltip" data-original-title="{{site.data.answers.ff_g}}">`________(待他以礼节)`</b> and never made the slightest gestures that might allow him to suspect that she remembered him from her unmarried years.
+
+## 68
+
+- Yet she had <b data-toggle="tooltip" data-original-title="{{site.data.answers.fh_b}}">`________(穿过利刃般的珊瑚礁/WOW！披荆斩棘的姐姐)`</b>, not colliding with anyone, with a power over the world that could only be a supernatural instinct.
+
+## 70
+
+- Dr. Urbino, <b data-toggle="tooltip" data-original-title="{{site.data.answers.g0_c}}">`________(以一种激烈的反应)`</b> that was not typical of him, cut him off.
+
+## 73
+
+- But she dried her hands the best she could on her apron, <b data-toggle="tooltip" data-original-title="{{site.data.answers.gc_d}}">`________(整理仪容)`</b> the best she could, <b data-toggle="tooltip" data-original-title="{{site.data.answers.gc_d2}}">`________(带着所有的高傲)`</b> she had been born with to calm her maddened heart.
+
+## 77
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.gg_g}}">`________(绿帽子)`</b>
+
+## 84
+
+- She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i}}">`________(加强她的嗅觉、提高她的手腕)`</b> so that she could <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i2}}">`________(找出)`</b> the miserable whore who had ruined her life.
+
+## 85
+
+- His ingenuity was <b data-toggle="tooltip" data-original-title="{{site.data.answers.he_b}}">`________(渐渐枯竭)`</b>.
+
+## 86
+
+- It was the same ornate handwriting as in his earlier letters, <b data-toggle="tooltip" data-original-title="{{site.data.answers.hf_f}}">`________(同样的抒情)`</b>, but applied to a simple paragraph of gratitude for the courtesy of her greeting in the Cathedral.
+
+## 87
+
+- He knew he could not <b data-toggle="tooltip" data-original-title="{{site.data.answers.hg_b}}">`________(抵抗/抵御)`</b> another moment, and then Fermina Daza came in, almost invisible in the darkness, dismayed at seeing him in such a state.
 
 # 99
 

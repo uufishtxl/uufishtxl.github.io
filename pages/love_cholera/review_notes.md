@@ -26,6 +26,9 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.presentiment}}">`presentiment`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.rowdy}}">`rowdy`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.inexorable}}">`inexorable | `</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.chimerical}}">`chimerical`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.chastisement}}">`chastisement`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.calvary}}">`calvary`</b>
 
 ## Expressions
 
@@ -129,9 +132,13 @@ summary:
 
 - He knew he could not <b data-toggle="tooltip" data-original-title="{{site.data.answers.hg_b}}">`________(抵抗/抵御)`</b> another moment, and then Fermina Daza came in, almost invisible in the darkness, dismayed at seeing him in such a state.
 
-# 99
+## 90
 
-全篇
+- But he ignored his duty as guardian: he said nothing to America Vicuna's parents, restrained by a sense of guilt that he tried to elude, and he did not discuss it with her because of a <b data-toggle="tooltip" data-original-title="{{site.data.answers.i0_b}}">`________(理由充足的)`</b> fear that she would try to <b data-toggle="tooltip" data-original-title="{{site.data.answers.i0_b2}}">`________(将他牵连到她的失败中)`</b>.
+
+## 99
+
+- She <b data-toggle="tooltip" data-original-title="{{site.data.answers.ii_g}}">`________(突然大笑起来)`</b> until she cried, which alarmed everyone.
 
 
 <!-- ### 2020/09/08

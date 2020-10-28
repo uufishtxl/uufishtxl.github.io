@@ -29,6 +29,7 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.chimerical}}">`chimerical`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.chastisement}}">`chastisement`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.calvary}}">`calvary`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.dejected}}">`dejected | introspective and dejected`</b>
 
 ## Expressions
 
@@ -112,9 +113,23 @@ summary:
 
 - But she dried her hands the best she could on her apron, <b data-toggle="tooltip" data-original-title="{{site.data.answers.gc_d}}">`________(整理仪容)`</b> the best she could, <b data-toggle="tooltip" data-original-title="{{site.data.answers.gc_d2}}">`________(带着所有的高傲)`</b> she had been born with to calm her maddened heart.
 
+## 75
+
+- He thought that all the moments in the day, which had once been his allies and <b data-toggle="tooltip" data-original-title="{{site.data.answers.ge_k}}">`________(歃血盟友)`</b>, were beginning to <b data-toggle="tooltip" data-original-title="{{site.data.answers.ge_k2}}">`________(密谋与他敌对)`</b>.
+
+## 76
+
+- One night when the moon was full, at the entrance to the port of Gamarra, he <b data-toggle="tooltip" data-original-title="{{site.data.answers.gf_c}}">`________(打赌)`</b> with a German surveyor that he could awaken the creatures of the jungle by singing a Neapolitan romanza from the Captain's balustrade.
+
 ## 77
 
 - <b data-toggle="tooltip" data-original-title="{{site.data.answers.gg_g}}">`________(绿帽子)`</b>
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.gg_d}}">`________(离开人世唯一的遗憾)`</b> is that of singing at so many funerals except my own.
+
+## 80
+
+- It was the final act in a bitter exorcism through which she was attempting to <b data-toggle="tooltip" data-original-title="{{site.data.answers.h0_b}}">`________(向她所处的新环境妥协)`</b>. 
 
 ## 84
 
@@ -139,6 +154,12 @@ summary:
 ## 99
 
 - She <b data-toggle="tooltip" data-original-title="{{site.data.answers.ii_g}}">`________(突然大笑起来)`</b> until she cried, which alarmed everyone.
+
+## 100
+
+- The Captain <b data-toggle="tooltip" data-original-title="{{site.data.answers.a00_c}}">`________(痛快地说出某事)`</b>, and with a wave of his hand he ordered the pilot to turn around and go back to the marshes.
+
+- They had not exchanged a word during his conversation with the health patrol, nor did they have the slightest idea of what would <b data-toggle="tooltip" data-original-title="{{site.data.answers.a00_d}}">`________(他们的生活将会怎么样)`</b>, but they both knew that the Captain was thinking for them:they could see it in the throbbing of his temples.
 
 
 <!-- ### 2020/09/08

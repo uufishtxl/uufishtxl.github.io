@@ -347,3 +347,35 @@ entries:
     - title: Day 70 (Oct 28)
       url: /r_pp_d70.html
       output: web, pdf
+
+  - title: Day 71 - 77
+    output: web, pdf
+    folderitems:
+
+    - title: Day 71 (Oct 29)
+      url: /r_pp_d71.html
+      output: web, pdf
+
+    - title: Day 72 (Oct 30)
+      url: /r_pp_d72.html
+      output: web, pdf
+
+    - title: Day 73(Oct 31)
+      url: /r_pp_d73.html
+      output: web, pdf
+
+    - title: Day 74 (Nov 1)
+      url: /r_pp_d74.html
+      output: web, pdf
+
+    - title: Day 75 (Nov 2)
+      url: /r_pp_d75.html
+      output: web, pdf
+
+    - title: Day 76 (Nov 3)
+      url: /r_pp_d76.html
+      output: web, pdf
+
+    - title: Day 77 (Nov 4)
+      url: /r_pp_d77.html
+      output: web, pdf

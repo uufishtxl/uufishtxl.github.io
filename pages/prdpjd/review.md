@@ -48,6 +48,12 @@ summary:
 
 - You must therefore allow me to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d25_e}}">`________(遵从我的良心)`</b> on this occasion, which leads me to perform what I look on as a point of duty.
 
+## 36 
+
+- Let me <b data-toggle="tooltip" data-original-title="{{site.data.answers.d36_a}}">`________(往最好的方向想)`</b>, in the light in which it may be understood.
+
+- Two of the girls had <b data-toggle="tooltip" data-original-title="{{site.data.answers.d36_c}}">`________(差点就结婚了)`</b>, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.d36_c2}}">`________(最后一场空)`</b>.
+
 ## 30
 
 - The envelop contained a sheet of elegant, little, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d30_f}}">`________(烫平纸)`</b>, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d30_f2}}">`________(写满了娟秀流畅的字迹)`</b>.
@@ -68,9 +74,28 @@ summary:
 
 - They are <b data-toggle="tooltip" data-original-title="{{site.data.answers.d39_f}}">`________(在人情世故方面年轻没有经验)`</b>, and not yet <b data-toggle="tooltip" data-original-title="{{site.data.answers.d39_f2}}">`________(乐于接受/愿意考虑)`</b> the mortifying conviction that handsome young men must have something to live on, as well as the plain.
 
+- She made a slight, formal apology for not calling before, said not a word of wishing to see me again, and was in every respect <b data-toggle="tooltip" data-original-title="{{site.data.answers.d39_c}}">`________(整个人变化很大)`</b> that when she went away, I was perfectly resolved to continue the acquaintance no longer.
+
+- I am now convinced, my dear aunt, that I have never been much in love, for had I really experienced that pure and <b data-toggle="tooltip" data-original-title="{{site.data.answers.d39_d}}">`________(崇高的)`</b> passion, I should at present detest his very name, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.d39_d2}}">`________(希望他遭受各种各样的灾祸)`</b>.
+
 ## 41
 
 - She is <b data-toggle="tooltip" data-original-title="{{site.data.answers.d41_h}}">`________(和蔼可亲)`</b>, and I doubt not but you will be honored with some portion of her notice when service is over.
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.d41_f}}">`________(她对于他来说简直是佳偶天成)`</b>.
+
+## 45
+
+- Colonel Fitzwilliam seemed really glad to see them. Anything was a welcome relief to him at Rosings, and Mrs. Collins's pretty friend had, moreover, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d45_a}}">`________(非常讨他的欢心)`</b>.
+
+## 47
+
+-  And, after various conjectures, they could at last only suppose his visit to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d47_a}}">`________(源于)`</b> the difficulty of finding anything to do, which was the more probable from <b data-toggle="tooltip" data-original-title="{{site.data.answers.d47_a2}}">`________(这个时节)`</b>.
+
+
+## 48
+
+- That is an advantage which he must <b data-toggle="tooltip" data-original-title="{{site.data.answers.d48_a}}">`________(与我分享)`</b>. I am <b data-toggle="tooltip" data-original-title="{{site.data.answers.d48_a2}}">`________(和我共同拥有达西小姐的监护权)`</b>.
 
 ## 54
 

@@ -83,6 +83,10 @@ summary:
 
 - The truth is that Juvenal Urbino's suit had never been undertaken in the name of love, and it was curious, <b data-toggle="tooltip" data-original-title="{{site.data.answers.eh_d}}">`________(至少可以说)`</b>, that a militant Catholic like him would offer her only worldly goods: security, order, happiness, contiguous numbers that, once they were added together, might resemble love, almost be love.
 
+## 59
+
+- For although she did not admit it in her innermost thoughts, or in the silent arguments she had with her husband during the hours they had once devoted to love, She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.ei_e}}">`________(陷入了混乱之中，这比她想象的更快)`</b>  of conventions and prejudices of her new world.
+
 ## 62
 
 - The death of his mother left Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.fb_d}}">`________(再次陷入他那各类疯狂的琐事)`</b>: the office, his meetings <b data-toggle="tooltip" data-original-title="{{site.data.answers.fb_d2}}">`________(紧密的排程)`</b> with his regular mistresses, the domino games at he Commercial Club, the same books of love, the Sunday visits to the cemetery.
@@ -101,6 +105,8 @@ summary:
 
 - She, on the other hand, <b data-toggle="tooltip" data-original-title="{{site.data.answers.ff_g}}">`________(待他以礼节)`</b> and never made the slightest gestures that might allow him to suspect that she remembered him from her unmarried years.
 
+- From that night on, and for almost a year afterward, he <b data-toggle="tooltip" data-original-title="{{site.data.answers.ff_e}}">`________(一直缠着某人)`</b> to the owner of the inn, offering him whatever he wanted, money or favors or whatever he desired most in life, if he would sell him the mirror.
+
 ## 68
 
 - Yet she had <b data-toggle="tooltip" data-original-title="{{site.data.answers.fh_b}}">`________(穿过利刃般的珊瑚礁/WOW！披荆斩棘的姐姐)`</b>, not colliding with anyone, with a power over the world that could only be a supernatural instinct.
@@ -108,6 +114,8 @@ summary:
 ## 70
 
 - Dr. Urbino, <b data-toggle="tooltip" data-original-title="{{site.data.answers.g0_c}}">`________(以一种激烈的反应)`</b> that was not typical of him, cut him off.
+
+- But the address made her think that she must come from Jamaica, a black woman, of course, and she <b data-toggle="tooltip" data-original-title="{{site.data.answers.g0_a}}">`________(不假思索地排除了她)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.g0_a2}}">`________(认为不是她丈夫喜欢的类型)`</b>.
 
 ## 73
 

@@ -30,6 +30,8 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.chastisement}}">`chastisement`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.calvary}}">`calvary`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.dejected}}">`dejected | introspective and dejected`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.astuteness}}">`astuteness`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.stigma}}">`stigma`</b>
 
 ## Expressions
 
@@ -71,9 +73,21 @@ summary:
 
 - But what impressed him most was that she and her husband made an admirable couple, and both of them <b data-toggle="tooltip" data-original-title="{{site.data.answers.dd_f}}">`________(自如地周旋于他们的世界)`</b> that seemed to <b data-toggle="tooltip" data-original-title="{{site.data.answers.dd_f2}}">`________(飞越了现实中的种种陷阱)`</b>.
 
+## 46
+
+- Laferrière seemed less pretentious and voracious to her, but her wise decision was to buy her <b data-toggle="tooltip" data-original-title="{{site.data.answers.df_j}}">`________(她最喜欢的东西)`</b> in the secondhand shops, although her husband swore in dismay that it was corpses's clothing.
+
 ## 47
 
 - When he was not occupied with the administration of his decrepit vessels, still afloat <b data-toggle="tooltip" data-original-title="{{site.data.answers.dg_f}}">`________(由于...完全的疏忽)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.dg_f2}}">`________(由命运之神[主导的]])`</b>, or with the problems of river navigation, which grew more and more critical every day, he devoted his free time to the enrichment of his lyric repertoire.
+
+## 49
+
+- During this period Florentino Ariza had to attend too many responsibilities at the same time, but his spirits never <b data-toggle="tooltip" data-original-title="{{site.data.answers.di_f}}">`________(疲倦/热情消退)`</b> as he sought to expand his work as a furtive hunter.
+
+## 52
+
+- Her determination was so great that Florentino Ariza himself lost his way in her <b data-toggle="tooltip" data-original-title="{{site.data.answers.eb_h}}">`________(谋划)`</b>, and on one unfortunate occasion he attempted to block her, thinking that she was trying to do the same to him. Leona Cassiani <b data-toggle="tooltip" data-original-title="{{site.data.answers.eb_h2}}">`________(to show someone that they are not as clever or important as they think they are)`</b>.
 
 ## 56
 

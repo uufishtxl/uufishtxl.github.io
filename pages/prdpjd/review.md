@@ -12,16 +12,9 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.solicitation}}">`solicitation`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.solicitation}}">`solicitation`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.perverse}}">`perverse`</b>
-
-## 20200826
-
-- 01: ★★★★★
-- 02: ★★★★★
-- 03: ★★★★
-- 04: ★★★★
-- 05: ★★★★
-- 06: ★★★★★
-- 07: ★★★★
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.rectitude}}">`rectitude`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.dissemble}}">`dissemble`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.posterity}}">`posterity`</b>
 
 ## 04
 
@@ -44,9 +37,20 @@ summary:
 
 - <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_j}}">`________(不过就算情况像你说的那样)`</b>, you must remember, Miss Bennet, that the friend who is supposed to desire his return to the house and the delay of his plan, has merely desired it, asked it <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_j2}}">`________(未给出理由说明其要求是合理的)`</b>.
 
+## 24
+
+- And I could wish, Miss Bennet, that you were not to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d24_g}}">`________(勾画我的性格)`</b> at the present moment, as there is reason to fear that the performance would <b data-toggle="tooltip" data-original-title="{{site.data.answers.d24_g2}}">`________(对双方都没好处)`</b>
+
 ## 25
 
 - You must therefore allow me to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d25_e}}">`________(遵从我的良心)`</b> on this occasion, which leads me to perform what I look on as a point of duty.
+
+## 28
+
+- The idea of Mr. Collins, with all his solemn composure, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d28_c}}">`________(控制不住感情)`</b>, made Elizabeth so <b data-toggle="tooltip" data-original-title="{{site.data.answers.d28_c2}}">`________(差点笑出来)`</b> that she could not use the short pause he allowed in any attempt to stop him farther, and he continued.
+
+
+- This has been my motive, my fair cousin, and I flatter myself it will not <b data-toggle="tooltip" data-original-title="{{site.data.answers.d28_g}}">`________(看不起我)`</b>, and now <b data-toggle="tooltip" data-original-title="{{site.data.answers.d28_g2}}">`________(我只能做一件事情)`</b> assure you <b data-toggle="tooltip" data-original-title="{{site.data.answers.d28_g3}}">`________(用最热烈的语言)`</b> of the violence of my affect.
 
 ## 36 
 
@@ -65,6 +69,10 @@ summary:
 ## 33
 
 - And if you find it likely to be raised by your coming to us again, which I should think exceedingly probable, stay quietly at home, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.d33_d}}">`________(放心)`</b> that we shall <b data-toggle="tooltip" data-original-title="{{site.data.answers.d33_d2}}">`________(不会见怪)`</b>.
+
+## 35
+
+- "You doubt me," cried Jane, slightly <b data-toggle="tooltip" data-original-title="{{site.data.answers.d35_g}}">`________(愠色)`</b>, "indeed you have no reason."
 
 ## 37
 

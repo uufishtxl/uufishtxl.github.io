@@ -411,3 +411,79 @@ entries:
     - title: Day 84 (Nov 11)
       url: /r_pp_d84.html
       output: web, pdf
+
+  - title: Day 85 - 91
+    output: web, pdf
+    folderitems:
+
+    - title: Day 85 (Nov 12)
+      url: /r_pp_d85.html
+      output: web, pdf
+
+    - title: Day 86 (Nov 13)
+      url: /r_pp_d86.html
+      output: web, pdf
+
+    - title: Day 87 (Nov 14)
+      url: /r_pp_d87.html
+      output: web, pdf
+
+    - title: Day 88 (Nov 15)
+      url: /r_pp_d88.html
+      output: web, pdf
+
+    - title: Day 89 (Nov 16)
+      url: /r_pp_d89.html
+      output: web, pdf
+
+    - title: Day 90 (Nov 17)
+      url: /r_pp_d90.html
+      output: web, pdf
+
+    - title: Day 91 (Nov 18)
+      url: /r_pp_d91.html
+      output: web, pdf
+
+  - title: Day 92 - 98
+    output: web, pdf
+    folderitems:
+
+    - title: Day 92 (Nov 19)
+      url: /r_pp_d92.html
+      output: web, pdf
+
+    - title: Day 93 (Nov 20)
+      url: /r_pp_d93.html
+      output: web, pdf
+
+    - title: Day 94 (Nov 21)
+      url: /r_pp_d94.html
+      output: web, pdf
+
+    - title: Day 95 (Nov 22)
+      url: /r_pp_d95.html
+      output: web, pdf
+
+    - title: Day 96 (Nov 23)
+      url: /r_pp_d96.html
+      output: web, pdf
+
+    - title: Day 97 (Nov 24)
+      url: /r_pp_d97.html
+      output: web, pdf
+
+    - title: Day 98 (Nov 25)
+      url: /r_pp_d98.html
+      output: web, pdf
+
+  - title: Day 99 - 100
+    output: web, pdf
+    folderitems:
+
+    - title: Day 99 (Nov 26)
+      url: /r_pp_d99.html
+      output: web, pdf
+
+    - title: Day 100 (Nov 27)
+      url: /r_pp_d100.html
+      output: web, pdf

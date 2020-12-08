@@ -15,6 +15,11 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.rectitude}}">`rectitude`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.dissemble}}">`dissemble`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.posterity}}">`posterity`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.unqualified}}">`unqualified`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.squeamish}}">`squeamish`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.obeisance}}">`obeisance`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.depravity}}">`depravity`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.wanton}}">`wanton`</b>
 
 ## 04
 
@@ -105,6 +110,18 @@ summary:
 
 - That is an advantage which he must <b data-toggle="tooltip" data-original-title="{{site.data.answers.d48_a}}">`________(与我分享)`</b>. I am <b data-toggle="tooltip" data-original-title="{{site.data.answers.d48_a2}}">`________(和我共同拥有达西小姐的监护权)`</b>.
 
+## 53
+
+- But when this subject was succeeded by his account of Mr. Wickham, when she read, with somewhat clearer attention, a relation of events which, if true, must <b data-toggle="tooltip" data-original-title="{{site.data.answers.d53_d}}">`________(对他的好感一笔勾销)`</b>, and which bore so alarming an affinity to his own history of himself, her feelings were yet more acutely painful and more difficult to definition.
+
 ## 54
 
 - And that there was a constant complacency in her air and manner, not often <b data-toggle="tooltip" data-original-title="{{site.data.answers.d54_g}}">`________(和多愁善感联系起来)`</b>.
+
+## 71
+
+She could neither wonder nor condemn, but the belief of his self-conquest <b data-toggle="tooltip" data-original-title="{{site.data.answers.d71_e}}">`________(未能给她的心灵带来一丝安慰)`</b>, afforded no palliation of her distress.
+
+## 79
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.d79_j}}">`________(通知一次，也就能通知到所有人)`</b>.

@@ -1,0 +1,12 @@
+I"$<p>This part gleaned tips around articulating conceptual topics for an API product out of <a href="https://idratherbewriting.com/learnapidoc/docapis_rate_limiting_and_thresholds.html">Tom’s API documentation tutorial</a>.</p>
+
+<h2 id="rate-limiting">Rate limiting</h2>
+
+<p>API comes in different tiers (for example, free versus pro) and licenses (open-source, business, commercial) corresponding to different capabilities or rate limits with the API.</p>
+
+<h2 id="what-to-cover-with-rate-limiting">What to cover with rate limiting</h2>
+
+<blockquote>
+  <p>Pricing related to rate limiting is probably information that’s within the marketing domain rather than documentation domain. However, developers will still want to know a few key behaviors around the rate-limiting thresholds.</p>
+</blockquote>
+:ET

@@ -1,0 +1,112 @@
+I"$<p>This is based on Daniel Shiffman’s video tutorial on <strong>Working with Data and APIs in JavaScript</strong>.</p>
+
+<h2 id="resource">Resource</h2>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/tc8DU14qX6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<h2 id="purpose">Purpose</h2>
+
+<p>Fetch an image, grab its blob information and make an image element.</p>
+
+<h3 id="step-1-fetch-the-target-resource">Step 1: Fetch the target resource</h3>
+
+<p>Call fetch(<em>path</em>).</p>
+
+<pre><code class="language-JavaScript">fetch('rainbow.jpg')
+</code></pre>
+
+<h3 id="step-2-deal-with-the-response">Step 2: Deal with the response</h3>
+
+<p>This involves the idea of a <strong>Promise</strong>. Accroding to MDN:</p>
+
+<blockquote>
+  <p>The Promise object represents the eventual completion (or failure) of an asynchronous operation, and its resulting value.</p>
+
+  <p>The <code class="language-plaintext highlighter-rouge">fetch()</code> function is a function that happens asynchronously. meaning we call <code class="language-plaintext highlighter-rouge">fetch()</code>, but some time passes because it takes some time to retrieve the data.</p>
+
+  <p>The <code class="language-plaintext highlighter-rouge">then()</code> method returns a Promise. It takes up to two arguments: callback functions for the success and failure cases of the Promise.</p>
+</blockquote>
+
+<h3 id="step-3-complete-data-stream">Step 3: Complete data stream</h3>
+
+<p>However, the response is a stream of data. So we have to read it and pick up what is essential to us and store it in a desired format.</p>
+
+<blockquote>
+  <p>The blob() method of the Body mixin takes a Response stream and reads it to completion. It returns a promise that resolves with a Blob.</p>
+</blockquote>
+
+<pre><code class="language-JavaScript">fetch('rainbow.jpg')
+  .then(response =&gt; {
+    return response.blob();
+  })
+</code></pre>
+
+<h3 id="step-4-make-an--element-with-that-data">Step 4: Make an <img /> element with that data.</h3>
+
+<pre><code class="language-JavaScript">fecth ('rainbow.jpg')
+  .then(response =&gt; {
+    return response.blob();
+  })
+  .then(blob =&gt; {
+    document.getElementById('rainbow').src = URL.createObjectURL(blob);
+  })
+</code></pre>
+
+<blockquote>
+  <p>The URL.createObjectURL(object) static method creates a DOMString containing a URL representing the object given in the parameter.</p>
+</blockquote>
+
+<h3 id="step-5-complete-the-error-part">Step 5: Complete the error part</h3>
+
+<blockquote>
+  <p>The catch() method returns a Promise and deals with rejected cases only.</p>
+</blockquote>
+
+<pre><code class="language-JavaScript">fetch('rainbow.jpg')
+  .then(response =&gt; {
+    return response.blob();
+  })
+  .then(blob =&gt; {
+    document.getElementById('rainbow').src = URL.createObjectURL(blob);
+  })
+  .catch(error =&gt; {
+    console.log('error');
+    console.error(error);
+  });
+</code></pre>
+
+<h3 id="async-and-await-a-more-readable-approach"><code class="language-plaintext highlighter-rouge">async</code> and <code class="language-plaintext highlighter-rouge">await</code>: A more readable approach</h3>
+
+<blockquote>
+  <p>The async function declaration defines an asynchronous function, which returns an AsyncFunction object. An asynchronous function is a function which operates asynchronously via the event loop, using an implicit Promise to return its result.</p>
+
+  <pre><code class="language-JavaScript">async function name([param[, param[, ... param]]]) {
+   statements
+}
+</code></pre>
+</blockquote>
+
+<blockquote>
+  <p>An async function can contain an await expression that pauses the execution of the async function and waits for the passed Promise’s resolution, and then resumes the async function’s execution and evaluates as the resolved value.</p>
+</blockquote>
+
+<pre><code class="language-JavaScript">async function catchRainbow() {
+  const response = await fetch('rainbow.jpg');
+  const blob = await response.blob();
+  document.getElementById('rainbow').src = URL.createObjectURL(blob);
+}
+</code></pre>
+
+<p>Add success message and error information:</p>
+
+<pre><code class="language-JavaScript">catchRainbow()
+  .then(response =&gt; {
+      console.log('yay')
+  })
+  .catch(error =&gt; {
+      console.log('error!');
+      console.error(error);
+  });
+</code></pre>
+
+:ET

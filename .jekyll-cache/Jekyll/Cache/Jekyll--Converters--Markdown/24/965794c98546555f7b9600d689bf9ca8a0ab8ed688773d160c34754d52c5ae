@@ -1,0 +1,18 @@
+I"Y<p>Select between different video inputs that are connected to your monitor.</p>
+
+<h3 id="dp"><code class="language-plaintext highlighter-rouge">DP</code></h3>
+
+<p>Select <code class="language-plaintext highlighter-rouge">DP</code> input when you are using the <code class="language-plaintext highlighter-rouge">DP</code> connector.</p>
+
+<h3 id="hdmi-1--hdmi-2"><code class="language-plaintext highlighter-rouge">HDMI 1</code> / <code class="language-plaintext highlighter-rouge">HDMI 2</code></h3>
+
+<p>Select <code class="language-plaintext highlighter-rouge">HDMI 1</code> or <code class="language-plaintext highlighter-rouge">HDMI 2</code> input when you are using the HMDI connector.</p>
+
+<h3 id="auto-select"><code class="language-plaintext highlighter-rouge">Auto Select</code></h3>
+
+<p>Allow the monitor to automatically scan for available input sources.</p>
+
+<h3 id="reset-input-source"><code class="language-plaintext highlighter-rouge">Reset Input Source</code></h3>
+
+<p>Reset your monitor’s <code class="language-plaintext highlighter-rouge">Input Source</code> settings to the factory defaults.</p>
+:ET

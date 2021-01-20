@@ -1,0 +1,20 @@
+I"2<p>This part gleaned tips around articulating conceptual topics for an API product out of <a href="https://idratherbewriting.com/learnapidoc/docconceptual.html">Tom’s API documentation tutorial</a>.</p>
+
+<h2 id="overview">Overview</h2>
+
+<h3 id="purpose">Purpose</h3>
+
+<ul>
+  <li>Enables users to grasp the purpose of the API at a high-level.</li>
+  <li>List scenarios to give users context they need to evaluate whether the API is relevant to their needs.</li>
+  <li>To users, the most pivotal question is what information your API returns.</li>
+</ul>
+
+<h3 id="market-problem--intended-audience">Market problem &amp; intended audience</h3>
+
+<ul>
+  <li>Explain the market problem your API product solves: What is your product.</li>
+  <li>Pinpoint the target audience of your product: Who your API is for.</li>
+</ul>
+
+:ET

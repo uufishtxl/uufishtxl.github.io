@@ -1,0 +1,16 @@
+I"�<p><a href="https://jsfiddle.net/edith_tang/aq9fkj7s/27/">这一节的代码范例</a></p>
+
+<p><code class="language-plaintext highlighter-rouge">v-model</code>的修饰符用来控制数据同步的机制。</p>
+
+<h2 id="lazy"><code class="language-plaintext highlighter-rouge">.lazy</code></h2>
+
+<p>在输入框中，<code class="language-plaintext highlighter-rouge">v-model</code>默认是在<code class="language-plaintext highlighter-rouge">input</code>事件中同步输入框的数据（除了特别说明过的中文输入法比较特殊外），使用修饰符<code class="language-plaintext highlighter-rouge">.lazy</code>会转变为在 <code class="language-plaintext highlighter-rouge">change</code> 事件中同步。以文本输入框为例，就是会在按下<code class="language-plaintext highlighter-rouge">ENTER</code>键或输入框失去焦点时，才会同步数据。</p>
+
+<h2 id="number"><code class="language-plaintext highlighter-rouge">.number</code></h2>
+
+<p>使用修饰符<code class="language-plaintext highlighter-rouge">.number</code>可以将输入转换为<code class="language-plaintext highlighter-rouge">Number</code>类型。这是考虑到即便是需要输入数字的输入框，输入内容绑定的数据也仍然是<code class="language-plaintext highlighter-rouge">String</code>类型，那利用这个修饰符，就能立即转换为<code class="language-plaintext highlighter-rouge">Number</code>数据类型。</p>
+
+<h2 id="trim"><code class="language-plaintext highlighter-rouge">.trim</code></h2>
+
+<p>使用修饰符<code class="language-plaintext highlighter-rouge">.trim</code>可以去除输入内容的首尾空格。</p>
+:ET

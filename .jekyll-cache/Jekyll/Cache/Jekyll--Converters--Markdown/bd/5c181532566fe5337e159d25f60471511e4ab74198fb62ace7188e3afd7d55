@@ -1,0 +1,13 @@
+I"<p>This part gleaned tips around articulating conceptual topics for an API product out of <a href="https://idratherbewriting.com/learnapidoc/docapis_codesamples_bestpractices.html">Tom’s API documentation tutorial</a>.</p>
+
+<h2 id="focus-on-the-why-not-the-what">Focus on the why, not the what</h2>
+
+<blockquote>
+  <p>Explain why you’re doing, what you’re doing, not the detailed play-by-play of what’s going on, especially when the <em>what</em> refers more to standard programming mechanics that aren’t unique to your API.</p>
+  <ul>
+    <li><strong>what</strong>: In this code, several arguments are passed to jQuery’s <code class="language-plaintext highlighter-rouge">ajax</code> method. The response is assigned to the data argument of the callback function, which in this case is success.</li>
+    <li><strong>why</strong>: Use the <code class="language-plaintext highlighter-rouge">ajax</code> method from jQuery because it allows for asynchronous responses that won’t block the loading of your page.</li>
+  </ul>
+</blockquote>
+
+:ET

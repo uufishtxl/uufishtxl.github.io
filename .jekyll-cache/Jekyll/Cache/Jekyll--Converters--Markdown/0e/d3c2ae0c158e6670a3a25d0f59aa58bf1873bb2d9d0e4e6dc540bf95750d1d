@@ -1,0 +1,92 @@
+I"W<p>OOP, also known as object-oriented programming</p>
+
+<h2 id="resources">Resources</h2>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/xoL6WvCARJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<h2 id="class">Class</h2>
+
+<blockquote>
+  <p>It is the design or blurprint of any entity, which defines the core properties and functions.</p>
+</blockquote>
+
+<h2 id="object">Object</h2>
+
+<blockquote>
+  <p>An object is an inheritance of a class which has physical existence.</p>
+
+  <p>My name is <em>edith</em>, and I am an <em>object</em> of class <em>Female</em>.</p>
+
+  <p>HumanBeing, Male or Female, we just mean a type/kind.</p>
+
+  <p>You, me, our friends, have physical existence, while class is just a logical definition.</p>
+</blockquote>
+
+<h2 id="inheritance">Inheritance</h2>
+
+<blockquote>
+  <p>In OOP, the meaning of inheritance is very close to its actual meaning in English.</p>
+
+  <p><img src="/img/oop_inheritance.png" alt="inheritance" /></p>
+</blockquote>
+
+<h2 id="abstraction">Abstraction</h2>
+
+<blockquote>
+  <p>Abstraction means hiding the details from the outside world.</p>
+
+  <p>Get the details hidden from the outside world and take a ‘skin’ as the abstraction factor to hide the inside mechanism from the outside world.</p>
+
+  <p><img src="/img/oop_abstraction.png" alt="abstraction" /></p>
+</blockquote>
+
+<h2 id="encapsulation">Encapsulation</h2>
+
+<blockquote>
+  <p>Encapsulation refers to binding properties with functions.</p>
+</blockquote>
+
+<h2 id="polymorphism">Polymorphism</h2>
+
+<blockquote>
+  <p>Polymorphism means “many forms”. It allows us to define more than one way to do something., either by using a different proces sfor it or by using different parts to do it.</p>
+
+  <p>Polymorphism methods:</p>
+
+  <ul>
+    <li>Overriding: Everyone walks in the direction of his face. If one walks while facing the other direction, this is overriding. When you change the mechanism of function, it is called “overriding”</li>
+    <li>Overloading: When we use our hands, not our legs, to walk, overloading occurs.
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>class HumanBeing:
+    def walk(hands):
+        print "Walk using our hands"
+        print "this is overloading"
+</code></pre></div>      </div>
+    </li>
+  </ul>
+</blockquote>
+
+<h2 id="a-metaphor">A metaphor</h2>
+
+<ul>
+  <li>
+    <p><strong>class</strong>: HumanBeing</p>
+
+    <ul>
+      <li><strong>Properties</strong>: Body Parts
+        <ul>
+          <li>Hands</li>
+          <li>Legs</li>
+          <li>Eyes…</li>
+        </ul>
+      </li>
+      <li><strong>Functions</strong>: Body functions:
+        <ul>
+          <li>Walk()</li>
+          <li>Talk()</li>
+          <li>See()</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

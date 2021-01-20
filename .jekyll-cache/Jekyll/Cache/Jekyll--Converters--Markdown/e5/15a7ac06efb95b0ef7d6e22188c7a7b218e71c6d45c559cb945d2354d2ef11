@@ -1,0 +1,95 @@
+I"�
+<p>This part gleaned tips around articulating conceptual topics for an API product out of <a href="https://idratherbewriting.com/learnapidoc/docapis_doc_getting_started_section.html">Tom’s API documentation tutorial</a>.</p>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<p>An equivalance to the Hello World tutorial in developer documentation. Make the output simplest. The goal is merely to get users to get an end-to-end sense of how your product works.</p>
+
+<p>Break down your Getting Started tutorial into several segments, such as:</p>
+
+<ul>
+  <li>Signing up for an account</li>
+  <li>Getting API keys</li>
+  <li>Making a request</li>
+  <li>Evaluating the response</li>
+</ul>
+
+<p>Put a link to the Getting Started tutorial on your documentation homepage.</p>
+
+<h3 id="run-in-postman-vs-swagger-ui">Run-in-Postman vs Swagger UI</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Product</strong></td>
+      <td><strong>Highs</strong></td>
+      <td><strong>Lows</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Run in postman</strong></td>
+      <td>Able to save the calls users make</td>
+      <td>Cannot incorporate parameter and endpoint description</td>
+    </tr>
+    <tr>
+      <td><strong>Swagger UI</strong></td>
+      <td>In-browser experience</td>
+      <td>Cannot save the calls user make</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="keywords-you-should-know-about-the-getting-started-tutorial">Keywords you should know about the getting started tutorial</h3>
+
+<ul>
+  <li>The call being <strong>simplistic</strong></li>
+  <li>Hold the developer’s hand</li>
+  <li>Demonstrate a <strong>beginning to end, full</strong> process</li>
+</ul>
+
+<h3 id="examples">Examples</h3>
+
+<h4 id="paypal">Paypal</h4>
+
+<p>Contains quite a bit of details:</p>
+
+<ul>
+  <li>Get started
+    <ul>
+      <li>Authentication &amp; Authorization</li>
+      <li>API Requests</li>
+      <li>API Responses</li>
+      <li>Make Your First Call</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="twitter">Twitter</h4>
+
+<p>Text being concise and easy-to-follow, coupled with different development goals and able to link out to other pages that have more details:</p>
+
+<ul>
+  <li>Getting started
+    <ul>
+      <li>Getting started with Twitter’s developer platform
+        <ul>
+          <li>What do you want to build?</li>
+        </ul>
+      </li>
+      <li>First steps
+        <ul>
+          <li>Twitter’s developer tools and APIs</li>
+          <li>Creating a Twitter app</li>
+          <li>Dig into our documentation</li>
+          <li>Find some example code and libraries</li>
+        </ul>
+      </li>
+      <li>Next steps
+        <ul>
+          <li>Integrate Tweets into your app or website</li>
+          <li>Post Tweets and Direct Messages from your app or website</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

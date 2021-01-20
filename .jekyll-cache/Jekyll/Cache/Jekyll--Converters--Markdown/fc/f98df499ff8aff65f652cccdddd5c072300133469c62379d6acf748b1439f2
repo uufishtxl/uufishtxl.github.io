@@ -1,0 +1,100 @@
+I"�<h2 id="基本用法">基本用法</h2>
+
+<h3 id="props中声明的数据与data函数返回的数据的同异点"><code class="language-plaintext highlighter-rouge">props</code>中声明的数据与<code class="language-plaintext highlighter-rouge">data</code>函数返回的数据的同异点</h3>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">props</code>来自父级，<code class="language-plaintext highlighter-rouge">data</code>是组件自己的数据，作用域是组件本身</li>
+  <li>都可以在模板<code class="language-plaintext highlighter-rouge">template</code>、计算属性<code class="language-plaintext highlighter-rouge">computed</code>及<code class="language-plaintext highlighter-rouge">methods</code>中使用</li>
+</ul>
+
+<p>如果要传递多个数据，在<code class="language-plaintext highlighter-rouge">props</code>数组添加项即可。</p>
+
+<h4 id="kebab-case和camelcase的选择">kebab-case和camelCase的选择</h4>
+
+<p>HTML 的特性是不区分大小写，当使用 DOM 模板时，驼峰命名的 props 名称要转换成短横命名。</p>
+
+<h3 id="传递动态数据到子组件">传递动态数据到子组件</h3>
+
+<p><a href="https://jsfiddle.net/edith_tang/jxu8h74b/latest/">以文本输入框<code class="language-plaintext highlighter-rouge">&lt;input type="text"&gt;</code>为例</a>，需要做的事情是：</p>
+
+<ol>
+  <li>
+    <p>在文本输入框用<code class="language-plaintext highlighter-rouge">v-model</code>将输入内容绑定到数据<code class="language-plaintext highlighter-rouge">favBook</code>。</p>
+  </li>
+  <li>
+    <p>在父级的<code class="language-plaintext highlighter-rouge">&lt;my-component&gt;</code>标签上，将favBook的值绑定到一个自定义属性上，比如<code class="language-plaintext highlighter-rouge">:favorite="favBook"</code>。</p>
+  </li>
+  <li>
+    <p>子组件的接收<code class="language-plaintext highlighter-rouge">props</code>，就完成了。</p>
+  </li>
+</ol>
+
+<h3 id="用v-bind传递prop">用<code class="language-plaintext highlighter-rouge">v-bind</code>传递<code class="language-plaintext highlighter-rouge">prop</code></h3>
+
+<p><a href="https://jsfiddle.net/edith_tang/43Lmwryj/12/">示例</a></p>
+
+<p>如果要直接传递数字、布尔值、数组、对象，要使用<code class="language-plaintext highlighter-rouge">v-bind</code>来给子组件传递数据。所以为了避免混淆，即使传递字符串，建议也用<code class="language-plaintext highlighter-rouge">v-bind</code>。</p>
+
+<h2 id="单向数据流">单向数据流</h2>
+
+<p>Vue 1.x 中，通过props传递数据支持双向数据流。为了避免子组件无意中修改父组件的状态，需要尽可能将父子组件解耦，因此v2.x中只支持通过props来让父组件单向传递数据给子组件。</p>
+
+<p>业务中，经常会碰到两种需要改变prop的情况。</p>
+
+<ol>
+  <li>
+    <p>第一种做法是父组件传递prop到子组件，子组件将它作为初始值保存到自身的某个数据中，在自己的作用域下任意使用和修改。</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">prop</code>作为需要被改变的原始值保存到子组件的一个计算属性中。</p>
+  </li>
+</ol>
+
+<p><a href="https://jsfiddle.net/edith_tang/kgj0um5y/16/">以上示例，请点击这里。</a></p>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 在JavaScript中，对象和数组是引用类型，指向同一个内存空间，所以 props 是对象和数组时，在子组件内改变是会影响父组件的。</div>
+
+<table>
+  <tbody>
+    <tr>
+      <td>上面这个Note提示我并不明白到底怎么回事 = =</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="数据验证">数据验证</h2>
+
+<p>之前的介绍里，<code class="language-plaintext highlighter-rouge">props</code>都是一个数组。但是当牵涉到数据验证时，<code class="language-plaintext highlighter-rouge">props</code>必须是对象。</p>
+
+<p><a href="https://jsfiddle.net/edith_tang/a68uo4kh/5/">《Vue.js》中的范例</a></p>
+
+<p>验证的 <code class="language-plaintext highlighter-rouge">type</code> 类型有：</p>
+
+<ul>
+  <li>
+    <p>String</p>
+  </li>
+  <li>
+    <p>Number</p>
+  </li>
+  <li>
+    <p>Boolean</p>
+  </li>
+  <li>
+    <p>Object</p>
+  </li>
+  <li>
+    <p>Array</p>
+  </li>
+  <li>
+    <p>Function</p>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">type</code>也可以是一个自定义构造器，使用<code class="language-plaintext highlighter-rouge">instanceof</code>检测。</p>
+:ET

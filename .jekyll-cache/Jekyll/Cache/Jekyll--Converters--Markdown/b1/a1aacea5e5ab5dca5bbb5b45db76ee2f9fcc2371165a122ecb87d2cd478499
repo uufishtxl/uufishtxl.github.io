@@ -1,0 +1,20 @@
+I"×<h2 id="equals">Equals</h2>
+
+<p>Double equal: check the string merely, regardless of its data type.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const x = '10';
+if(x == 10) {
+  console.log('x is 10')
+}
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const x = 10;
+if(x == 10) {
+  console.log('x is 10`)
+}
+</code></pre></div></div>
+
+<p>They both fit into the true scenario.</p>
+
+<p>Triple equal is much more strict. It takes the data type into account as well. So, in this case, <code class="language-plaintext highlighter-rouge">x = '10'</code> does not match the true statement.</p>
+:ET

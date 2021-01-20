@@ -1,0 +1,66 @@
+I"S<h1 id="es6">ES6</h1>
+
+<h2 id="变量的声明">变量的声明</h2>
+
+<h3 id="var和let的比较">var和let的比较</h3>
+
+<h4 id="作用域的不同">作用域的不同</h4>
+
+<h5 id="for循环作为佐证"><code class="language-plaintext highlighter-rouge">for</code>循环作为佐证</h5>
+
+<h5 id="小知识for循环中的两个作用域">小知识：<code class="language-plaintext highlighter-rouge">for</code>循环中的两个作用域</h5>
+
+<h4 id="变量提升的现象">“变量提升”的现象</h4>
+
+<h4 id="tdz-暂时性死区">TDZ (暂时性死区)</h4>
+
+<h5 id="对typeof-操作符的影响">对typeof 操作符的影响</h5>
+
+<h4 id="let不允许在相同的作用域重复声明一个变量">let不允许在相同的作用域，重复声明一个变量</h4>
+
+<h4 id="es6允许浏览器有自己的行为方式">ES6允许浏览器有自己的行为方式</h4>
+
+<h5 id="函数声明类似于var-会提升到全局作用域函数作用域的头部">函数声明类似于var 会提升到全局作用域、函数作用域的头部</h5>
+
+<h5 id="函数声明还会提升到所在块级作用域的头部">函数声明还会提升到所在块级作用域的头部</h5>
+
+<h5 id="避免在块级作用域声明函数尽量使用表达式">避免在块级作用域声明函数，尽量使用表达式</h5>
+
+<h3 id="const">const</h3>
+
+<h4 id="const一旦声明变量就不得改变值">const一旦声明变量，就不得改变值</h4>
+
+<h4 id="声明的同时必须立即初始化不能之后再赋值">声明的同时，必须立即初始化，不能之后再赋值</h4>
+
+<h4 id="和let一样只在所在的代码的作用域内有效">和let一样，只在所在的代码的作用域内有效</h4>
+
+<h4 id="本质实质上只能保证指向的内存地址不会至于它的数据结构完全不能控制">本质：实质上只能保证指向的内存地址不会，至于它的数据结构完全不能控制</h4>
+
+<h3 id="es52种方式var和function">ES5：2种方式（var和function）</h3>
+
+<h3 id="es5新增了四种有-let-const-import和class">ES5新增了四种，有 let, const, import和class</h3>
+
+<h3 id="顶层对象的属性与全局变量">顶层对象的属性与全局变量</h3>
+
+<p>在ES5中，两者是相等的。
+ES6改变了这一点 <code class="language-plaintext highlighter-rouge">let</code>命令 <code class="language-plaintext highlighter-rouge">const</code>命令 <code class="language-plaintext highlighter-rouge">class</code>命令声明的全局变量，不属于顶层对象的属性。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> var a = 1;
+
+ console.log(window.a); // 1
+
+ let b = 2;
+
+ console.log(window.b); // undefined 用let命令声明的变量和顶层对象没有关系
+</code></pre></div></div>
+
+<h4 id="浏览器的顶级对象是window">浏览器的顶级对象是window</h4>
+
+<h4 id="node中的顶级对象是global">Node中的顶级对象是global</h4>
+
+<h4 id="浏览器和web-worker里self也指向顶层对象但是node没有self">浏览器和Web Worker里，self也指向顶层对象，但是Node没有self</h4>
+
+<h4 id="同一段代码能够在各种环境取到顶层对象就要用this变量但是它有局限性">同一段代码能够在各种环境，取到顶层对象，就要用this变量，但是它有局限性</h4>
+
+<h2 id="变量的解构赋值">变量的解构赋值</h2>
+:ET

@@ -1,0 +1,55 @@
+I"�<p>需求如下：</p>
+
+<ul>
+  <li>
+    <p>数字输入框只能输入数字（这个需要用到正则，先放一放）</p>
+  </li>
+  <li>
+    <p>包含两个快捷按钮，可以直接-1，或者+1</p>
+  </li>
+  <li>
+    <p>可以设置初始值、最大值和最小值（在父组件定义好，然后使用<code class="language-plaintext highlighter-rouge">props</code>传递给子组件）</p>
+  </li>
+  <li>
+    <p>双向改变数据</p>
+  </li>
+  <li>
+    <p>增加一个控制步伐的props，比如设置为10，点击+，就一次增加10。</p>
+  </li>
+</ul>
+
+<p>更多需求：</p>
+
+<ul>
+  <li>当输入框获取焦点时，按上下键可以增加和减少数字。</li>
+</ul>
+
+<h2 id="几个关键点">几个关键点</h2>
+
+<h3 id="父子两级组件的通信">父子两级组件的通信</h3>
+
+<p>初始值、最小值，最大值都是由父组件决定，需要传递给子组件。</p>
+
+<ol>
+  <li>通过<code class="language-plaintext highlighter-rouge">v-bind</code>，将这些数据绑定到子组件标签上。</li>
+  <li>子组件用<code class="language-plaintext highlighter-rouge">props</code>选项来接收这些数据。</li>
+  <li>子组件将接收到的<code class="language-plaintext highlighter-rouge">value</code>数据保存到自身的一个变量中，对它进行修改（另一种做法是保存到组件的一个计算属性中）。</li>
+</ol>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 这里需要注意到<code class="language-plaintext highlighter-rouge">props</code>和<code class="language-plaintext highlighter-rouge">data</code>的区别：<code class="language-plaintext highlighter-rouge">props</code>来自父组件，而<code class="language-plaintext highlighter-rouge">data</code>是组件自身的数据，作用域仅在自身。所以一般不会对接收到的props直接进行修改，而是会将接收到的数据保存到自身的数据或计算属性上，与父组件解耦。</div>
+
+<p>子组件里有个表单，与子组件的通信通过<code class="language-plaintext highlighter-rouge">v-model</code>来实现双向通信。</p>
+
+<ol>
+  <li>通过<code class="language-plaintext highlighter-rouge">v-model="value"</code>实现双向绑定，并在子组件上的数据发生变化时，立即释放一个以特殊名称命名，也就是<code class="language-plaintext highlighter-rouge">input</code>，的事件，并传递修改后的数据。</li>
+  <li><code class="language-plaintext highlighter-rouge">v-model</code>是个语法糖，它会自动接收到事件，并更新数据。</li>
+</ol>
+
+<p>对更改后的数据进行watch</p>
+
+<ul>
+  <li>当<code class="language-plaintext highlighter-rouge">props</code>的<code class="language-plaintext highlighter-rouge">value</code>发生变化时，立即更新<code class="language-plaintext highlighter-rouge">currentValue</code>的值</li>
+  <li>当<code class="language-plaintext highlighter-rouge">currentValue</code>的值发生变化时，立即释放事件给父级</li>
+</ul>
+
+:ET

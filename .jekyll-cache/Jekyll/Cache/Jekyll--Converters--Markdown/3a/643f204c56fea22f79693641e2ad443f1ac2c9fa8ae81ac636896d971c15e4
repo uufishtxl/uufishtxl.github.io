@@ -1,0 +1,64 @@
+I"�<p>This is based on Daniel Shiffman’s video tutorial on <strong>Working with Data and APIs in JavaScript</strong>.</p>
+
+<h2 id="resource">Resource</h2>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/17UVejOw3zA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<h2 id="purpose">Purpose</h2>
+
+<p>Make a <code class="language-plaintext highlighter-rouge">GET</code> request to a route on the server and have the route return all the data from the database.</p>
+
+<p>Previously, the api key just sits in the code. That’s terrifying because once you publish your code to another one or even on Internet, your code will be revealed and risk being abused.</p>
+
+<p>For this reason, we should import a node package to help to convert a .env file into process.env. With our key in a .env file, we place it in the safest hand.</p>
+
+<h2 id="step-1-install-the-dotenv-package">Step 1: Install the dotenv package</h2>
+
+<ol>
+  <li>Launch git back and go to the desired directory.</li>
+  <li>Type the command: <code class="language-plaintext highlighter-rouge">npm install dotenv</code>.</li>
+  <li>Wait several seconds till installation completes.</li>
+</ol>
+
+<h2 id="step-2-import-the-package-into-your-project">Step 2: Import the package into your project</h2>
+
+<ol>
+  <li>Open the server script.</li>
+  <li>Import the package into your project with the command <code class="language-plaintext highlighter-rouge">require('dotenv').config()</code>.</li>
+</ol>
+
+<h2 id="step-3-save-your-api-key-in-a-env-file">Step 3: Save your api key in a .env file</h2>
+
+<ol>
+  <li>Create a file and name it “.env”.</li>
+  <li>Add your api key in this way: <code class="language-plaintext highlighter-rouge">API_KEY</code> = dc9e484c1abfg4a066e323ae25075d1e`.</li>
+  <li>Save and exit.</li>
+</ol>
+
+<h2 id="step-4-implicitly-quote-your-api-key">Step 4: Implicitly quote your api key</h2>
+
+<p>You are good to go.</p>
+
+<pre><code class="language-JavaScript">// Specify where your web system may come with the api key
+const api_key = process.env.API_KEY;
+const weather_url = `https://api.darksky.net/forecast/${api_key}/${lat},${lon}/?units=si`;
+</code></pre>
+
+<h2 id="step-5-make-a-env-sample">Step 5: Make a .env sample</h2>
+
+<p>If you’d like to share your code with other, you’re better off making a .env sample to let others know where to place their api keys.</p>
+
+<p>Name your new file like this: “.env_sample”.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>API_KEY =  YOUR_API_KEY_HERE
+</code></pre></div></div>
+
+<h2 id="step-6-publish-on-github">Step 6: Publish on Github</h2>
+
+<p>A .gitignore file specifies the files and folders you’d like to keep them to yourself instead of getting them published on Internet.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.env
+node_modules/
+database.db
+</code></pre></div></div>
+:ET

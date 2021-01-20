@@ -1,0 +1,33 @@
+I"9<h2 id="topicset"><code class="language-plaintext highlighter-rouge">topicset</code></h2>
+
+<p><code class="language-plaintext highlighter-rouge">topicset</code> contains several topics and can also take a unique ID to facilitate re-use as one topicset.</p>
+
+<h3 id="highs">Highs</h3>
+
+<p>To conflict the fear for information fragmentation.</p>
+
+<h3 id="how-to">How-to</h3>
+
+<pre><code class="language-XML">&lt;topicset id="replacing_broken_spokes" navtitle="Replacing broken spokes" href="about_broken_spokes" chunk="to-content"&gt;
+&lt;topic href="remove_broken_spokes" toc="no"/&gt;
+&lt;topic href="remove_the_cassette" toc="no" /&gt;
+&lt;topic href="replace_the_spoke_nipple" toc="no" /&gt;
+&lt;topic href="reattach_the_cassette" toc="no" /&gt;
+&lt;/topicset&gt;
+</code></pre>
+
+<p>In the example above, please note the attribute-value pairs s as below：</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">chunk=“to-content”</code>: Merges all children topics to the same file;</li>
+  <li><code class="language-plaintext highlighter-rouge">toc="no"</code>: Specified for each child topic, preventing it from appearing in the table of contents</li>
+  <li><code class="language-plaintext highlighter-rouge">href="about_broken_spokes"</code>: This topic is an overview to all the subtasks. Get it nested under the <code class="language-plaintext highlighter-rouge">topicset</code> title rather than under its own subtitle. <strong><em>Don’t quite understand what it means…</em></strong></li>
+</ul>
+
+<h3 id="lows">Lows</h3>
+
+<p>Though the topic renders as one unit, Oxygen’s webhelp search engine surfaces each unit separately.</p>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 如果要引用的内容在其他文件夹中，必须在文件名前提供正确的路径。</div>
+
+:ET

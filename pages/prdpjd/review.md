@@ -42,6 +42,8 @@ summary:
 
 - <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_j}}">`________(不过就算情况像你说的那样)`</b>, you must remember, Miss Bennet, that the friend who is supposed to desire his return to the house and the delay of his plan, has merely desired it, asked it <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_j2}}">`________(未给出理由说明其要求是合理的)`</b>.
 
+- The perpetual commendations of the lady either on his hand-writing, or on <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_h}}">`________(一行行字迹整齐)`</b>, or on the length of his letter, with the perfect unconcern with which her praises were received, formed a curious dialogue, and was exactly <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_h2}}">`________(符合)`</b> her opinion of each.
+
 ## 24
 
 - And I could wish, Miss Bennet, that you were not to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d24_g}}">`________(勾画我的性格)`</b> at the present moment, as there is reason to fear that the performance would <b data-toggle="tooltip" data-original-title="{{site.data.answers.d24_g2}}">`________(对双方都没好处)`</b>
@@ -97,6 +99,10 @@ summary:
 
 - <b data-toggle="tooltip" data-original-title="{{site.data.answers.d41_f}}">`________(她对于他来说简直是佳偶天成)`</b>.
 
+## 44
+
+- She was perfectly sensible that he never had, but she wished to see whether he would <b data-toggle="tooltip" data-original-title="{{site.data.answers.d44_g}}">`________(暴露出对...事情的了解)`</b> of what had passed between the Bingley and Jane.
+
 ## 45
 
 - Colonel Fitzwilliam seemed really glad to see them. Anything was a welcome relief to him at Rosings, and Mrs. Collins's pretty friend had, moreover, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d45_a}}">`________(非常讨他的欢心)`</b>.
@@ -117,6 +123,10 @@ summary:
 ## 54
 
 - And that there was a constant complacency in her air and manner, not often <b data-toggle="tooltip" data-original-title="{{site.data.answers.d54_g}}">`________(和多愁善感联系起来)`</b>.
+
+## 66
+
+- Elizabeth here felt herself <b data-toggle="tooltip" data-original-title="{{site.data.answers.d66_e}}">`________(有必要做某事)`</b> to say something <b data-toggle="tooltip" data-original-title="{{site.data.answers.d66_e2}}">`________(辩护)`</b> his behavior to Wickham, and therefor gave them to understand, in as <b data-toggle="tooltip" data-original-title="{{site.data.answers.d66_e3}}">`________(谨慎的/有保留的)`</b> a manner as she could, that by what she had heard from his relations in Kent, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d66_e4}}">`________(他的行为完全可以有另外一种截然不同的解释)`</b>.
 
 ## 71
 

@@ -1,0 +1,34 @@
+I" 
+<h2 id="nexttick"><code class="language-plaintext highlighter-rouge">$nextTick</code></h2>
+
+<h3 id="vuejs-的更新-dom-方式">Vue.js 的更新 DOM 方式</h3>
+
+<p>在观察到数据变化后，Vue 不会马上就去更新 DOM。而是会开启一个队列，在缓冲时去检查并删除重复的数据，从而避免不必要的计算和 DOM 操作。然后，在下一个事件循环 tick 中，Vue 刷新队列并执行已经去重的工作。</p>
+
+<p>也就是说，如果你用一个 for 循环来动态改变状态 100 次，其实 Vue 只会执行最后一次改变。如果不这么做，DOM 就会重建 100 次，无异是一个很大的开销。</p>
+
+<p>这就是 Vue 异步更新队列的概念。</p>
+
+<p>所以[范例]https://jsfiddle.net/edith_tang/7jfn8myL/4/()中，虽然已经执行了<code class="language-plaintext highlighter-rouge">showDix = true</code>，但是<code class="language-plaintext highlighter-rouge">div</code>仍然没有被创建出来，直到下一个 Vue 事件循环时，才开始创建。<code class="language-plaintext highlighter-rouge">$nextTick</code>就是用来知道什么时候 DOM 完成更新。</p>
+
+<p>所以只要基于上面的例子，将获取文字所在<code class="language-plaintext highlighter-rouge">&lt;div&gt;</code>并将它打印出来的代码放入<code class="language-plaintext highlighter-rouge">this.$Tick(function() {})</code>中，就不会再次报错。</p>
+
+<p>主要会在使用一些会去创建、更新及销毁完整生命周期的第三方库时，就需要利用好<code class="language-plaintext highlighter-rouge">$nextTick</code>。</p>
+
+<h2 id="x-templates">X-Templates</h2>
+
+<p>如果没有使用 <code class="language-plaintext highlighter-rouge">webpack</code>、<code class="language-plaintext highlighter-rouge">gulp</code>等工具，如果组件的<code class="language-plaintext highlighter-rouge">template</code>内容很长，写起来很不方便。</p>
+
+<p>这时候，可以在<code class="language-plaintext highlighter-rouge">HTML</code>代码中使用<script type="text/x-template id='id-name'">来包围原来应该在`template`中的内容。然后再在注册组件时，使用`template = '#id-name'`来挂钩。</script></p>
+
+<p><a href="https://codepen.io/uufishtxl/pen/ZEQvxXR">范例</a></p>
+
+<h2 id="手动挂载实例">手动挂载实例</h2>
+
+<p><a href="https://codepen.io/uufishtxl/pen/KKVZooQ">https://codepen.io/uufishtxl/pen/KKVZooQ</a></p>
+
+<p>三种做法参考<a href="https://codepen.io/uufishtxl/pen/KKVZooQ">范例</a></p>
+
+<p>手动挂载了解就好。</p>
+
+:ET

@@ -1,0 +1,130 @@
+I"a<p>This is based on Daniel Shiffman’s video tutorial on <strong>Working with Data and APIs in JavaScript</strong>.</p>
+
+<h2 id="resource">Resource</h2>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/jKQUHGpOHqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<h2 id="purpose">Purpose</h2>
+
+<p>Fetch data from a REST API and plot it on a map.</p>
+
+<h3 id="steps">Steps</h3>
+
+<ol>
+  <li>Fetch data from a REST API.
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>
+        Longitude: <span class="nt">&lt;span</span> <span class="na">id=</span><span class="s">"lon"</span><span class="nt">&gt;&lt;/span&gt;&lt;br&gt;</span>
+        Latitude: <span class="nt">&lt;span</span> <span class="na">id=</span><span class="s">"lat"</span><span class="nt">&gt;&lt;/span&gt;</span>
+    <span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+</code></pre></div>    </div>
+
+    <pre><code class="language-JavaScript">const apiUrl = 'https://api.wheretheiss.at/v1/satellites/25544' // resource endpoint
+
+async function getISS() {
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+    const { longitude, latitude } = data; // deconstruction
+    document.getElementById('lon').textContent(longitude);
+    document.getElementById('lat').textContent(latitude);
+}
+
+getISS();
+</code></pre>
+  </li>
+  <li>Perparing the page for the map with <a href="https://leafletjs.com/"><code class="language-plaintext highlighter-rouge">leaflet.js</code></a>.
+    <ol>
+      <li>Include the Leaflet CSS file in the head section of the document.
+ ```HTML</li>
+    </ol>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 2.  Include Leaflet JavaScript file after Leaflet's CSS:  
+ ```HTML
+  &lt;!-- Make sure you put this AFTER Leaflet's CSS --&gt;
+ &lt;script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+ integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+ crossorigin=""&gt;&lt;/script&gt;
+</code></pre></div>    </div>
+    <ol>
+      <li>Put a <code class="language-plaintext highlighter-rouge">div</code> element with a certain <code class="language-plaintext highlighter-rouge">id</code> where you want your map to be:<br />
+ ```HTML</li>
+    </ol>
+    <div id="issMap"></div>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 4.  Make sure the map container has a defined height:  
+ ```CSS
+ #issMap { height: 180px; }
+</code></pre></div>    </div>
+  </li>
+  <li>Set up the map.
+    <ol>
+      <li>Initialize the map and set its view to <strong>our chosen geographical coordinates</strong> and <strong>a zoom level</strong>.
+        <pre><code class="language-JavaScript">const mymap = L.map('issMap').setView([0, 0], 1); // [0, 0] Set center, 1 zoom times
+</code></pre>
+      </li>
+      <li>Add a tile layer to add to our map, in this case it’s Open Street Map. This usually involves setting the URL template for the tile images and the attribution text.
+        <pre><code class="language-JavaScript">const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+const attribution = '&amp;copy; &lt;a href="https://www.openstreetmap.org/copyright"&gt;OpenStreetMap&lt;/a&gt; contributors'
+const tiles = L.tileLayer(tileUrl, { attribution });
+</code></pre>
+      </li>
+    </ol>
+  </li>
+  <li>Add a marker with a custom icon.
+    <pre><code class="language-JavaScript">const issIcon = L.icon({
+iconUrl: 'iss200.png',
+iconSize:     [50, 32], // size of the icon
+iconAnchor:   [25, 16], // point of the icon which will correspond to marker's location 
+});
+const marker = L.marker([0, 0], {icon: issIcon}).addTo(mymap); // Initialize the position of the marker.
+</code></pre>
+  </li>
+  <li>Let the marker move dynamically.
+    <pre><code class="language-JavaScript">const apiUrl = 'https://api.wheretheiss.at/v1/satellites/25544'
+
+async function getISS() {
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+    const { longitude, latitude } = data;
+
+    marker.setLatLng([latitude, longitude]); // Changes the marker position to the given point.
+
+    document.getElementById('lon').textContent(longitude);
+    document.getElementById('lat').textContent(latitude);
+}    
+</code></pre>
+  </li>
+  <li>Place animation on first-time launch of the map.
+    <pre><code class="language-JavaScript">const apiUrl = 'https://api.wheretheiss.at/v1/satellites/25544'
+
+let firstTime = true; // Set the initial boolean value as true;
+
+async function getISS() {
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+    const { longitude, latitude } = data;
+
+    marker.setLatLng([latitude, longitude]);
+
+    if (firstTime) { // Run setView() only for the first time. After than, change its value to false.
+        mymap.setView([latitude, longitude], 4); // Sets the view of the map (geographical center and zoom) with the given animation options. 4 is the zoom level
+        firstTime = false;
+    }
+
+    document.getElementById('lon').textContent(longitude);
+    document.getElementById('lat').textContent(latitude);
+}   
+</code></pre>
+  </li>
+  <li>Get the function to refresh automatically every 2 seconds.
+    <pre><code class="language-JavaScript">setInterval(getISS, 2000);
+</code></pre>
+    <p>Actually, this is kind of dangerous when it takes more than 2 seconds to complete the data retrieval and rendering. Someone suggests that we should  “loop” with setTimeout() after the fetching is done. Anyway, it’s a good point.</p>
+  </li>
+  <li>Polish the data. Fix numbers to only two decimal points.
+    <pre><code class="language-JavaScript">getElementById('lon').textContent = longitude.toFixed(2);
+</code></pre>
+  </li>
+</ol>
+:ET

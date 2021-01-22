@@ -22,6 +22,8 @@ topnav_dropdowns:
           url: /cnet_071.html
         - title: Becoming
           url: /r_becoming_p31.html
+        - title: Hillbilly Elegy
+          url: /r_hillbilly_d1.html
     - title: Tutorials
       folderitems:
         - title: Tom's tutorial

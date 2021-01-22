@@ -213,3 +213,13 @@ defaults:
       search: true
       sidebar: becoming_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/hillbilly"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: hillbilly_sidebar
+      topnav: topnav

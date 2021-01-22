@@ -35,3 +35,7 @@ entries:
     - title: D3
       url: /r_hillbilly_1_22.html
       output: web, pdf
+
+    - title: D3
+      url: /r_hillbilly_1_22b.html
+      output: web, pdf

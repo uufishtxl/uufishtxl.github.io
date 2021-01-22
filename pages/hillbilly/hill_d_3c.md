@@ -3,7 +3,7 @@ title: Hillbilly Elegy - Jan 22
 catalog: true
 tags: 
   - reading
-permalink: /r_hillbilly_1_22.html
+permalink: /r_hillbilly_1_22b.html
 folder: hillbilly
 summary: 
 ---

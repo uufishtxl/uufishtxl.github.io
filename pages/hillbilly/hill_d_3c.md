@@ -59,4 +59,4 @@ summary:
 
 25.  Large homes mixed comfortably with <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_y1}}">`________(维护得当的公园)`</b> and <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_y2}}">`________(办公园区)`</b>.
 
-26.  both. I dreamed that I’d own a house in Manchester Manor, <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_z1}}">`________(相对较新的发展区域)`</b> not a mile from the high school, where a nice home <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_z2}}">`________(只要少于1/5的价钱)`</b> of a decent house in San Francisco.
+26.  I dreamed that I’d own a house in Manchester Manor, <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_z1}}">`________(相对较新的发展区域)`</b> not a mile from the high school, where a nice home <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_z2}}">`________(只要少于1/5的价钱)`</b> of a decent house in San Francisco.

@@ -43,3 +43,11 @@ entries:
     - title: D4
       url: /r_hillbilly_1_23.html
       output: web, pdf
+
+    - title: D4B
+      url: /r_hillbilly_1_23b.html
+      output: web, pdf
+
+    - title: D5
+      url: /r_hillbilly_1_24.html
+      output: web, pdf

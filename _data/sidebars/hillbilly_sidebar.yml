@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: D1 ~ D 
+  - title: D1 ~ D5 
     output: web, pdf
     folderitems:
 
@@ -50,4 +50,16 @@ entries:
 
     - title: D5
       url: /r_hillbilly_1_24.html
+      output: web, pdf
+
+  - title: D6 ~ D
+    output: web, pdf
+    folderitems:
+
+    - title: D6
+      url: /r_hillbilly_1_25.html
+      output: web, pdf
+
+    - title: D6B
+      url: /r_hillbilly_1_25b.html
       output: web, pdf

@@ -35,7 +35,7 @@ summary:
 
 13.  Mom checked out books on football strategy from the public library, and we built little models of the field with <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_m1}}">`________(彩色美术纸)`</b> and loose change—<b data-toggle="tooltip" data-original-title="{{site.data.glossary.pennies}}">`pennies`</b> for the defense, <b data-toggle="tooltip" data-original-title="{{site.data.glossary.nickels}}">`nickels`</b> and <b data-toggle="tooltip" data-original-title="{{site.data.glossary.dimes}}">`dimes`</b> for the offense.
 
-14.  We practiced on our construction-paper football field, <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_n1}}">`________(检查各种突发事件)`</b>: What happened if a particular l<b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_n2}}">`________(前锋)`</b> (a shiny nickel) missed his block?
+14.  We practiced on our construction-paper football field, <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_n1}}">`________(检查各种突发事件)`</b>: What happened if a particular <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_n2}}">`________(前锋)`</b> (a shiny nickel) missed his block?
 
 15.  But she did return to a local community college and earn <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_o1}}">`________(副学士)`</b> in nursing.
 
@@ -43,7 +43,7 @@ summary:
 
 17.  During my third-grade <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_q1}}">`________(科学竞赛)`</b> project, Mom helped at every stage—from planning the project to assisting with lab notes to assembling the presentation.
 
-18.  presentation. It looked like a scientist and a professional artist had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_r1}}">`________(协力做某事)`</b> to create it.
+18.  It looked like a scientist and a professional artist had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_r1}}">`________(协力做某事)`</b> to create it.
 
 19.  I didn’t <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_s1}}">`________(没有进入最终一轮)`</b> of the competition.
 

@@ -63,3 +63,15 @@ entries:
     - title: D6B
       url: /r_hillbilly_1_25b.html
       output: web, pdf
+
+    - title: D6C
+      url: /r_hillbilly_1_25c.html
+      output: web, pdf
+
+    - title: D6D
+      url: /r_hillbilly_1_25d.html
+      output: web, pdf
+
+    - title: D6E
+      url: /r_hillbilly_1_25e.html
+      output: web, pdf

@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1.  With little <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6d_a1}}">`________(宗教训练)`</b>, I was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6d_a2}}">`________(急着去观摩一下真正的教堂)`</b>.
+1.  With little <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6d_a1}}">`________(宗教训练)`</b>, I was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6d_a2}}">`________(急着去观摩一下真正的教会)`</b>.
 
 2.  I asked Mom if I could see him, and she agreed, so <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6d_b1}}">`________(在我的法定父亲离开我生活的同一个夏天，我的生物学父亲又回到了我的生活圈子)`</b>. Mom had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6d_b2}}">`________(兜了一圈回到原地)`</b>: Having cycled through a number of men in an effort to find me a father, she had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6d_b3}}">`________(选定)`</b> the original candidate.
 

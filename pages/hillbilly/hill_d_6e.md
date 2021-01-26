@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1.  I learned about <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_a1}}">`________(千禧年语言)`</b> and convinced myself that the world would end in 2007.
+1.  I learned about <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_a1}}">`________(千禧年预言)`</b> and convinced myself that the world would end in 2007.
 
 2.  Dad’s church encouraged all of this because it doubted the wisdom of <b data-toggle="tooltip" data-original-title="{{site.data.glossary.secular}}">`secular`</b> science and the morality of secular music.
 
@@ -21,11 +21,11 @@ summary:
 
 6.  My new faith had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_f1}}">`________(让我开始去留意找到那些异教徒)`</b>. Good friends who interpreted parts of the Bible differently <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_f2}}">`________([对我]产生不良影响)`</b>. Even Mamaw <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_f3}}">`________(失宠)`</b> because her religious views didn’t conflict with her affinity for Bill Clinton.
 
-7.  The Internet was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_g1}}">`________(关于纽约艺术展的讨论在网上沸沸扬扬)`</b> that featured images of Christ or the Virgin Mary covered in feces.
+7.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_g1}}">`________(关于纽约艺术展的讨论在网上沸沸扬扬)`</b> that featured images of Christ or the Virgin Mary covered in feces.
 
 8.  As a young teenager thinking seriously for the first time about what I believed and why I believed it, I had an acute sense that <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_h1}}">`________(真正的基督教徒越来越少[猜测])`</b>.
 
-9.  I was eight or nine, maybe younger, and I stumbled upon a broadcast by some <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_i1}}">`________(持有地狱里的磨难理论的)`</b> preacher.
+9.  I was eight or nine, maybe younger, and I stumbled upon a broadcast by some <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_i1}}">`________(用地狱火来传教的 [地狱火 - 不忠诚的人将下地狱经历磨难])`</b> preacher.
 
 10.  In my new church, on the other hand, I heard more about the <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_j1}}">`________(支持同性恋的游说)`</b> and the war on Christmas than about any particular character trait that a Christian should <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6e_j2}}">`________(立意/追求)`</b> have.
 

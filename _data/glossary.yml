@@ -1,304 +1,202 @@
+# 删除空白行的正则表达式 - ^\s*(?=\r?$)\n
 # Day 1
-
 cot: 简易床 (campaign cot -  活动床)
 negative: 胶片
 chink: a small cleft, slit, or fissure
-
 # Day 2
-
 germ: something that initiates development or serves as an origin - RUDIMENTS, BEGINNING
 indomitable: incapable of being subdued - UNCONQUERABLE
 avid:  \ ˈa-vəd  \ | characterized by enthusiasm and vigorous pursuit 
-
 # Day 3
-
 inglorious: SHAMEFUL, IGNOMINIOUS
 livery:  \ ˈli-və-rē  , ˈliv-rē \ | a servant's uniform
 anachronism: \ ə-ˈna-krə-ˌni-zəm  \ | a person or a thing that is chronologically out of place
-
-
 # Day 4
-
 imposing: "impressive in size, bearing, dignity, or grandeur | 壮丽的"
 illicit: \ (ˌ)i(l)-ˈli-sət  \ not permitted, UNLAWFUL
 clandestine: \ klan-ˈde-stən  also -ˌstīn or -ˌstēn or ˈklan-də- \ marked by, held in, or conducted with secrecy
-
 # Day 5
-
 repudiate: \ ri-ˈpyü-dē-ˌāt  \ to refuse to accept
 irredeemable: being beyond remedy - HOPELESS
 complaisant: tending to consent to others' wishes
 gratuitous:  \ grə-ˈtü-ə-təs  , -ˈtyü- \ not called for by the circumstances - not necessary, appropriate, or justified - UNWARRANTED
-
 # Day 6
-
 lethargy: \ ˈle-thər-jē  \  abnormal drowsiness
 pedagogy: \ ˈpe-də-ˌgō-jē  also -ˌgä-, especially British -ˌgä-gē  \ the art, science, or profession of teaching
 demented: MAD, INSANE
-
 # Day 7
-
 belated: delayed beyond the usual time
-
 # Day 8
-
 clamor: noisy shouting
 premonition:  \ ˌprē-mə-ˈni-shən  , ˌpre-  \ | previous notice or warning - FOREWARNING
 senile: \ ˈsē-ˌnī(-ə)l  also ˈse-  \ | of, relating to, exhibiting, or characteristic of old age
 indispensable:  absolutely necessary - ESSENTIAL
-
 # Day 9 None
-
 # Day 10
-
 denature: \ (ˌ)dē-ˈnā-chər  \ to modify the molecular structure of (something, such as a protein or DNA) especially by heat, acid, alkali, or ultraviolet radiation so as to destroy or diminish some of the original properties and especially the specific biological activity
 adversity: a state or instance of serious or continued difficulty or misfortune
 florida_water: 花露水
 promiscuity: \ ˌprä-mə-ˈskyü-ə-tē  , ˌprō- \ miscellaneous mingling or selection of persons or things -  INDISCRIMINATENESS
-
 # Day 11
-
 facile: \ ˈfa-səl \  readily manifested and often lacking sincerity or depth
 diaphanous: \ dī-ˈa-fə-nəs  \ INSUBSTANTIAL, VAGUE
 lay: of or relating to the laity - not ecclesiastical | laity - 俗人/外行人 | ecclesiastical -教会的 \ i-ˌklē-zē-ˈa-sti-kəl  , e-ˌklē- \
-
 # Day 12
-
 opportune: TIMELY
 mutilate: inflict a violent and disfiguring injury on
-
 # Day 13
-
 aerostatic:  \ ¦er-ə-¦sta-tik \ 航空的
 inaugural: \ i-ˈnȯ-gyə-rəl How to pronounce inaugural (audio) , -g(ə-)rəl \ marking a beginning - first in a projected series
 multitudinous: \ ˌməl-tə-ˈtüd-nəs  , -ˈtyüd-; -ˈtü-dᵊn-əs, -ˈtyü- \ including a multitude of individuals - POPULOUS
-
 # Day 14
-
 honorific: \ ˌä-nə-ˈri-fik  \ conferring or conveying honor
 intransigence: \ in-ˈtran(t)-sə-jən(t)s, -ˈtran-zə- \  intransigent - UNCOMPROMISING
-
 # Day 15
-
 fidelity: /fɪˈdɛlɪti/ faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support
 notions: （纽扣、针、钩等缝纫用的）小件物品
 parentage: the identity and origins of one's parents
-
 # Day 16
-
 regime: /reɪˈʒiːm/ a particular way of operating or organizing a business, etc.
 irremediable: /ˌɪr.əˈmiː.di.ə.bəl/ impossible to correct or cure
 penitential: /ˌpen.ɪˈten.ʃəl/ showing that you are sorry, especially in a formal religious way, for wrong things that you have done
-
 # Day 17
-
 petrify: to frighten someone a lot, especially so that they are unable to move or speak
 delirium: /dɪˈlɪr.i.əm/ a state of being unable to think or speak clearly because of fever or mental confusion
 droppings: 鸟粪
-
 # Day 18
-
 disoriented: having lost one's sense of time, place, or identity
 martyrdom: \ ˈmär-tər-dəm  \ the suffering of death on account of adherence to a cause and especially to one's religious faith
 busybody: 爱管闲事的人
-
 # Day 19
-
 heartrending: \ ˈhärt-ˌren-diŋ  \ HEARTBREAKING
 innocuous: \ i-ˈnä-kyə-wəs  \ producing no injury - HARMLESS
 hiatus: an interruption in time or continuity - BREAK
-
 # Day 20
-
 banal: lacking originality, freshness, or novelty | TRITE
 fleeting: passing swiftly | TRANSITORY
 discursive: moving from topic to topic without order | RAMBLING
-
 # Day 21
-
 lucidity: \ lü-ˈsi-də-tē  \ clearness of thought or style
 peremptory: \ pə-ˈrem(p)-t(ə-)rē  \ putting an end to or precluding a right of action, debate, or delay
 hermeticism:  \ (ˌ)hər-ˈme-tə-ˌsi-zəm  \  hermetic - RECLUSE, SOLITARY e.g, leads a hermetic life
-
 # Day 22
-
 insatiable:  \ (ˌ)in-ˈsā-shə-bəl  \ incapable of being satisfied
 vice: a habitual and usually trivial defect or shortcoming
 mundane: of, relating to, or characteristic of the world \ ˌmən-ˈdān \ 
 uninhibited: \ ˌən-in-ˈhi-bə-təd  \ 不受限制的
-
 # Day 23
-
 fortitude:  \ ˈfȯr-tə-ˌtüd  , -ˌtyüd \  strength of mind that enables a person to encounter danger or bear pain or adversity with courage
 unequivocal: \ ˌən-i-ˈkwi-və-kəl  \ leaving no doubt - CLEAR, UNAMBIGUOUS
 dissimulate:  \ (ˌ)di-ˈsim-yə-ˌlāt  \ to hide under a false appearance 
-
 # Day 24
-
 liquidate: \ ˈli-kwə-ˌdāt  \ to convert (assets) into cash 
 imperious: \ im-ˈpir-ē-əs  \ marked by arrogant assurance
 stench: STINK
-
 # Day 25
-
 thoroughbred: 纯种的
 scourge: \ ˈskərj  , ˈskȯrj, ˈsku̇rj \ a cause of wide or great affliction
 itinerary: \ ī-ˈti-nə-ˌrer-ē  , ə-\  the route of a journey or tour or the proposed outline of one
-
 # Day 26
-
 illusory:  based on or producing illusion
-
 # Day 27
-
 insipid: \ in-ˈsi-pəd  \  lacking in qualities that interest, stimulate, or challenge - DULL
 disparate: \ ˈdis-p(ə-)rət  , di-ˈsper-ət, -ˈspa-rət  \ markedly distinct in quality or character
-
 # Day 28
-
 benign: of a mild type or character that does not threaten health or life
 seismic: \ ˈsīz-mik  , ˈsīs- \ having a strong or widespread impact
 trade_w: 信风，从东北或东南方向吹向赤道的热带风
-
 # Day 29
-
 snake_c: 耍蛇人
 relish: ENJOY
 taciturn: \ ˈta-sə-ˌtərn  \ temperamentally disinclined to talk
-
 # Day 30
-
 part: 头发的发缝
 commend: to entrust for care or preservation 交托
 festive: JOYFUL
 consign: to give over to another's care
-
 # Day 31
-
 refuse: 废料/垃圾
-
 # Day 32
-
 posthumous: \ ˈpäs-chə-məs \ following or occurring after death
 fornicate: \ ˈfȯr-nə-ˌkāt  \ 私通 这里应该就是说结为夫妻
-
 # Day 33
-
 chaste: pure in thought and act 
 impersonal: not engaging the human personality or emotions
 imperturbable: \ ˌim-pər-ˈtər-bə-bəl\ marked by extreme calm, impassivity, and steadiness
 theatrical: \ thē-ˈa-tri-kəl \ marked by pretense or artificiality of emotion
-
 # Day 34
-
 anise: 茴香
 assimilate: \ ə-ˈsi-mə-ˌlāt  \  to take in and utilize as nourishment
 funereal: \ fyu̇-ˈnir-ē-əl  \ befitting or suggesting a funeral (as in solemnity)
-
 # Day 35
-
 parsimonious: \ ˌpär-sə-ˈmō-nē-əs  \ SPARING, RESTRAINED
-
 # Day 36
-
 emissary: \ ˈe-mə-ˌser-ē \ one designated as the agent of another
 commiseration: commiserat  \ kə-ˈmi-zə-ˌrāt  \ to feel or express sympathy
 siege: \ ˈsēj \ a persistent or serious attack (as of illness) 
 rank: offensive in odor or flavor
-
 # Day 37
-
 rap: a sharp blow or knock
 sumptuous: \ ˈsəm(p)(t)-shə-wəs  , -shəs, -shwəs \ extremely costly, rich, luxurious, or magnificent
 limbo: an intermediate or transitional place or state 地狱的边境 - 指不能进入天堂的正直或无辜的灵魂所在地
-
 # Day 38
-
 parasol:  \ ˈper-ə-ˌsȯl  , -ˌsäl, ˈpa-rə- \ a lightweight umbrella used as a sunshade
 ranch: a large farm for raising horses, beef cattle, or sheep
 dally: to waste time
-
 # Day 39
-
 perfunctory: lacking in interest or enthusiasm
 prostration: prostrate - completely overcome and lacking vitality, will, or power to rise
 dangle: to hang loosely and usually so as to be able to swing freely 
 deference:  \ ˈde-fə-rən(t)s  , ˈdef-rən(t)s \ RESPECT
-
 # Day 40
-
 milieu: \ mēl-ˈyü \ the physical or social setting in which something occurs or develops
 hamlet: a small village
 volcanic: \ väl-ˈka-nik  , vȯl- also -ˈkā- \ explosively violent - VOLATILE
 inopportune: \ (ˌ)in-ˌä-pər-ˈtün  , -ˈtyün \ INCONVENIENT, UNSEASONABLE
 inflexible: rigidly firm in will or purpose
-
 # Day 41
-
 protagonist: the principal character in a literary work
 perpetrator: 罪犯
 absolve: to set (someone) free from an obligation or the consequences of guilt
-
 # Day 42
-
 clan: FAMILY
 satiate: to satisfy (a need, a desire, etc.) fully or to excess
 stoicism: \ ˈstō-ə-ˌsi-zəm  \ indifference to pleasure or pain
-
 # Day 43
-
 vulgarity: something vulgar
 pretension: an aspiration or intention that may or may not reach fulfillment 主张
 matrimonial: \ ˌma-trə-ˈmō-nē-əl  , -nyəl \ of or relating to marriage, the married state, or married persons
 whiz: to fly or move swiftly especially with a whiz
-
 # Day 44
-
 taciturn: \ ˈta-sə-ˌtərn  \  temperamentally disinclined to talk
 unerring: FAULTLESS, UNFAILING
 demeaning: damaging or lowering the character, status, or reputation of someone or something
-
 # Day 45
-
 abate: to decrease in force or intensity
 duplicity:  \ du̇-ˈpli-sə-tē  also dyu̇- \ contradictory doubleness of thought, speech, or action
 propitious: \ prə-ˈpi-shəs  \ favorably disposed
-
 # Day 46
-
 pretentious: expressive of affected, unwarranted, or exaggerated importance, worth, or stature
 undulant: \ ˈən-jə-lənt  , ˈən-dyə-, ˈən-də- \ rising and falling in waves
 vanity: something that is vain, empty, or valueless
-
 # Day 47
-
 rancor: bitter deep-seated ill will
 ineluctable: \ ˌi-ni-ˈlək-tə-bəl  \ not to be avoided, changed, or resisted
 decrepit: \ di-ˈkre-pət  \ impaired by use or wear | WORN-OUT
 stigma: a mark of shame or discredit
-
 # Day 48
-
 waft: to move or go lightly on or as if on a buoyant medium
 infallible: \ (ˌ)in-ˈfa-lə-bəl  \ incapable of error -  UNERRING
-
 # Day 49
-
 furtive: done in a quiet and secretive way to avoid being noticed 
 tarnish: to dull or destroy the luster of by or as if by air, dust, or dirt - STAIN
 pensive: musingly or dreamily thoughtful
-
 # Day 50
-
 belie: to present an appearance not in agreement with
-
 # Day 51
-
 farce: an empty or patently ridiculous act, proceeding, or situation
 dogma: something held as an established opinion
-
 # Day 52
-
 rustic: lacking in social graces or polish
 ignominious: \ ˌig-nə-ˈmi-nē-əs  \ HUMILIATING, DEGRADING
 namesake: 同名的
@@ -306,345 +204,228 @@ astuteness: austute - \ ə-ˈstüt  , a-, -ˈstyüt \ mentally sharp or clever
 internecine: \ ˌin-tər-ˈne-ˌsēn \ of, relating to, or involving conflict within a group 
 falconer: a person who breeds, trains, or hunts with hawks 
 impassive: giving no sign of feeling or emotion
-
 # Day 53
-
 nagging: causing continual or recurring worry or anxiety | nagging tone
 ephemeral: \ i-ˈfem-rəl \ lasting a very short time
 frivolous: of little weight or importance
-
 # Day 54
-
 whorish: \ ˈhȯr-ish  , ˈhu̇r- \ of or befitting a whore
 yoke: to join as if by a yoke | yoke - 牛轭
 lugubrious: \ lu̇-ˈgü-brē-əs  also -ˈgyü- \ mournful
-
 # Day 55
-
 celestial:  \ sə-ˈles-chəl  , -ˈlesh-, -ˈle-stē-əl \ of, relating to, or suggesting heaven or divinity
-
 # Day 56
-
 tenacious: \ tə-ˈnā-shəs  \ persistent in maintaining, adhering to, or seeking something valued or desired 
 servitude: a right by which something (such as a piece of land) owned by one person is subject to a specified use or enjoyment by another
-
 # Day 57
-
 intuit: to know, sense, or understand by intuition
 fallacy: a false or mistaken idea
 pallor: deficiency of color especially of the face 脸色苍白
-
 # Day 58
-
 disconsolate: \ dis-ˈkän(t)-sə-lət  \ CHEERLESS
 clairvoyance:  \ kler-ˈvȯi-ən(t)s  \ the power of seeing or knowing about things that are not present to the senses
 categorical: \ ˌka-tə-ˈgȯr-i-kəl  , -ˈgär- \ having no exceptions or restrictions
 capitulation: \ kə-ˌpi-chə-ˈlā-shən  \ the usually forced yielding of one's person or possessions to the control of another 
-
 # Day 59
-
 vertigo:  \ ˈvər-ti-ˌgō  \ a dizzy confused state of mind 
 weakling: one that is weak in body, character, or mind
 puerile: \ ˈpyu̇(-ə)r-əl  , -ˌī(-ə)l \ CHILDISH, SILLY
 etiquette: \ ˈe-ti-kət  , -ˌket \ the conduct or procedure required by good breeding or prescribed by authority to be observed in social or official life
-
 # Day 60
-
 fickle: given to erratic changeableness
 dawdle: to spend time idly
 transgressor: transgress - to violate a command or law 
 frivolity: frivolous - lacking in seriousness  \ fri-ˈvä-lə-tē  \
 relapse: to slip or fall back into a former worse state
-
 # Day 61
-
 liquidation: liquidate - \ ˈli-kwə-ˌdāt  \ to convert (assets) into cash
-
 # Day 62
-
 dovecote: a small compartmented raised house or box for domestic pigeons
 cutting: 插枝
 vigil: \ ˈvi-jəl  \ a watch formerly kept on the night before a religious feast with prayer or other devotions - imprudent vigil
 niggardly: grudgingly mean about spending or granting | niggardly with love 在爱情上面吝啬
-
 # Day 63
-
 visceral: \ ˈvi-sə-rəl \ DEEP | visceral shudder
 deluxe: \ di-ˈləks \ notably luxurious, elegant, or expensive
 relegate: \ ˈre-lə-ˌgāt  \ to send into exile | BANISH
-
 # Day 64
-
 enigmatic: 谜一般的 enigma -  谜
 menace: ENDANGER
-
 # Day 65
-
 lunatic: \ ˈlü-nə-ˌtik  \ INSANE | lunatic color - 古怪的配色
 frugal: economical | frugal meal - 简餐
 din: a loud continued noise
-
 # Day 66
-
 imbue: to tinge or dye deeply
 subterfuge: \ ˈsəb-tər-ˌfyüj  \ a deceptive device or stratagem
-
 # Day 67
-
 rowdy: rough
 unequivocal: \ ˌən-i-ˈkwi-və-kəl  \ leaving no doubt
 vacillation: vacillate - to waver in mind, will, or feeling | pointer vacillation 指针摆动
 mire: to cause to stick fast in or as if in mire | (none) heavy often deep mud or slush
-
 # Day 68
-
 stupor: \ ˈstü-pər  , ˈstyü- \ a condition of greatly dulled or completely suspended sense or sensibility 
-
 # Day 69
-
 respite: \ ˈre-spət \ a period of temporary delay
 seismic:  \ ˈsīz-mik  , ˈsīs- \ having a strong or widespread impact - EARTHSHAKING
-
 # Day 70
-
 tumultuous: \ tu̇-ˈməl-chə-wəs  \  tumult - RIOT
-
 # Day 71
-
 palliative: \ ˈpa-lē-ˌā-tiv \ serving to palliate | palliate - to reduce the violence of (a disease) | 姑息疗法
 ailment: \ ˈāl-mənt  \ a bodily disorder or chronic disease
 metaphysical: \ ˌme-tə-ˈfi-zi-kəl  \ SUPERNATURAL 
-
 # Day 72
-
 renunciation: \ ri-ˌnən(t)-sē-ˈā-shən \ the act or practice of renouncing
 litany:  \ ˈli-tə-nē \  a usually lengthy recitation or enumeration
 mishap: \ ˈmis-ˌhap  \ an unfortunate accident
-
-
 # Day 73
-
 unruly: \ ˌən-ˈrü-lē  \ not readily ruled, disciplined, or managed
 pliant: \ ˈplī-ənt  \  easily influenced - YIELDING
 spite: petty ill will or hatred with the disposition to irritate, annoy, or thwart
-
 # Day 74
-
 lanceolate:  \ ˈlan(t)-sē-ə-ˌlāt  \ shaped like a lance head | lancet 柳叶刀 \ ˈlan(t)-sət  \
 falter: STUMBLE
-
 # Day 75
-
 presentiment:  \ pri-ˈzen-tə-mənt  \ a feeling that something will or is about to happen
 rebuff: to reject or criticize sharply 
 assignation:  \ ˌa-sig-ˈnā-shən  \ an appointment of time and place for a meeting
 volition: \ vō-ˈli-shən  , və- \ the power of choosing or determining - WILL
-
 # Day 76
-
 shoddy: inferior, imitative, or pretentious articles or matter
 calamity: \ kə-ˈla-mə-tē  \a disastrous event marked by great loss and lasting distress and suffering
 itinerant: \ ī-ˈti-nə-rənt  \ traveling from place to place
-
 # Day 77
-
 obstinacy: \ ˈäb-stə-nə-sē  \ the quality or state of being obstinate - STUBBORNNESS
 tantamount: \ ˈtan-tə-ˌmau̇nt  \ equivalent in value, significance, or effect
 virulent:  \ ˈvir-ə-lənt  , ˈvir-yə- \ marked by a rapid, severe, and destructive course
 antedate: \ ˈan-ti-ˌdāt  \ to precede in time
-
 # Day 79
-
 militant: \ ˈmi-lə-tənt  \ aggressively active (as in a cause)
 dejected: DEPRESSED
 dapple: 有斑纹的 使斑驳
-
 # Day 80
-
 stupefaction: \ ˌstü-pə-ˈfak-shən  , ˌstyü- \ stuperfy - ASTOUND
 exorcism: \ ˈek-ˌsȯr-ˌsi-zəm  , -sər- \  exorcising - to get rid of (something troublesome, menacing, or oppressive)
 enervated: enervate  \ i-ˈnər-vət  \ lacking physical, mental, or moral vigor
-
 # Day 81
-
 insolence: \ ˈin(t)-s(ə-)lən(t)s  \ insolent  - insultingly contemptuous in speech or conduct
 ostentatious: \ ˌä-stən-ˈtā-shəs  \ attracting or seeking to attract attention, admiration, or envy often by gaudiness or obviousness 气派的
 inexorable: \ (ˌ)i-ˈneks-rə-bəl \ not to be persuaded, moved, or stopped
-
 # Day 82
-
 stampede: \ (ˌ)stam-ˈpēd  \ a mass movement of people at a common impulse
 miserliness: miserly - of, relating to, or characteristic of a miser \ ˈmī-zər-lē  \ | miser - a mean grasping person 
 decrepitude: \ di-ˈkre-pə-ˌtüd  , -ˌtyüd \ decrepit - WORN OUT
-
 # Day 83
-
 domestication: \ də-ˌme-sti-ˈkā-shən  \ 教化 | 驯化
-
 # Day 84
-
 dexterity: \ dek-ˈster-ə-tē \ skill and ease in using the hands 
 synopsis: \ sə-ˈnäp-səs \ a condensed statement or outline (as of a narrative or treatise)
-
 # Day 85
-
 nocturnal:  \ näk-ˈtər-nᵊl  \ of, relating to, or occurring in the night
 morale:  \ mə-ˈral  \ moral principles, teachings, or conduct 士气、斗志
 unperturbed:  \ ˌən-pər-ˈtərbd  \ not worried
 lodestone: magnetite possessing polarity | something that strongly attracts
-
 # Day 86
-
 voracity: varacious - excessively eager
 ornate:  \ ȯr-ˈnāt  \ elaborately or excessively decorated
-
 # Day 87
-
 broach: to open up (a subject) for discussion
 redolent: \ ˈre-də-lənt  \ full of a specified fragrance
 hound: to drive or affect by persistent harassing
 slingshot: 弹弓
-
 # Day 88
-
 afield: ASTRAY
 somersault:  \ ˈsə-mər-ˌsȯlt  \ 空翻
 chimerical: \ kī-ˈmer-i-kəl  \  given to fantastic schemes | chimerical angel
-
 # Day 89
-
 digression: \ dī-ˈgre-shən  , də- \ the act or an instance of leaving the main subject in an extended written or verbal expression of thought
 plebeian: \ pli-ˈbē-ən  \ one of the common people
 vivacious: \ və-ˈvā-shəs  \ lively in temper, conduct, or spirit
 prodigious: \ prə-ˈdi-jəs  \ causing amazement or wonder
 amplitude:  \ ˈam-plə-ˌtüd \ the quality or state of being ample
-
 # Day 90
-
 unencumbered: free of encumbrance | encumber - HINDER  \ in-ˈkəm-bər  \
 chastisement: chastise \ (ˌ)cha-ˈstīz  \ to inflict punishment on (as by whipping) 
-
 # Day 91
-
 enfeebled: enfeeble - to make feeble
 flank: SIDE
 bludgeoned: bludgeon - \ ˈblə-jən  \  something used to attack or bully 棍棒
-
 # Day 92
-
 disarray: a lack of order or sequence 
 vice-ridden: 完全道德败坏的 ridden作为后缀是“满是...的”的意思
 concubinage: \ kän-ˈkyü-bə-nij  , kən- \ cohabitation of persons not legally marrie
-
 # Day 93:
-
 conceit: a fanciful idea
 insignia:  \ in-ˈsig-nē-ə  \ a distinguishing mark or sign
 succulent: \ ˈsə-kyə-lənt  \ rich in interest
-
 # Day 94
-
 forlorn: \ fər-ˈlȯrn  , fȯr- \ sad and lonely because of isolation or desertion
-
 # Day 95
-
 incise: to carve figures, letters, or devices into - ENGRAVE
 boisterous: \ ˈbȯi-st(ə-)rəs  \ noisily turbulent - ROWDY
 fling: to give unrestrainedly
-
 # Day 96
-
 coquettishness: coquette - \ kō-ˈket  \ 卖弄风情的女人
 infirmary: \ in-ˈfərm-rē  , -ˈfər-mə- \ HOSPITAL 
 larval: larva - the early form of an animal 
 purser: \ ˈpər-sər  \ a steward on an airliner
-
 # Day 97
-
 97_a: dying of laughter
 97_b: reason
 97_c: without conviction
 97_d: without false modesty
-
 # Day 99
-
 revelry:  \ ˈre-vəl-rē  \ noisy partying or merrymaking
 headwater: the source of a stream 上游
 calvary:  \ ˈkal-v(ə-)rē  \ an experience of usually intense men 
 conjugal:  \ ˈkän-ji-gəl  also kən-ˈjü- \ of or relating to the married state or to married persons and their relations
-
 # Day 100
-
 profane:  \ prō-ˈfān  , prə- \ to debase by a wrong, unworthy, or vulgar use 亵渎 玷污
 bloodshot: 布满红血丝
-
 # Day 1
-
 caprice:  \ kə-ˈprēs  \ a disposition to do things impulsively
 deign: to condescend reluctantly and with a strong sense of the affront to one's superiority that is involved - STOOP 屈尊
 circumspection: circumspect -  \ ˈsər-kəm-ˌspekt  \ careful to consider all circumstances and possible consequences | PRUDENT
-
 # Day 2
-
 barefaced: OPEN, UNCONCEALED
 surmise:  a thought or idea based on scanty evidence
 mien: \ ˈmēn  \ AIR 仪表 气度
-
 # Day 3
-
 ostentation:  \ ˌä-stən-ˈtā-shən  \ excessive display - vain and unnecessary show especially for the purpose of attracting attention, admiration, or envy
 insupportable: more than can be endured
 fastidious: \ fa-ˈsti-dē-əs  , fə- \ having high and often capricious standards
-
 # Day 4
-
 unassailed: not subject to attack
 ductility: \ ˌdək-ˈti-lə-tē  \ ductile - \ ˈdək-tᵊl  , -ˌtī(-ə)l \ easily led or influenced 
 unshackle: free from shackles | shackle - something (such as a manacle or fetter) that confines the legs or arms
 elated: EXULTANT
 supercilious: \ ˌsü-pər-ˈsi-lē-əs  , -ˈsil-yəs \ coolly and patronizingly haughty
-
 # Day 5
-
 felicity: \ fi-ˈli-sə-tē  \  the quality or state of being happy 
 mortify:  \ ˈmȯr-tə-ˌfī  \ to subject to severe and vexing embarrassment - SHAME
-
 # Day 6
-
 pedantic:  \ pi-ˈdan-tik  \ UNIMAGINATIVE, DULL
-
 # Day 7
-
 archly: \ ˈärch  \ arch - MISCHIEVOUS 调皮地
 accost:  \ ə-ˈkȯst  , -ˈkäst \ 搭讪
 entail: to impose, involve, or imply as a necessary accompaniment or result | 限定继承
 complaisance: \ kəm-ˈplā-sᵊn(t)s \ disposition to please or comply 迁就/奉承
-
 # Day 8
-
 prognostic: \ präg-ˈnä-stik  \ something that foretells | premonition
 solicitude: \ sə-ˈli-sə-ˌtüd  , -ˌtyüd \ the state of being concerned and anxious 
 contrivance: \ kən-ˈtrī-vən(t)s  \ an artificial arrangement or development 想出来的办法
-
 # Day 9
-
 decorum: \ di-ˈkȯr-əm  \ propriety and good taste in conduct or appearance 端庄
-
 # Day 10
-
 despicable: \ di-ˈspi-kə-bəl  , ˈde-(ˌ)spi-  \ deserving to be despised
 affinity:  \ ə-ˈfi-nə-tē  \ likeness based on relationship or causal connection
 condescend:  \ ˌkän-di-ˈsend  \  to descend to a less formal or dignified level - DEIGN
-
 # Day 11
-
 profuse: exhibiting great abundance
 estimable:  \ ˈe-stə-mə-bəl  \ worthy of esteem
 genteel: \ jen-ˈtēl  \ elegant or graceful in manner, appearance, or shape 
 graciousness: gracious - marked by kindness and courtesy
-
 # Day 12
-
 witticism: \ ˈwi-tə-ˌsi-zəm  \ a cleverly witty and often biting or ironic remark 俏皮话 - PUNCHLINE
 commendation: COMPLIMENT
 panegyric: \ ˌpa-nə-ˈjir-ik  , -ˈjī-rik  \ a eulogistic oration or writing
@@ -653,9 +434,7 @@ odious: \ ˈō-dē-əs  \ HATEFUL
 celerity:  \ sə-ˈler-ə-tē  , -ˈle-rə- \ rapidity of motion or action
 rashness: rash  - marked by or proceeding from undue haste or lack of deliberation or caution
 precipitance: \ pri-ˈsi-pə-tən(t)s  \ undue hastiness or suddenness
-
 # Day 13
-
 appertain:  \ ˌa-pər-ˈtān  \ to belong or be connected as a rightful part or attribute - PERTAIN
 subsist: to have existence - BE
 premeditate: \ (ˌ)prē-ˈme-də-ˌtāt  \ Pre - meditate - to think about and revolve in the mind beforehand
@@ -663,21 +442,15 @@ approbation: \ ˌa-prə-ˈbā-shən  \ COMMENDATION, PRAISE
 reprehensible: \ ˌre-pri-ˈhen(t)-sə-bəl  \  reprehend - to voice disapproval of | CENSURE
 alacrity: \ ə-ˈla-krə-tē  \ promptness in response
 expostulation: \ ik-ˌspäs-chə-ˈlā-shən  \ expostulate - to reason earnestly with a person for purposes of dissuasion or remonstrance
-
 # Day 14
-
 folly:  \ˈfä-lē  \ a foolish act or idea 
-
 # Day 15
-
 vouch: \ ˈvau̇ch  \ to give personal assurance
 laconic: \ lə-ˈkä-nik  \ CONCISE to the point
 propensity:  prə-ˈpen(t)-sə-tē  \ an often intense natural inclination or preference 
 implacable:  \ (ˌ)im-ˈpla-kə-bəl  , -ˈplā-  \ not capable of being appeased, significantly changed, or mitigated
 threadbare: \ ˈthred-ˌber  \ having the nap worn off so that the thread shows 
-
 # Day 16
-
 destitute: \ ˈde-stə-ˌtüt  , -ˌt(y)üt \ lacking something needed or desirable
 stately: marked by lofty or imposing dignity
 pompous: \ ˈpäm-pəs  \ having or exhibiting self-importance
@@ -685,54 +458,37 @@ oddity: an odd person, thing, event, or trait
 conscientious: \ ˌkän(t)-shē-ˈen(t)-shəs  \ METICULOUS, CAREFUL
 overture: \ ˈō-vər-ˌchu̇r \ an initiative toward agreement or action
 iniquitous:  \ i-ˈni-kwə-təs  \ iniquity - gross injustice
-
-
 # Day 17
-
 asperity:  \ ə-ˈsper-ə-tē  , a-, -ˈspe-rə- \ a harsh or sharp quality
 allude: \ ə-ˈlüd  \ to make indirect reference
 precipitate:  (adjective) \ pri-ˈsi-pə-ˌtāt  \ falling, flowing, or rushing with steep descent
-
 # Day 18
-
 incumbent:  \ in-ˈkəm-bənt How to pronounce incumbent (audio) \ one that occupies a particular position or place | a sitting congressman
 avowal:  \ ə-ˈvau̇(-ə)l  \ an open declaration or acknowledgment \
 obsequiousness: obsequious -  \ əb-ˈsē-kwē-əs  , äb- \ marked by or exhibiting a fawning attentiveness 谄媚 | fawn - 讨好
 miserly:  \ ˈmī-zər-lē  \ miserliness
 importune: \ ˌim-pər-ˈtün  \  to press or urge with troublesome persistence
-
 # Day 21
-
 filial:  \ ˈfi-lē-əl  , ˈfil-yəl \ having or assuming the relation of a child or offspring 子女的 孝顺的
 superintendence: SUPERVISION
-
 # Day 22
-
 alienate: \ ˈā-lē-ə-ˌnāt  , ˈāl-yə- \  to cause to be withdrawn or diverted 离间
 veracity: \ və-ˈra-sə-tē  \ something true
-
 # Day 23
-
 simpleton: a person lacking in common sense
 surmount: OVERCOME
 answerable: liable to be called to account - RESPONSIBLE
-
 # Day 24
-
 disdain:  \ dis-ˈdān  \ 蔑视
 upbraid: \ ˌəp-ˈbrād  \ FIND FAULT WITH
 converse: TALK
 posterity:  \ pä-ˈster-ə-tē  \ OFFSPRING
-
 # Day 25
-
 clerical:  \ ˈkler-i-kəl  , ˈkle-ri- \ of or relating to a clerk
 laity: \ ˈlā-ə-tē  \ the people of a religious faith as distinguished from its clergy
 plead: \ ˈplēd  \ to offer as a plea usually in defense, apology, or excuse
 probity:  \ ˈprō-bə-tē  \ UPRIGHTNESS
-
 # Day 26
-
 stanza: \ ˈstan-zə  \  a period (such as a half or an inning) into which the duration of a game is divided
 acquit: \ ə-ˈkwit  \ to discharge completely (as from an accusation or obligation)
 perverseness: perverse \ (ˌ)pər-ˈvərs  , ˈpər-ˌvərs \ obstinate in opposing what is right, reasonable, or accepted 
@@ -741,44 +497,30 @@ impenetrably: impenetrable -  \ (ˌ)im-ˈpe-nə-trə-bəl  \ incapable of being 
 rector: the head of a university or school
 conciliatory:  \ kən-ˈsil-yə-ˌtȯr-ē  , -ˈsi-lē-ə- \ intended to gain goodwill or favor or to reduce hostility
 preferment: \ pri-ˈfər-mənt  \ advancement or promotion in dignity, office, or station 
-
 # Day 27
-
 dissemble: to hide under a false appearance
 disservice:  \ (ˌ)di(s)-ˈsər-vəs  \ an unhelpful, unkind, or harmful act
 injunction: ORDER, ADMONITION
 observance:  \ əb-ˈzər-vən(t)s  \ an act or instance of following a custom, rule, or law
 whither:  to what place 
 languor: weakness or weariness of body or mind
-
-
 # Day 28
-
 manifold: \ ˈma-nə-ˌfōld  \ something that is manifold
-
 # Day 29
-
 headstrong: 任性的/顽固的
 coquetry: \ ˈkō-kə-trē  , kō-ˈke-trē \ a flirtatious act or attitude
 sanction: to give effective or authoritative approval or consent to
-
-
 # Day 30
-
 effusion:  \ i-ˈfyü-zhən  , e- \ unrestrained expression of words or feelings
 doleful: full of grief 
 seasonable: TIMELY
 assiduous:  \ ə-ˈsij-wəs  , -ˈsi-jə- \ showing great care, attention, and effort
 interpose: \ ˌin-tər-ˈpōz  \ to put forth by way of interference or intervention
 undutiful: \ ˌən-ˈdü-ti-fəl  , -ˈdyü- \ 不尽责的/不孝顺的
-
 # Day 31
-
 disoblige: to go counter to the wishes of | INCONVENIENCE
 ingenuity: \ ˌin-jə-ˈnü-ə-tē  , -ˈnyü- \ cleverness or aptness of design or contrivance
-
 # Day 32
-
 preservative: something that preserves or has the power of preserving 防护层
 provision: a stock of needed materials or supplies
 solicitation:  \ sə-ˌli-sə-ˈtā-shən  \ ENTREATY, IMPORTUNITY
@@ -786,347 +528,224 @@ despond: feeling or showing extreme discouragement, dejection, or depression
 diffidence: \ ˈdi-fə-dən(t)s  , -fə-ˌden(t)s \  the quality or state of being unassertive or bashful
 bewail: to wail over
 expedient: \ ik-ˈspē-dē-ənt  \ suitable for achieving a particular end in a given circumstance
-
 # Day 33
-
 reconcile:  \ ˈre-kən-ˌsī(-ə)l  \ to restore to friendship or harmony
 inference: something that is inferred 推断
 deduce: to determine by reasoning or deduction
 courtier: \ ˈkȯr-tē-ər  , ˈkȯrt-yər, ˈkȯr-chər \ one who practices flattery
-
 # Day 34
-
 abhorrence:  \ əb-ˈhȯr-ən(t)s  , -ˈhär-, ab- \ LOATHING
 incense:  \ ˈin-ˌsen(t)s  \ to arouse the extreme anger or indignation of
 rectitude: \ ˈrek-tə-ˌtüd  , -ˌtyüd \ the quality or state of being straight
-
 # Day 35
-
 impute:  \ im-ˈpyüt  \ to lay the responsibility or blame for (something) often falsely or unjustly
 circumspect:  \ ˈsər-kəm-ˌspekt  \ careful to consider all circumstances and possible consequences
 encroach:  to enter by gradual steps or by stealth into the possessions or rights of another
 angelic: \ an-ˈje-lik  \ of or relating to angels 
 repine: to feel or express dejection or discontent
-
 # Day 36
-
 candour: munreserved, honest, or sincere expression 
 extenuate:  \ ik-ˈsten-yə-ˌwāt  , -yü-ˌāt \ MITIGATE
 canvass:  \ ˈkan-vəs  \ DISCUSS, DEBATE
 perverse: \ (ˌ)pər-ˈvərs  , ˈpər-ˌvərs \  marked by peevishness or petulance 
 jilt: to cast off or reject (someone, such as a lover) capriciously or unfeelingly
-
-
 # Day 37
-
 ablution: \ ə-ˈblü-shən\  the washing of one's body or part of it
 acquiescence: passive acceptance or submission 默认
 hackney: \ ˈhak-nē  \ hackneyed - lacking in freshness or originality
-
 # Day 38
-
 forfeit:  \ ˈfȯr-fət  \  to lose or lose the right to especially by some error, offense, or crime
 slacken:  to make less active
-
 # Day 39
-
 subside: to become quiet or less
 dupe: one that is easily deceived or cheated - FOOL
-
 # Day 40
-
 spleen: feelings of anger or ill will often suppressed
 avarice: \ ˈa-və-rəs  , ˈav-rəs \ excessive or insatiable desire for wealth or gain
 mercenary:  \ ˈmər-sə-ˌner-ē  , -ne-rē \ 雇佣兵 / GREEDY
 rally: 拉力赛 / to arouse for action
-
 # Day 41
-
 tenor: a continuance in a course, movement, or activity
 affability: being pleasant and at ease in talking to others
-
 # Day 42
-
 formidable:  \ ˈfȯr-mə-də-bəl  \ causing fear, dread, or apprehension
 apparel: personal attire
 trepidation:  \ ˌtre-pə-ˈdā-shən  \ APPREHENSION
 deportment: the manner in which one conducts
 controvert: \ ˈkän-trə-ˌvərt  to dispute or oppose by reasoning
-
 # Day 43
-
 strenuous:  \ ˈstren-yə-wəs  \ vigorously active
 superlatively:  \ su̇-ˈpər-lə-tiv  \ EXCESSIVE, EXAGGERATED
 anecdote: \ ˈa-nik-ˌdōt  \ a usually short narrative of an interesting, amusing, or biographical incident
-
 # Day 44
-
 indebted:  \ in-ˈde-təd  \ owing gratitude or recognition to another
 sally: SET OUT, DEPART —often used with forth
 magistrate:  \ ˈma-jə-ˌstrāt  , -strət \ 法官
-
 # Day 45
-
 scruple: 疑虑
-
 # Day 46
-
 prudential:  \ prü-ˈden(t)-shəl  \ 谨慎的
 tete-a-tete: \ ˌtet-ə-ˈtet \ a private conversation between two persons
-
 # Day 47
-
 eligible: \ ˈe-lə-jə-bəl  \ qualified to participate or be chosen 
 penance: \ ˈpe-nən(t)s  \ an act of self-abasement, mortification
-
 # Day 48
-
 tractable: capable of being easily led, taught, or controlled
-
 # Day 49
-
 unalloyed: \ ˌən-ə-ˈlȯid  \ PURE
 unqualified: \ ˌən-ˈkwä-lə-ˌfīd  \ not having requisite qualifications 无条件的
 verdure:  \ ˈvər-jər \ the greenness of growing vegetation
-
 # Day 51
-
 exertion: \ ig-ˈzər-shən  \ a laborious or perceptible effort
 depravity: \ di-ˈpra-və-tē \ a corrupt act or practice
 wanton: MERCILESS, INHUMANE
 remonstrance:  \ ri-ˈmän(t)-strən(t)s  \ an earnest presentation of reasons for opposition or grievance
 inducement: \ in-ˈdüs-mənt  , -ˈdyüs- \ a motive or consideration that leads one to action or to additional or more effective actions
 repugnance: \ ri-ˈpəg-nən(t)s  \ the quality or fact of being contradictory or inconsistent
-
 # Day 52
-
 pecuniary: \ pi-ˈkyü-nē-ˌer-ē  \ consisting of or measured in money
 connivance: \ kə-ˈnī-vən(t)s  \ knowledge of and active or passive consent to wrongdoing
 elopement: 私奔
-
 # Day 53
-
 militia:  \ mə-ˈli-shə  \ 民兵
 contrariety: \ ˌkän-trə-ˈrī-ə-tē  \ the quality or state of being contrary
-
 # Day 54
-
 prepossession: \ ˌprē-pə-ˈze-shən \ an attitude, belief, or impression formed beforehand; PREJUDICE
 obeisance: \ ō-ˈbē-sᵊn(t)s  , ə-, -ˈbā-  \ acknowledgment of another's superiority or importance; HOMAGE
 mediocrity: \ ˌmē-dē-ˈä-krə-tē  \ a mediocre person 中庸之才; mediocre - of moderate ability 
-
 # Day 55
-
 replete: fully or abundantly provided or filled
 chagrin: \ shə-ˈgrin \ disquietude or distress of mind caused by humiliation, disappointment, or failure
-
 # Day 56
-
 consternation:  \ ˌkän(t)-stər-ˈnā-shən  \ amazement or dismay that hinders or throws into confusion
 irksome: \ ˈərk-səm  \ TEDIOUS
-
 # Day 58
-
 vindication:  \ ˌvin-də-ˈkā-shən  \ justification against denial or censure
 extort:  \ ik-ˈstȯrt  \ 敲诈
-
 # Day 59
-
 apace: \ ə-ˈpās  \  at a quick pace 
 allay:  \ a-ˈlā  , ə- \  to subdue or reduce in intensity or severity
-
 # Day 60
-
 volubility: voluble  \ ˈväl-yə-bəl  \ characterized by ready or rapid speech
 volatility:  \ ˌvä-lə-ˈti-lə-tē  \ a tendency to change quickly and unpredictably 
 squeamish:  \ ˈskwē-mish  \ easily offended or disgusted 
-
 # Day 62
-
 satin: 缎子
 impunity: \ im-ˈpyü-nə-tē  \ exemption or freedom from punishment, harm, or loss
 curtail:  \ (ˌ)kər-ˈtāl  \ to make less by or as if by cutting off or away some part
 querulous: \ ˈkwer-yə-ləs  \ habitually complaining 
-
 # Day 64
-
 trifling: \ ˈtrī-f(ə-)liŋ  \ FRIVOLOUS
 sedateness: 镇静  \ si-ˈdāt  \
 aloof: 远离的/冷漠的
-
 # Day 65
-
 brink: a bank especially of a river
 construe: \ kən-ˈstrü  \ to understand or explain the sense or intention of usually in a particular way or with respect to a given set of circumstances
 glen: 峡谷
-
 # Day 66
-
 impart: to give, convey, or grant from or as if from a store
 whimsical: \ ˈ(h)wim-zi-kəl  \ resulting from or characterized by whim or caprice
 unassuming: 谦逊的
 embargo: a legal prohibition on commerce
-
 # Day 67
-
 tincture: 染色
 hauteur:  \ hȯ-ˈtər  , (h)ō- \ ARROGANCE, HAUGHTINESS
 ascertain: \ ˌa-sər-ˈtān  \ 搞清楚/弄明白
-
 # Day 68
-
 indelicate: verging on the indecent
 petulance: \ ˈpe-chə-lən(t)s  \ PEEVISHNESS
 acrimony:  \ ˈa-krə-ˌmō-nē  \ anger and bitterness
-
 # Day 69
-
 nettle: to arouse to sharp but transitory annoyance or anger; or 荨麻
 shrewish: \ ˈshrü-ish  \ 脾气坏且爱争吵的
 discompose:  to destroy the composure of
 disengage: to release or detach oneself 
 uppermost: situated in the highest or most prominent position
-
 # Day 70
-
 exigence:  \ ˈek-sə-jən(t)s  \ exigency that which is required in a particular situation —usually used in plural
 missend: to send incorrectly  (as to a wrong destination)
-
 # Day 71
-
 consolatory: \ kən-​ˈsō-​lə-​ˌtȯr-​ē  , -​ˈsä-​ \ 
-
 # Day 72
-
 expeditiously: expeditious \ ˌek-spə-ˈdi-shəs  \ marked by or acting with prompt efficiency
 forego: to go before
 actuate:  \ ˈak-chə-ˌwāt  , -shə- \ to move to action
-
 # Day 73
-
 # Day 74
-
 bosom: BREAST
 sequel: \ ˈsē-kwəl  also -ˌkwel \ CONSEQUENCE, RESULT
 frisk: to leap, skip, or dance in a lively or playful way
 brittle: easily broken, cracked, or snapped
 caper: a frolicsome leap 雀跃
 profligate: \ ˈprä-fli-gət  , -ˌgāt \ wildly extravagant / completely given up to dissipation and licentiousness 放荡的
-
 # Day 76
-
 heinous: \ ˈhā-nəs  \ hatefully or shockingly evil
 licentiousness: \ lī-ˈsen(t)-shəs  \ lacking legal or moral restraints
 enormity: \ i-ˈnȯr-mə-tē  \ an outrageous, improper, vicious, or immoral act
 dispirit: to deprive of morale or enthusiasm
 dilatory: \ ˈdi-lə-ˌtȯr-ē  \ tending or intended to cause delay
-
 # Day 77
-
 philosophic: calm or unflinching in the face of trouble, defeat, or loss
 transpire: \ tran(t)-ˈspī(-ə)r  \ to be revealed; come to light
-
 # Day 78
-
 undeserving: lacking merit
 paddock:  \ ˈpa-dək  , -dik \ 围场
-
 # Day 79
-
 fidgety:  \ ˈfi-jə-tē  \ inclined to fidget 坐立不安
-
 # Day 80
-
 spurn: to reject with disdain or contempt
 frailty: \ ˈfrāl-tē How to pronounce frailty (audio) \ a fault due to weakness especially of moral character
 indolence: \ ˈin-də-lən(t)s How to pronounce indolence (audio) \  inclination to laziness
-
-
 # Day 81
-
 creditor:  \ ˈkre-di-tər  , -ˌtȯr \  one to whom a debt is owed
 subjoin:  \ (ˌ)səb-ˈjȯin  \ ANNEX, APPEND 
-
 # Day 82
-
 horrid:  \ ˈhȯr-əd  , ˈhär- \ SHOCKING
-
 # Day 83
-
 cogent:  \ ˈkō-jənt  \ CONVINCING
 expedite: \ ikˈspēdēˌāt, ek- \ to accelerate the process or progress of 
-
 # Day 84
-
 liberality:  \ ˌli-bə-ˈra-lə-tē  \ 慷慨，心胸开阔
 supplication: \ ˈsə-plə-ˌkāt  \ ENTREATY SUPPLICATE - to ask humbly and earnestly of
-
 # Day 85
-
 palatable: \ ˈpa-lə-tə-bəl  \ [PALATE - 上颚] agreeable or acceptable to the mind; greeable to the palate or taste
 simper: to smile in a silly, affected, or ingratiating manner
 smirk: to smile in a smug or condescending way
-
 # Day 86
-
 incivility:  \ ˌin(t)-sə-ˈvi-lə-tē  \ the quality or state of being uncivil
-
 # Day 87
-
 officious: \ ə-ˈfi-shəs  \ MEDDLESOME 多管闲事
-
 # Day 88
-
 deaden: to make vapid or spiritless
 salutation: \ ˌsal-yə-ˈtā-shən  \ an expression of greeting, goodwill, or courtesy by word, gesture, or ceremony 寒暄
 confederacy:  \ kən-ˈfe-d(ə-)rə-sē  \ ALLIANCE
 rapacity:  \ rə-ˈpa-sə-tē  \ the quality of being rapacious
-
 # Day 91
-
 equipage: \ ˈe-kwə-pij  \ material or articles used in equipment 
-
 # Day 92
-
 brook: \ ˈbru̇k  \ to stand for
 infatuation: \ in-ˌfa-chə-ˈwā-shən  , -chü-ˈā- \ a feeling of foolish or obsessively strong love for, admiration for, or interest in someone or something
-
 # Day 93
-
 obliging: HELPFUL
 unblemished:  \ ˌən-ˈble-misht  \  free from unwanted marks or spots
-
 # Day 94
-
 sagacity: \ sə-ˈga-sə-tē  , si- \ 睿智
 nupitial:  \ ˈnəp-shəl \  of or relating to marriage or the marriage ceremony
 effectuate: \ i-ˈfek-chə-ˌwāt \ to cause or bring about (something)
 patronage: \ ˈpa-trə-nij \  the support or influence of a patron
-
 # Day 95
-
 contrariwise:  \ ˈkän-ˌtrer-ē-ˌwīz \ on the contrary
 unexampled: having no example or parallel
-
 # Day 97
-
 epithet: \ ˈe-pə-ˌthet  \ 绰号 a characterizing word or phrase accompanying or occurring in place of the name of a person or thing 
-
 # Day 98
-
 rant: to talk in a noisy, excited, or declamatory manner
 reconcile: \ ˈre-kən-ˌsī(-ə)l  \ to cause to submit to or accept something unpleasant 
-
 # Day 99
-
 parading: pompous
-
 # Day 100
-
 moralize: to explain or interpret morally
-
 # Becoming
-
 predatory: \ ˈpre-də-ˌtȯr-ē  \ 掠夺的/食肉的/强取豪夺的
 inoculated:  inoculate \ i-ˈnä-kyə-ˌlāt  \  to introduce something into the mind of 灌输想法
 inherently: 固有的/天性的
@@ -1185,27 +804,16 @@ euphoria: \ yü-ˈfȯr-ē-ə \ a feeling of well-being or elation
 grizzled: having gray hair
 gun-toting: carrying and using a gun usually for criminal purposes
 influx: \ ˈin-ˌfləks \ a coming in
-
 vitriol: \ ˈvi-trē-əl \ bitterly harsh or caustic language or criticism
-
 zoning: the act or process of partitioning a city, town, or borough into zones reserved for different purposes (such as residence or business) zoning law -分区法
-
 crawl: slow or laborious progress
-
 coalition: \ ˌkō-ə-ˈli-shən \ UNION
-
 odds: 不利条件/掣肘的事情/逆境
-
 castigated: \ ˈka-stə-ˌgāt \ to subject to severe punishment, reproof, or criticism
-
 Hoarder: \ ˈhȯr-dər \ a person or animal that hoards
-
 parlance: SPEECH
-
 trinkets: \ ˈtriŋ-kət \ a thing of little value
-
 sexism: 性别歧视
-
 nonchalantly: \ ˌnän-shə-ˈlänt-lē \ having an air of easy unconcern or indifference
 nadir: \ ˈnā-ˌdir \ the lowest point
 vets: VETERAN
@@ -1216,84 +824,61 @@ construct: a working hypothesis or concept - 理念
 moochers: 乞丐  \ ˈmü-chər  \
 rhetoric: 花言巧语 \ ˈre-tə-rik \
 retard: a foolish or stupid person
-
 cadence: \ ˈkā-dᵊn(t)s \ a regular and repeated pattern of activity
-
 nickels: 5美分
-
 dimes: 10美分
-
 pennies: 1美分
-
 anti-spanking: 反对体罚
-
 admonition: \ ˌad-mə-ˈni-shən \ gentle or friendly reproof
 pivoted: 以...为中轴转动
-
 sucker-punched: 发起出其不意的攻击
-
 commotion: \ kə-ˈmō-shən \ 骚动
-
 sidelines: 场外
-
 ostensibly: \ ä-ˈsten(t)-sə-blē \ open to view
-
 kaboom: \ kə-ˈbüm \ 爆炸声
-
 minivan: 厢式旅行车
 dutifully: 如实
 cursory: \ ˈkərs-rē \ HASTY
-
 pervert: \ ˈpər-ˌvərt \ ONE WHO CORRUPTS
-
 squander: to spend extravagantly or foolishly
 jarring: having a harshly concussive, disagreeable, or discordant effect
-
 credits: believes
-
 embodied: 代表 to represent in human or animal form
-
 juxtaposition: \ ˌjək-stə-pə-ˈzi-shən \ 两者并立
-
 slammed: 受...冲击
-
 tangible: substantially real 实质的
-
 psychiatrist: \ sə-ˈkī-ə-trist , sī- \ 精神病专家
-
 convert: \ ˈkän-ˌvərt \ 皈依者
 secular: \ ˈse-kyə-lər \ of or relating to the worldly or temporal
-
 Gomorrah: \ gə-ˈmȯr-ə \ 所多玛（Sodom）与蛾摩拉（Gomorrah）是圣经里记载的罪恶之城，因其居民罪恶堕落到了无可救药的地步，而遭到上帝毁灭
-
 unenviable: \ ˌən-ˈen-vē-ə-bəl \ not desirable
-
 trudged: \ ˈtrəj \ to walk or march steadily and usually laboriously
-
 blotchy: \ ˈbläch \ a spot or mark
-
 mildew: 霉菌 \ ˈmil-ˌdü \
 platoon: \ plə-ˈtün \ 排
-
 chastened: chasten - to correct by punishment or suffering
-
 periodical: 期刊/杂志
 improvised: \ ˈim-prə-ˌvīz \ to make or fabricate out of what is conveniently on hand
-
 underworld: a social sphere below the level of ordinary life 黑暗一面
-
 smack: 黑焦油海洛因
-
 chronicled: to present a record of in or as if in a chronicle
-
 allegedly: 据称
-
 unsavory: DISAGREEABLE
-
 epitomized: \ i-ˈpi-tə-ˌmīz \ o serve as the typical or ideal example of
-
 nerdy: 书呆子气的/令人厌烦的
-
 abysmal: \ ə-ˈbiz-məl , a- \ extremely bad or poor
-
 stash: something stored or hidden away
+assuaged: \ ə-ˈswāj \ EASE
+largesse: \ lär-ˈzhes \ liberal giving (as of money) to or as if to an inferior
+
+deadbeats: one who persistently fails to pay personal debts or expenses
+
+blast: 抨击 to make a vigorous attack
+
+adage: \ ˈa-dij \ a saying often in metaphorical form that typically embodies a common observation
+Reams: a great amount
+
+imploded: to break down or fall apart from within
+
+tardy: LATE
+varsity: \ ˈvär-sə-tē  , -stē \ 校队

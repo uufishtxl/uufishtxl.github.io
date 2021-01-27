@@ -83,3 +83,23 @@ entries:
     - title: D7B
       url: /r_hillbilly_1_26b.html
       output: web, pdf
+
+  - title: D ~ D
+    output: web, pdf
+    folderitems:
+
+    - title: D7C
+      url: /r_hillbilly_1_26c.html
+      output: web, pdf
+
+    - title: D8
+      url: /r_hillbilly_1_27.html
+      output: web, pdf
+
+    - title: D8B
+      url: /r_hillbilly_1_27b.html
+      output: web, pdf
+
+    - title: D8C
+      url: /r_hillbilly_1_27c.html
+      output: web, pdf

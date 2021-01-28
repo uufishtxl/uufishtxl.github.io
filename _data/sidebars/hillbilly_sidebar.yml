@@ -103,3 +103,11 @@ entries:
     - title: D8C
       url: /r_hillbilly_1_27c.html
       output: web, pdf
+
+    - title: D9
+      url: /r_hillbilly_1_28.html
+      output: web, pdf
+
+    - title: D9B
+      url: /r_hillbilly_1_28b.html
+      output: web, pdf

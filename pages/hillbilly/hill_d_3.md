@@ -40,7 +40,7 @@ summary:
 
 16.  They always <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3_p1}}">`________(一只脚已踏入新生活，另一只脚却还留在旧日子)`</b>.
 
-17.  My mom’s generation was the first to grow up in the industrial Midwest, far from the <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3_q1}}">`________(【猜测】重鼻音)`</b> and one-room schools of the hills.
+17.  My mom’s generation was the first to grow up in the industrial Midwest, far from the <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3_q1}}">`________(【猜测】重口音)`</b> and one-room schools of the hills.
 
 18.  So important was this road in the massive hillbilly migration that Dwight Yoakam <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3_r1}}">`________(写了一首歌)`</b> about northerners who <b data-toggle="tooltip" data-original-title="{{site.data.glossary.castigated}}">`castigated`</b> Appalachian children for learning the wrong three R’s: “Reading, Rightin’, Rt. 23.” Yoakam’s song about his own move from southeastern Kentucky could have come from Mamaw’s.
 
@@ -75,3 +75,5 @@ summary:
 15. Other times Mamaw would insist on staying, so Mom and Aunt Wee would <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3b_o1}}">`________(准备迎接一个漫长的夜晚)`</b>.
 
 16. One Christmas Eve, Papaw came home drunk and demanded a fresh dinner. When that failed to <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3b_p1}}">`________(实现/成形)`</b>, he picked up the family Christmas tree and threw it out the back door.
+
+17. <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3b_q1}}">`________(“囤积癖”这个词还没有成为日常用语)`.</b>

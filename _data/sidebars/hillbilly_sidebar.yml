@@ -84,7 +84,7 @@ entries:
       url: /r_hillbilly_1_26b.html
       output: web, pdf
 
-  - title: D ~ D
+  - title: D7 ~ D9
     output: web, pdf
     folderitems:
 
@@ -110,4 +110,20 @@ entries:
 
     - title: D9B
       url: /r_hillbilly_1_28b.html
+      output: web, pdf
+
+    - title: D9C
+      url: /r_hillbilly_1_28c.html
+      output: web, pdf
+
+  - title: D10 ~ D
+    output: web, pdf
+    folderitems:
+
+    - title: D10
+      url: /r_hillbilly_1_29.html
+      output: web, pdf
+
+    - title: D10B
+      url: /r_hillbilly_1_29b.html
       output: web, pdf

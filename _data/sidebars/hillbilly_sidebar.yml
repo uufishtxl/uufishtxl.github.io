@@ -127,3 +127,11 @@ entries:
     - title: D10B
       url: /r_hillbilly_1_29b.html
       output: web, pdf
+
+    - title: D11
+      url: /r_hillbilly_1_30.html
+      output: web, pdf
+
+    - title: D11B
+      url: /r_hillbilly_1_30b.html
+      output: web, pdf

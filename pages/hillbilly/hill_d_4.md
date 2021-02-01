@@ -15,7 +15,7 @@ summary:
 
 3.  As I grew up, I noticed that the tennis court lines faded with each passing month, and that the city had stopped <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_4_c1}}">`________(填补[水泥]裂口)`</b> or replacing the nets on the basketball courts.
 
-4.  patches. I learned that our neighborhood had “<b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_4_d1}}">`________(每况愈下)`</b>” after two bikes were stolen in the course of the week.
+4.  I learned that our neighborhood had “<b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_4_d1}}">`________(每况愈下)`</b>” after two bikes were stolen in the course of the week.
 
 5.  Now her grandkids <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_4_e1}}">`________(醒来时发现)`</b> thick locks cracked in two by <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_4_e2}}">`________(锁定插销)`</b> cutters.
 

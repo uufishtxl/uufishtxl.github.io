@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1.  He was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_a1}}">`________([把孩子]送人)`</b>, they said.
+1.  He was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_a1}}">`________(放弃我的抚养权给别人)`</b>, they said.
 
 2.  I knew that he loved Kentucky, its beautiful mountains, and its <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_b1}}">`________(起伏的绿色)`</b> horse country. 
 

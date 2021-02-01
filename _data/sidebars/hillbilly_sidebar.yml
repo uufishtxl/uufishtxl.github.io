@@ -143,3 +143,11 @@ entries:
     - title: D12B
       url: /r_hillbilly_1_31b.html
       output: web, pdf
+
+  - title: Review
+    output: web, pdf
+    folderitems:
+
+    - title: Review
+      url: /r_hillbilly_r.html
+      output: web, pdf

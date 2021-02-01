@@ -56,7 +56,7 @@ summary:
 
 6. “<b data-toggle="tooltip" data-original-title="{{site.data.glossary.Hoarder}}">`Hoarder`</b>” hadn’t entered everyday <b data-toggle="tooltip" data-original-title="{{site.data.glossary.parlance}}">`parlance`</b>, but Mamaw <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3b_f1}}">`________(suitable for a particular job or purpose)`</b>, and her tendencies only worsened as she withdrew from the world.
 
-7. Garbage piled up in the house, with an entire bedroom devoted to <b data-toggle="tooltip" data-original-title="{{site.data.glossary.trinkets}}">`trinkets`</b> and debris that had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3b_g1}}">`________(任何价值)`</b>.
+7. Garbage piled up in the house, with an entire bedroom devoted to <b data-toggle="tooltip" data-original-title="{{site.data.glossary.trinkets}}">`trinkets`</b> and debris that had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3b_g1}}">`________(没有任何价值)`</b>.
 
 8. To hear of this period, one <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3b_h1}}">`________(有种...的感觉)`</b> that Mamaw and Papaw led two lives.
 

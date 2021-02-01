@@ -17,7 +17,7 @@ summary:
 
 4.  So I wasn’t surprised that Mormon Utah — with its strong church, integrated communities, and intact families — <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_12b_d1}}">`________(彻底击败)`</b> Rust Belt Ohio.
 
-5.  That hope undefined — Mom didn’t go to jail, and I got to stay with Mamaw.
+5.  That hope <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_12b_e1}}">`________(to develop in a particular way or in a successful way)`</b> — Mom didn’t go to jail, and I got to stay with Mamaw.
 
 6.  Child services are, for many kids, <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_12b_f1}}">`________(安全网的最后一环)`</b> ; if they fall through, precious little remains to catch them.
 

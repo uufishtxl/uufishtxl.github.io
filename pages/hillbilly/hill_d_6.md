@@ -19,7 +19,7 @@ summary:
 
 5.  While the other kids <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_e1}}">`________(在课间休息玩耍)`</b> and Chris recovered with the nurse, the teacher brought me into the classroom.
 
-6.  Bob was Mom’s third husband, but t<b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_f1}}">`________(第三次就行了的话，只是说说而已)`</b>.
+6.  Bob was Mom’s third husband, but <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_f1}}">`________(第三次就行了的话，只是说说而已)`</b>.
 
 7.  By the time we moved to Preble County, Mom and Bob had already begun to fight, and many of those fights would <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_g1}}">`________(让我保持清醒)`</b> well past my bedtime.
 
@@ -57,6 +57,6 @@ summary:
 
 24.  Even <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_x1}}">`________(吵架有点过头了)`</b>—when I thought Bob was about to hit me—was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_x2}}">`________(不再是那个勇敢的孩子)`</b> who intervened and more about a spectator who <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_x3}}">`________(掺和到了他们的吵架中)`</b>. 
 
-25.  That morning Bob had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_y1}}">`________(将她捉奸现场)`</b> and demanded a divorce.
+25.  That morning Bob had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_y1}}">`________(和她对峙她出轨的事)`</b> and demanded a divorce.
 
 26.  Mom had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_6_z1}}">`________(加速离开)`</b> in her brand-new <b data-toggle="tooltip" data-original-title="{{site.data.glossary.minivan}}">`minivan`</b> and intentionally crashed it into a telephone pole.

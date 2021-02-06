@@ -223,3 +223,13 @@ defaults:
       search: true
       sidebar: hillbilly_sidebar
       topnav: topnav
+
+  -
+    scope:
+      path: "pages/plague"
+      type: "pages"
+    values:
+      layout: "note_tutorial"
+      search: true
+      sidebar: plague_sidebar
+      topnav: topnav

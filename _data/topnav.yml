@@ -24,6 +24,8 @@ topnav_dropdowns:
           url: /r_becoming_p31.html
         - title: Hillbilly Elegy
           url: /r_hillbilly_d1.html
+        - title: Plague
+          url: /r_plague_2_4.html
     - title: Tutorials
       folderitems:
         - title: Tom's tutorial

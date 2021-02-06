@@ -26,3 +26,5 @@ summary:
 - This seemed <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_h1}}">`________(有点夸张)`</b> even when I was six.
 
 - Our new life with Bob <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_5_i1}}">`________(有种浮于表面、家庭情景剧的感觉)`</b>.
+
+- Winning <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_r1}}">`________(大堆大堆铁锈地带的民主党选民)`</b> like Papaw, Reagan <b data-toggle="tooltip" data-original-title="{{site.data.answers.hill_d_3c_r2}}">`________(以压倒性优势赢得了选举)`</b> in modern American history. 

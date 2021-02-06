@@ -1,0 +1,37 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Plague
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: D1 ~ D7 
+    output: web, pdf
+    folderitems:
+
+    - title: D1
+      url: /r_plague_2_4.html
+      output: web, pdf
+      type: homepage
+
+    - title: D2
+      url: /r_plague_2_5.html
+      output: web, pdf
+
+    - title: D3
+      url: //r_plague_2_6.html
+      output: web, pdf

@@ -33,5 +33,22 @@ entries:
       output: web, pdf
 
     - title: D3
-      url: //r_plague_2_6.html
+      url: /r_plague_2_6.html
       output: web, pdf
+
+    - title: D4
+      url: /r_plague_2_7.html
+      output: web, pdf
+
+    - title: D5
+      url: /r_plague_2_8.html
+      output: web, pdf
+
+    - title: D6
+      url: /r_plague_2_9.html
+      output: web, pdf
+
+    - title: D7
+      url: /r_plague_2_10.html
+      output: web, pdf
+

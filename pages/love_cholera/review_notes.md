@@ -13,6 +13,17 @@ summary:
 
 ## Words
 
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.commiseration}}">`commiseration`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.impassive}}">`impassive`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.lugubrious}}">`lugubrious`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.tenacious}}">`tenacious`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.capitulation}}">`capitulation`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.irredeemable}}">`irredeemable`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.militant}}">`militant | a militant unbeliever`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.unperturbed}}">`unperturbed`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.chimerical}}">`chimerical`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.revelry}}">`revelry`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.calvary}}">`calvary`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.puerile}}">`puerile`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.innocuous}}">`innocuous`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.intransigence}}">`intransigence`</b>
@@ -35,13 +46,39 @@ summary:
 
 ## Expressions
 
+## 10
+
+- Although it was not customary for invitations to request special attire, <b data-toggle="tooltip" data-original-title="{{site.data.answers.a0_i}}">`________(最不...的/更不用说...)`</b> for a luncheon in the country, the women wore evening gowns and precious jewels and most of the men were dressed in dinner jackets with black ties, and some even wore frock coats.
+
 ## 11
 
-- He was on the verge of reaching that state now when a <b data-toggle="tooltip" data-original-title="{{site.data.answers.aa_c}}">`________(一道仁慈之光点亮了他的回忆)`</b>: the boy had been one of his students last year.
+- He was surprised to see him there, <b data-toggle="tooltip" data-original-title="{{site.data.answers.aa_k}}">`________(在满是精英的圈子)`</b>, but Dr. Olivella reminded him that he was the son of the Minister of Health and was preparing a thesis in forensic medicine.
+
+## 12
+
+- When he became aware of his first bouts of forgetfulness, he <b data-toggle="tooltip" data-original-title="{{site.data.answers.ab_a}}">`________(依靠/求助于一种方式)`</b> he had heard about from one of his teachers at the Medical School.
 
 ## 13
 
 - It was the culmination of a spectacular civic campaign that involved every sector of the city in a <b data-toggle="tooltip" data-original-title="{{site.data.answers.ac_d}}">`________(全民总动员)`</b> that many thought <b data-toggle="tooltip" data-original-title="{{site.data.answers.ac_d2}}">`________(堪称伟业)`</b>.
+
+## 16
+
+- **注意介词** So he decided to send Fermina Daza a simple note written on both sides of the paper <b data-toggle="tooltip" data-original-title="{{site.data.answers.af_f}}">`________(用公证员般漂亮的字体)`</b>.
+
+- For despite her austere conduct and penitential habit, Aunt Escolastica had <b data-toggle="tooltip" data-original-title="{{site.data.answers.af_j}}">`________(行为/思想的本能)`</b> and <b data-toggle="tooltip" data-original-title="{{site.data.answers.af_j2}}">`________(使命感/天职)`</b>, which were her greatest virtues, and the mere idea that a man was interested in her niece awakened an irresistible emotion in her. **[vocation -  \ vō-ˈkā-shən  \ a summons or strong inclination to a particular state or course of action complicity - \ kəm-ˈpli-s(ə-)tē  \ association or participation in or as if in a wrongful act]**
+
+## 20
+
+In reality they were <b data-toggle="tooltip" data-original-title="{{site.data.answers.b0_d}}">`________(用来消遣的信件)`</b>, intended to <b data-toggle="tooltip" data-original-title="{{site.data.answers.b0_d2}}">`________(让爱情之火不灭，同时也不会烧到自己的手)`</b>, while Florentina Ariza burned himself alive in every line.
+
+## 23
+
+- Lorenzo Daza received an urgent summons to the rectory where he discovered <b data-toggle="tooltip" data-original-title="{{site.data.answers.bc_c}}">`________(他的家规有了疏漏)`</b>.
+
+## 24
+
+- He dipped he end of his cigar in the anisette, <b data-toggle="tooltip" data-original-title="{{site.data.answers.bd_f}}">`________(猛吸)`</b> it and drew no smoke, then concluded in a sorrowful voice: "Get out of our way!"
 
 ## 27
 
@@ -52,6 +89,12 @@ summary:
 ## 30
 
 - His mother moved him most of all. She was still young, a woman who had <b data-toggle="tooltip" data-original-title="{{site.data.answers.c0_e}}">`________(投身生活)`</b> with her elegance and <b data-toggle="tooltip" data-original-title="{{site.data.answers.c0_e2}}">`________(社交活力)`</b>, but who was now slowly withering in the aroma of camphor that rose from her widow's crepe. 
+
+## 31
+
+- The epidemic of cholera morbus, whose first victims were <b data-toggle="tooltip" data-original-title="{{site.data.answers.ca_c}}">`________(丧命)`</b> in the <b data-toggle="tooltip" data-original-title="{{site.data.answers.ca_c2}}">`________(积水/死水)`</b> of the market, had, in eleven weeks, been responsible for the greatest death toll in our history.
+
+- But Dr. Juvenal Urbino was not <b data-toggle="tooltip" data-original-title="{{site.data.answers.ca_d}}">`________(上当)`</b> by these appearances of purity, for he knew that despite all precautions, the bottom of each earthen jar was a sanctuary for water-worms.
 
 ## 32
 
@@ -66,6 +109,26 @@ summary:
 ## 35
 
 - Both of them said <b data-toggle="tooltip" data-original-title="{{site.data.answers.ce_d}}">`________(基本上/大体上)`</b> what had been said in the first, and were <b data-toggle="tooltip" data-original-title="{{site.data.answers.ce_d2}}">`________(怀着同样的谦卑)`</b>, but underneath their <b data-toggle="tooltip" data-original-title="{{site.data.answers.ce_d3}}">`________(得体)`</b> one could begin to detect an impatience that was never evident in the parsimonious letters of Florentino Ariza.
+
+## 36
+
+- At first glance it seemed impossible that her cousin could have been on the verge of madness because of that almost invisible clerk <b data-toggle="tooltip" data-original-title="{{site.data.answers.cf_i}}">`________(神态活像一条挨了打的狗)`</b>, whose clothing, <b data-toggle="tooltip" data-original-title="{{site.data.answers.cf_i2}}">`________(像落难的犹太教士)`</b>, and whose solemn manner could not perturb anyone's heart.
+
+## 38
+
+- The previous month, Fermina Daza had spoken about him, <b data-toggle="tooltip" data-original-title="{{site.data.answers.ch_e}}">`________(以随意的方式)`</b> and with no sign of interest.
+
+## 39
+
+- Fermina answered <b data-toggle="tooltip" data-original-title="{{site.data.answers.ci_a}}">`________(以同样的方式)`</b> that if they did not go straight home she would <b data-toggle="tooltip" data-original-title="{{site.data.answers.ci_a2}}">`________(跳出行动中的马车)`</b>.
+
+## 40
+
+- Florentino Ariza was awake most of the night, thinking that he heard the voice of Fermina Daza in the fresh river breeze, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d0_c}}">`________(用关于她的回忆来慰藉自己的寂寥)`</b>, hearing her sing in the respiration of the boat as it moved like a great animal through the darkness, until <b data-toggle="tooltip" data-original-title="{{site.data.answers.d0_c2}}">`________(第一缕玫瑰色的晨光在地平线出现)`</b> and the new day suddenly broke over deserted pastureland and <b data-toggle="tooltip" data-original-title="{{site.data.answers.d0_c3}}">`________(雾气弥漫的沼泽)`</b>.
+
+## 43
+
+- On only one occasion did she <b data-toggle="tooltip" data-original-title="{{site.data.answers.dc_g}}">`________(濒临...的边缘)`</b> of public scandal, when the rumor circulated that Archbishop Dante de Luna had not died by accident after eating a plate of poisonous mushrooms but had eaten them intentionally because she threatened to expose him if he persisted in his sacrilegious solicitations.
 
 ## 44
 
@@ -95,6 +158,8 @@ summary:
 
 ## 58
 
+- In the restorative idleness of solitude, on the other hand, the widows discovered that the honorable way to live was <b data-toggle="tooltip" data-original-title="{{site.data.answers.eh_a}}">`________(按身体的要求/意愿)`</b>.
+
 - The truth is that Juvenal Urbino's suit had never been undertaken in the name of love, and it was curious, <b data-toggle="tooltip" data-original-title="{{site.data.answers.eh_d}}">`________(至少可以说)`</b>, that a militant Catholic like him would offer her only worldly goods: security, order, happiness, contiguous numbers that, once they were added together, might resemble love, almost be love.
 
 ## 59
@@ -123,6 +188,10 @@ summary:
 
 ## 68
 
+- He also knew that she locked herself in the bathroom at least three times a day to smoke, but this did not attract his attention because the women of his class were in the habit of locking themselves away in groups to talk about men and smoke, and even to drink as much as two liters of aguardiente until they had passed out on the floor <b data-toggle="tooltip" data-original-title="{{site.data.answers.fh_a}}">`________(像泥瓦匠那样喝醉了般不省人事)`</b>.
+
+- She said nothing, and she did not notice the odor every day, but she now sniffed at her husband's clothing not to decide if it was ready to launder but with an unbearable anxiety that <b data-toggle="tooltip" data-original-title="{{site.data.answers.fh_c}}">`________(侵蚀着她的五脏六腑)`</b>.
+
 - Yet she had <b data-toggle="tooltip" data-original-title="{{site.data.answers.fh_b}}">`________(穿过利刃般的珊瑚礁/WOW！披荆斩棘的姐姐)`</b>, not colliding with anyone, with a power over the world that could only be a supernatural instinct.
 
 ## 70
@@ -131,11 +200,19 @@ summary:
 
 - But the address made her think that she must come from Jamaica, a black woman, of course, and she <b data-toggle="tooltip" data-original-title="{{site.data.answers.g0_a}}">`________(不假思索地排除了她)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.g0_a2}}">`________(认为不是她丈夫喜欢的类型)`</b>.
 
+## 71
+
+- Soon after the first home telephones were installed, several marriages that seemed stable were destroyed by anonymous <b data-toggle="tooltip" data-original-title="{{site.data.answers.ga_b}}">`________(告密电话)`</b>, and a number of frightened families either canceled their service or refused to have a telephone for many years.
+
+- But because its <b data-toggle="tooltip" data-original-title="{{site.data.answers.ga_c}}">`________(古老而神秘的起源)`</b> permitted one to attribute to it some kind of metaphysical connection to the designs of Divine Providence.
+
 ## 73
 
 - But she dried her hands the best she could on her apron, <b data-toggle="tooltip" data-original-title="{{site.data.answers.gc_d}}">`________(整理仪容)`</b> the best she could, <b data-toggle="tooltip" data-original-title="{{site.data.answers.gc_d2}}">`________(带着所有的高傲)`</b> she had been born with to calm her maddened heart.
 
 ## 75
+
+- In the year 1890, while the Civil War of a Thousand Days <b data-toggle="tooltip" data-original-title="{{site.data.answers.ge_f}}">`________(让...浴血)`</b> the country, an Italian who made <b data-toggle="tooltip" data-original-title="{{site.data.answers.ge_f2}}">`________(定制)`</b> wigs of human hair came to the city.
 
 - He thought that all the moments in the day, which had once been his allies and <b data-toggle="tooltip" data-original-title="{{site.data.answers.ge_k}}">`________(歃血盟友)`</b>, were beginning to <b data-toggle="tooltip" data-original-title="{{site.data.answers.ge_k2}}">`________(密谋与他敌对)`</b>.
 
@@ -145,19 +222,43 @@ summary:
 
 ## 77
 
+- Florentino Ariza, whose indifference to politics <b data-toggle="tooltip" data-original-title="{{site.data.answers.gg_a}}">`________(几乎到了极致)`</b>, listened to these increasingly frequents and tiresome speeches as one listens to the sound of the sea.
+
 - <b data-toggle="tooltip" data-original-title="{{site.data.answers.gg_g}}">`________(绿帽子)`</b>
 
 - <b data-toggle="tooltip" data-original-title="{{site.data.answers.gg_d}}">`________(离开人世唯一的遗憾)`</b> is that of singing at so many funerals except my own.
+
+## 79
+
+- It was <b data-toggle="tooltip" data-original-title="{{site.data.answers.gi_e}}">`________(与其说这是一间正式的卧室，不如说是一间舱室)`</b> on dry land, which Florentino Ariza had built behind his office in the R.C.C with no other purpose or pretext than to have a nice little refuge of his old man's loves.
 
 ## 80
 
 - It was the final act in a bitter exorcism through which she was attempting to <b data-toggle="tooltip" data-original-title="{{site.data.answers.h0_b}}">`________(向她所处的新环境妥协)`</b>. 
 
+## 81
+
+- Her house, sold many years before, had <b data-toggle="tooltip" data-original-title="{{site.data.answers.ha_g}}">`________(破旧不堪)`</b> at the hands of the Provincial Government.
+
+## 82
+
+- She said: "You do that only when you are looking for someone to cry with." Florentino Ariza <b data-toggle="tooltip" data-original-title="{{site.data.answers.hb_f}}">`________(缴械投降)`</b>.
+
+## 83
+
+- It did not have the tone, or the style, or <b data-toggle="tooltip" data-original-title="{{site.data.answers.hc_b}}">`________(修辞烘托)`</b> of his early years of love, and his argument was so rational and <b data-toggle="tooltip" data-original-title="{{site.data.answers.hc_b2}}">`________(恰如其分)`</b> that the scent of a gardenia would have been <b data-toggle="tooltip" data-original-title="{{site.data.answers.hc_b3}}">`________(不合时宜)`</b>.
+
 ## 84
+
+- It had to teach her to think of love as a state of grace: not the means to anything but <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_b}}">`________(有始有终，在自身中构成闭环)`</b>.
+
+- He was happy about the progress made in the mail service since his days as <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_d}}">`________(初创者)`</b>, for he would not have risked being seen every day in the post office mailing a letter to the same person, or sending it with someone who might <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_d2}}">`________(吐出内情)`</b>.
 
 - She had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i}}">`________(加强她的嗅觉、提高她的手腕)`</b> so that she could <b data-toggle="tooltip" data-original-title="{{site.data.answers.hd_i2}}">`________(找出)`</b> the miserable whore who had ruined her life.
 
 ## 85
+
+- He was <b data-toggle="tooltip" data-original-title="{{site.data.answers.he_a}}">`________(回到了自己的事情上)`</b>.
 
 - His ingenuity was <b data-toggle="tooltip" data-original-title="{{site.data.answers.he_b}}">`________(渐渐枯竭)`</b>.
 
@@ -165,9 +266,19 @@ summary:
 
 - It was the same ornate handwriting as in his earlier letters, <b data-toggle="tooltip" data-original-title="{{site.data.answers.hf_f}}">`________(同样的抒情)`</b>, but applied to a simple paragraph of gratitude for the courtesy of her greeting in the Cathedral.
 
+- One of the most faithful was Lucrecia del Real del Obispo, an aristocrat of the old school who had always been a good friend and who <b data-toggle="tooltip" data-original-title="{{site.data.answers.hf_c}}">`________(变得更密切)`</b> after the death of Juvenal Urbino.
+
+- She repeated the common gossip that he had never had a woman although he was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hf_g}}">`________(理想的配偶)`</b>, and that he had a secret office where he took the boys he pursued at night along the docks.
+
 ## 87
 
 - He knew he could not <b data-toggle="tooltip" data-original-title="{{site.data.answers.hg_b}}">`________(抵抗/抵御)`</b> another moment, and then Fermina Daza came in, almost invisible in the darkness, dismayed at seeing him in such a state.
+
+- She thought no, he should come back another day at a more appropriate hour, she was <b data-toggle="tooltip" data-original-title="{{site.data.answers.hg_g}}">`________([健康、身体状况]不适宜做某事)`</b> to receive visitors, there was nothing to talk about.
+
+## 89
+
+- Uncle Leo XII had experienced great annoyance in this regard, and Florentino Ariza himself had suffered the humiliation of being asked to leave when he was already sitting at the table as the guest of one of the founding members, for whom Florentino Ariza had <b data-toggle="tooltip" data-original-title="{{site.data.answers.hi_c}}">`________(帮了他很大的忙)`</b> in the area of river commerce, and who had no other choice but take him elsewhere to eat.
 
 ## 90
 

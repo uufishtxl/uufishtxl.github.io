@@ -8,6 +8,23 @@ folder: prdpjd
 summary: 
 ---
 
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.ostentation}}">`ostentation`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.elated}}">`elated`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.supercilious}}">`supercilious`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.celerity}}">`celerity`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.pompous}}">`pompous`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.conscientious}}">`conscientious`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.asperity}}">`asperity`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.incumbent}}">`incumbent`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.disdain}}">`disdain`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.posterity}}">`posterity`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.clerical}}">`clerical`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.probity}}">`probity`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.preferment}}">`preferment`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.gratulation}}">`gratulation`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.perverse}}">`perverse`</b>
+
+
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.ingenuity}}">`ingenuity`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.solicitation}}">`solicitation`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.solicitation}}">`solicitation`</b>
@@ -20,6 +37,88 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.obeisance}}">`obeisance`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.depravity}}">`depravity`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.wanton}}">`wanton`</b>
+
+**05**
+
+- By all that I have ever read, I am convinced that it is very common indeed, that human nature is particularly prone to it, and that there are very few of us who do not <b data-toggle="tooltip" data-original-title="{{site.data.answers.d05_e}}">`________(沾沾自喜、洋洋自得)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.d05_e2}}">`________(因为)`</b> some quality or other, real or imaginary.
+
+**08**
+
+- Elizabeth most thankfully consented, and a servant was dispatched to Longbourn to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d08_d}}">`________(通知家里人要暂时住下来)`</b>, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.d08_d2}}">`________(带回来一些衣物)`</b>. 
+
+- The former was <b data-toggle="tooltip" data-original-title="{{site.data.answers.d08_f}}">`________(两种情绪交加)`</b> admiration of the brilliancy which <b data-toggle="tooltip" data-original-title="{{site.data.answers.d08_f2}}">`________(运动/体力方面的活动)`</b> had given to her complexion, and doubt as to the <b data-toggle="tooltip" data-original-title="{{site.data.answers.d08_f3}}">`________(特别的事情)`</b>'s justifying her coming so far alone.
+
+- And Jane, who had only been <b data-toggle="tooltip" data-original-title="{{site.data.answers.d08_g}}">`________(因为害怕引起家里人恐慌或者给他们增添麻烦而克制做某事)`</b>, from expressing in her note how much she longed for such a visit, was delighted at her entrance.
+
+**12**
+
+- Elizabeth took up some needlework, and was sufficiently amused in <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_b}}">`________(倾听)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.d12_b2}}">`________(Darcy和他的同伴之间的对话)`</b>.
+
+**13**
+
+- She often tried to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d13_i}}">`________(挑拨Darcy做某事)`</b> disliking her guest, by talking of their <b data-toggle="tooltip" data-original-title="{{site.data.answers.d13_i2}}">`________(终将喜结联姻)`</b>, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.d13_i3}}">`________(展望着这段姻缘将给他带来的欢乐)`</b>.
+
+**15**
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.d15_e}}">`________(我的看法很难轻易消除，无论尽了多大努力改变)`</b>.
+
+**16**
+
+- "Though it is difficult," said Jane, "to guess in what way he can <b data-toggle="tooltip" data-original-title="{{site.data.answers.d16_a}}">`________(打算做某事)`</b> make us the atonement he thinks <b data-toggle="tooltip" data-original-title="{{site.data.answers.d16_a2}}">`________(某人应有的权益/应得的事物)`</b>, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d16_a3}}">`________(这份心意也是难得)`</b>."
+
+**18**
+
+- But Mr. Collins, after assuring them that he <b data-toggle="tooltip" data-original-title="{{site.data.answers.d18_b}}">`________(对他的表妹不见怪)`</b>, and should never resent her behavior as any affront, seated himself at another table with Mr. Bennet, and prepared for backgammon.
+
+**20**
+
+- "I cannot pretend to be sorry," said Wickham, after a short interruption, "that he or that any man should not be estimated beyond their <b data-toggle="tooltip" data-original-title="{{site.data.answers.d20_b}}">`________(应得的奖励或惩罚)`</b>, but with him I believe it does not often happen.
+
+- But when the <b data-toggle="tooltip" data-original-title="{{site.data.answers.d20_c}}">`________(牧师职位)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.d20_c2}}">`________(突然来到/突然出现)`</b>, it was given elsewhere.
+
+**21**
+
+- Among those who are at all <b data-toggle="tooltip" data-original-title="{{site.data.answers.d21_j}}">`________(那些地位与他旗鼓相当的人)`</b>, he is a very different man from what he is to the less prosperous. <b data-toggle="tooltip" data-original-title="{{site.data.answers.d21_j2}}">`________(他从来都很傲慢)`</b>.
+
+**22**
+
+- I can much more easily believe Mr. Bingley's being <b data-toggle="tooltip" data-original-title="{{site.data.answers.d22_f}}">`________(被蒙蔽)`</b>, than that Mr. Wickham should invent such a history of himself as he gave me last night, names, facts, everything mentioned <b data-toggle="tooltip" data-original-title="{{site.data.answers.d22_f2}}">`________(不拘礼节/随随便便)`</b>.
+
+**24**
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.d24_h}}">`________(让我奉劝你)`</b>, however, as a friend, not to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d24_h2}}">`________(轻信某事)`</b> all his assertions.
+
+**28**
+
+- The idea of Mr. Collins, with all his solemn composure, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d28_c}}">`________(控制不住感情)`</b>, made Elizabeth so <b data-toggle="tooltip" data-original-title="{{site.data.answers.d28_c2}}">`________(差点笑出来)`</b> that she could not use the short pause he allowed in any attempt to stop him farther, and he continued.
+
+**31**
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.d31_c}}">`________(我对你毫无保留)`</b>.
+
+- But here she did injustice to the <b data-toggle="tooltip" data-original-title="{{site.data.answers.d32_f}}">`________(性格中的火热炽烈)`</b> and independence of his character, for it led him to escape out of Longbourn House the next morning with admirable slyness, and hasten to Lucas Lodge to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d32_f2}}">`________(向她屈身[求爱])`</b>.
+
+**34**
+
+- After <b data-toggle="tooltip" data-original-title="{{site.data.answers.d34_d}}">`________(表达他的歉意)`</b> on that head, he proceeded to inform them, with many rapturous expressions, of his happiness in having obtained the affection of their amiable neighbor, Miss Lucas, and then explained that it was merely with the view of enjoying her <b data-toggle="tooltip" data-original-title="{{site.data.answers.d34_d2}}">`________(交往)`</b> that he had been so ready to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d34_d3}}">`________(同意/达成一致)`</b> their kind wish of seeing him again at Lougbourn.
+
+- Lady Lucas could <b data-toggle="tooltip" data-original-title="{{site.data.answers.d34_f}}">`________(必然感到得意[双重否定])`</b> on being able to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d34_f2}}">`________(回敬/报复)`</b> Mrs. Bennet the comfort of having a daughter well married.
+
+**35**
+
+- You do not <b data-toggle="tooltip" data-original-title="{{site.data.answers.d35_d}}">`________(充分考虑到某事)`</b> difference of situation and temper.
+
+**40**
+
+- Mrs. Gardiner gave her the particulars also of Miss Bingley's visit in Gracechurch Street, and repeated conversations occurring at different times between Jane and herself, which proved that the former had, from her heart, <b data-toggle="tooltip" data-original-title="{{site.data.answers.d40_c}}">`________(断绝来往)`</b>.
+
+**42**
+
+- Elizabeth was ready to speak whenever there was an <b data-toggle="tooltip" data-original-title="{{site.data.answers.d42_j}}">`________(机会)`</b>.
+
+**47**
+
+- And as she would have liked to believe this change the effect of love, and the object of that love her friend Eliza, she <b data-toggle="tooltip" data-original-title="{{site.data.answers.d47_c}}">`________(当真去做某事)`</b> to work to find it out.
 
 ## 04
 

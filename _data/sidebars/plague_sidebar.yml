@@ -52,3 +52,10 @@ entries:
       url: /r_plague_2_10.html
       output: web, pdf
 
+  - title: D8 ~ D14 
+    output: web, pdf
+    folderitems:
+
+    - title: D8
+      url: /r_plague_2_18.html
+      output: web, pdf

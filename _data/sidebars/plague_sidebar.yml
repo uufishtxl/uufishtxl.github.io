@@ -59,3 +59,7 @@ entries:
     - title: D8
       url: /r_plague_2_18.html
       output: web, pdf
+      
+    - title: D9
+      url: /r_plague_2_19.html
+      output: web, pdf

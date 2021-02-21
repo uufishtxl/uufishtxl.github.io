@@ -23,6 +23,8 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.preferment}}">`preferment`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.gratulation}}">`gratulation`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.perverse}}">`perverse`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.inducement}}">`inducement`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.repugnance}}">`repugnance`</b>
 
 
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.ingenuity}}">`ingenuity`</b>
@@ -119,6 +121,14 @@ summary:
 **47**
 
 - And as she would have liked to believe this change the effect of love, and the object of that love her friend Eliza, she <b data-toggle="tooltip" data-original-title="{{site.data.answers.d47_c}}">`________(当真去做某事)`</b> to work to find it out.
+
+**50**
+
+- These offenses might have been overlooked, had not your pride been hurt by my honest confession of the scruples that had long prevented <b data-toggle="tooltip" data-original-title="{{site.data.answers.d50_e}}">`________(我没有做出认真的决定)`</b>. These bitter accusations might have been suppressed, had I <b data-toggle="tooltip" data-original-title="{{site.data.answers.d50_e2}}">`________(更有手腕的话)`</b>, concealed my struggles, and flattered you into the belief of my being impelled by unqualified, unalloyed inclination, by reason, by reflection, by everything.
+
+**51**
+
+- Two offenses of a very different nature, and by no means of equal magnitude, you last night <b data-toggle="tooltip" data-original-title="{{site.data.answers.d51_c}}">`________(指责我)`</b>. 
 
 ## 04
 

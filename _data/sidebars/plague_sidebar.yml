@@ -71,3 +71,15 @@ entries:
     - title: D11
       url: /r_plague_2_21.html
       output: web, pdf
+
+    - title: D12
+      url: /r_plague_2_22.html
+      output: web, pdf
+
+    - title: D13
+      url: /r_plague_2_23.html
+      output: web, pdf
+
+    - title: D14
+      url: /r_plague_2_24.html
+      output: web, pdf

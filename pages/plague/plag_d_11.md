@@ -11,9 +11,7 @@ summary:
 
 1.  Cottard was <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_11_a1}}">`________(一个古怪的人)`</b>. For a long while their relations went no farther than wishing each other good-day when they met on the stairs.
 
-2.  Two crisscross strokes, and the ganglion <b data-toggle="tooltip" data-original-title="{{site.data.glossary.disgorged}}">`disgorged`</b> a mixture of blood and <b data-toggle="tooltip" data-original-title="{{site.data.glossary.pus}}">`pus`</b>. Their limbs stretched out as far as they could manage, the sick men went on bleeding.
-
-3.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_11_c1}}">`________([用手术刀]划下两条十字线后)`</b>, and the ganglion disgorged a mixture of blood and pus. Their limbs stretched out as far as they could manage, the sick men went on bleeding.
+2.  <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_11_c1}}">`________([用手术刀]划下两条十字线后)`</b>, and the ganglion <b data-toggle="tooltip" data-original-title="{{site.data.glossary.disgorged}}">`disgorged`</b> a mixture of blood and <b data-toggle="tooltip" data-original-title="{{site.data.glossary.pus}}">`pus`</b>. Their limbs stretched out as far as they could manage, the sick men went on bleeding.
 
 4.  Grand had then explained to him that he was trying to <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_11_d1}}">`________(重温/复习)`</b> his Latin. He’d learned it at school, of course, but his memories had grown blurred.
 

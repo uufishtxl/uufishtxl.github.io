@@ -83,3 +83,11 @@ entries:
     - title: D14
       url: /r_plague_2_24.html
       output: web, pdf
+
+  - title: D15 ~ D21 
+    output: web, pdf
+    folderitems:
+
+    - title: D15
+      url: /r_plague_2_25.html
+      output: web, pdf

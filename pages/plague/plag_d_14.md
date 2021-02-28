@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1.  Thus it had <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_14_a1}}">`________(落到了他的肩膀上)`</b> to add up the number of deaths during the last few days, and, <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_14_a2}}">`________(有那么一点)`</b>, he had volunteered to bring a copy of the latest figures to the doctor.
+1.  Thus it had <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_14_a1}}">`________(落到了他的肩膀上)`</b> to add up the number of deaths during the last few days, and, <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_14_a2}}">`________(生性乐于助人)`</b>, he had volunteered to bring a copy of the latest figures to the doctor.
 
 2.  Rieux had already noticed Grand’s <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_14_b2}}">`________(有...的特别的/特有的习惯)`</b> <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_14_b3}}">`________(乐于做某事)`</b> to quote some <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_14_b4}}">`________(这里是措辞的意思)`</b> of speech from “his part of the world” (he hailed from Montélimar), and following up with some such hackneyed expression as “lost in dreams,” or “pretty as a picture.”
 

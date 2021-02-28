@@ -91,3 +91,23 @@ entries:
     - title: D15
       url: /r_plague_2_25.html
       output: web, pdf
+
+    - title: D16
+      url: /r_plague_2_26.html
+      output: web, pdf
+
+    - title: D17
+      url: /r_plague_2_27.html
+      output: web, pdf
+
+    - title: D18
+      url: /r_plague_2_28.html
+      output: web, pdf
+
+    - title: D19
+      url: /r_plague_3_1.html
+      output: web, pdf
+
+    - title: D20
+      url: /r_plague_3_2.html
+      output: web, pdf

@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1.  “”This particular tobacconist -- a woman, by the way,“ Grand explained, "is a holy <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_18_a1}}">`________(讨厌鬼)`</b>."
+1.  "This particular tobacconist -- a woman, by the way," Grand explained, "is a holy <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_18_a1}}">`________(讨厌鬼)`</b>."
 
 2.  I told Cottard so, but he replied that I was prejudiced and she had plenty of good <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_18_b1}}">`________(特点/特性/特征)`</b>, only one had to find them out.
 

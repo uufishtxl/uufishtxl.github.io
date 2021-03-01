@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: D1 ~ D7 
+  - title: 01 ~ 07 
     output: web, pdf
     folderitems:
 
@@ -52,7 +52,7 @@ entries:
       url: /r_plague_2_10.html
       output: web, pdf
 
-  - title: D8 ~ D14 
+  - title: 08 ~ 14 
     output: web, pdf
     folderitems:
 
@@ -84,7 +84,7 @@ entries:
       url: /r_plague_2_24.html
       output: web, pdf
 
-  - title: D15 ~ D21 
+  - title: 15 ~ 21 
     output: web, pdf
     folderitems:
 

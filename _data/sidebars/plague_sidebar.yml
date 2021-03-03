@@ -111,3 +111,7 @@ entries:
     - title: D20
       url: /r_plague_3_2.html
       output: web, pdf
+
+    - title: D21
+      url: /r_plague_3_3.html
+      output: web, pdf

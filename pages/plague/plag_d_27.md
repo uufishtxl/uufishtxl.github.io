@@ -15,7 +15,7 @@ summary:
 
 3.  He had explained that his presence in Oran was purely accidental, he had no connection with the town and no reasons for staying in it; that being so, he surely was entitled to leave, even if, once outside the town, he had to undergo <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_27_c1}}">`________(一段时间的隔离)`</b>.
 
-4.  The official tole him <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_27_d1}}">`________(他能理解他的处境)`</b>, but no exceptions could be made.
+4.  The official told him <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_27_d1}}">`________(他能理解他的处境)`</b>, but no exceptions could be made.
 
 5.  Meanwhile, as they walked down the steep little streets flanked by blue, mauve, and saffron-yellow walls, Rambert talked incessantly, as if his nerves were <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_27_e1}}">`________(无法控制/失控)`</b>.
 

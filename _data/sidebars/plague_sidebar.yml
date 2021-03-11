@@ -147,3 +147,35 @@ entries:
     - title: D28
       url: /r_plague_3_10.html
       output: web, pdf
+
+  - title: 29 ~ 35 
+    output: web, pdf
+    folderitems:
+
+    - title: D29
+      url: /r_plague_3_11.html
+      output: web, pdf
+
+    - title: D30
+      url: /r_plague_3_12.html
+      output: web, pdf
+
+    - title: D31
+      url: /r_plague_3_13.html
+      output: web, pdf
+
+    - title: D32
+      url: /r_plague_3_14.html
+      output: web, pdf
+
+    - title: D33
+      url: /r_plague_3_15.html
+      output: web, pdf
+
+    - title: D34
+      url: /r_plague_3_16.html
+      output: web, pdf
+
+    - title: D35
+      url: /r_plague_3_17.html
+      output: web, pdf

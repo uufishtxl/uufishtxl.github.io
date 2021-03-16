@@ -17,7 +17,7 @@ summary:
 
 4.  "Yes," Rieux said, "<b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_34_d1}}">`________(我明白你的意思)`</b>."
 
-5.  G<b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_34_e1}}">`________(达到[特定水平/数量])`</b>d went on talking, but Rieux failed to follow all the worthy man was saying. All he gathered was that the work he was engaged on ran to a great many pages, and he was at almost <b data-toggle="tooltip" data-original-title="{{site.data.glossary.excruciating}}">`excruciating`</b> pains to <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_34_e2}}">`________(完善它)`</b>.
+5.  Grand went on talking, but Rieux failed to follow all the worthy man was saying. All he gathered was that the work he was engaged on <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_34_e1}}">`________(达到[特定水平/数量])`</b> to a great many pages, and he was at almost <b data-toggle="tooltip" data-original-title="{{site.data.glossary.excruciating}}">`excruciating`</b> pains to <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_34_e2}}">`________(完善它)`</b>.
 
 6.  At that moment he had a preternaturally vivid awareness of the town stretched out below, a victim world secluded and apart, and of the groans of agony stifled in its darkness. Then, <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_34_f1}}">`________(声音低沉而清晰)`</b>, Grand’s voice came to his ears.
 

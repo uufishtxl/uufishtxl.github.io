@@ -211,3 +211,19 @@ entries:
     - title: D42
       url: /r_plague_3_24.html
       output: web, pdf
+
+  - title: 43 ~ 49 
+    output: web, pdf
+    folderitems:
+
+    - title: D43
+      url: /r_plague_3_25.html
+      output: web, pdf
+
+    - title: D44
+      url: /r_plague_3_26.html
+      output: web, pdf
+
+    - title: D45
+      url: /r_plague_3_27.html
+      output: web, pdf

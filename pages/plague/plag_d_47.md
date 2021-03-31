@@ -31,4 +31,4 @@ summary:
 
 11.  “Is he now? Journalists <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_47_k1}}">`________(很多嘴)`</b>.”
 
-12.  “In any case,” Garcia said finally, “<b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_47_l1}}">`________(这事他在行)`</b>. <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_47_l2}}">`________(Raoul’s是你应该找的人)`</b>. And I’ll have to get in touch with him. It’s none too easy.”
+12.  “In any case,” Garcia said finally, “<b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_47_l1}}">`________(这不是我的的专业所在)`</b>. <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_47_l2}}">`________(Raoul’s是你应该找的人)`</b>. And I’ll have to get in touch with him. It’s none too easy.”

@@ -1,0 +1,173 @@
+I"�<h2 id="pre-knowledge">Pre-knowledge</h2>
+
+<blockquote>
+  <p><img src="https://user-gold-cdn.xitu.io/2019/8/13/16c884e33c26dbeb?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" alt="MAIN AXIS vs CROSS AXIS" /></p>
+
+  <p>Retrieved from <a href="https://juejin.im/entry/6844903911690600456">THIS PAGE</a></p>
+</blockquote>
+
+<h2 id="purpose">Purpose</h2>
+
+<p>Get width/height/order of items (children) to suit the container (parent).</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Direction-agnostic</li>
+</ul>
+
+<h2 id="scopes-of-use">Scopes of Use</h2>
+
+<ul>
+  <li>
+    <p><strong>Flex</strong>: Best fit applications and small-scale layouts</p>
+  </li>
+  <li>
+    <p><strong>Grid</strong>: Coming in handy for large-scale layouts</p>
+  </li>
+</ul>
+
+<h2 id="properties-for-parents">Properties for Parents</h2>
+
+<h3 id="display"><code class="language-plaintext highlighter-rouge">display</code></h3>
+
+<p>Defines a flex container, enabling a flex context for all its direct children.</p>
+
+<p>values:</p>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">flex</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">inline-flex</code></p>
+  </li>
+</ul>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.conotainer {
+  display: flex | inline-flex
+}
+</code></pre></div></div>
+
+<h3 id="flex-direction"><code class="language-plaintext highlighter-rouge">flex-direction</code></h3>
+
+<p>Controls the items to flow horizontally or vertically.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.container {
+  flex-direction: row | row-reverse | column | column-reverse;
+}
+</code></pre></div></div>
+
+<ul>
+  <li>row: left to right in ltr; right to left in rtl</li>
+  <li>row-reverse: right to left in ltr; left to right in rtl</li>
+  <li>column: top to bottom</li>
+  <li>column-reverse: bottom to up</li>
+</ul>
+
+<h3 id="flex-wrap"><code class="language-plaintext highlighter-rouge">flex-wrap</code></h3>
+
+<p>Breaks with the convention that restricts items to subsist within one line, whether horizontally or vertically. This property enables items to wrap when necessary.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.container {
+  flex-wrap: nowrap | wrap | wrap-reverse;
+}
+</code></pre></div></div>
+
+<p>wrap: flex items will wrap onto multiple lines, from top to bottom<br />
+wrap-reverse: flex items will wrap onto multiple lines, from bottom top</p>
+
+<h3 id="flex-flow"><code class="language-plaintext highlighter-rouge">flex-flow</code></h3>
+
+<p>A shorthand for the <code class="language-plaintext highlighter-rouge">flex-direction</code> and <code class="language-plaintext highlighter-rouge">flex-wrap</code> properties. The default value is <code class="language-plaintext highlighter-rouge">row nowrap</code>.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.container {
+  flex-flow: column wrap;
+}
+</code></pre></div></div>
+
+<h3 id="justify-content"><code class="language-plaintext highlighter-rouge">justify-content</code></h3>
+
+<p><a href="https://codepen.io/uufishtxl/pen/XWdZjRM">EXAMPLE</a></p>
+
+<p>Defines the alignment of the items along the given axis. This helps to portion out extra space leftover.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.container {
+  justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;
+}
+</code></pre></div></div>
+<p>Align items along the main axis.</p>
+
+<p>However, browser support for these values is nuanced. To ensure your page displays as desired, avail of the safe options only, namely <code class="language-plaintext highlighter-rouge">flex-start</code>, <code class="language-plaintext highlighter-rouge">flex-end</code> and <code class="language-plaintext highlighter-rouge">center</code>.</p>
+
+<h3 id="align-items"><code class="language-plaintext highlighter-rouge">align-items</code></h3>
+
+<p><a href="https://codepen.io/uufishtxl/pen/XWdZjRM">EXAMPLE</a></p>
+
+<p>Align the items along the cross axis.</p>
+
+<h3 id="align-content"><code class="language-plaintext highlighter-rouge">align-content</code></h3>
+
+<p>Align the items dispersed in no less than two lines along the cross axis, if there’s leftover space along the cross axis.</p>
+
+<p><a href="https://codepen.io/uufishtxl/pen/ExKQNjR">EXAMPLE</a></p>
+
+<h2 id="properties-for-children-items">Properties for Children (Items)</h2>
+
+<h3 id="order"><code class="language-plaintext highlighter-rouge">order</code></h3>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.item {
+  order: 5; /* default is 0 */
+}
+</code></pre></div></div>
+
+<p><a href="https://codepen.io/uufishtxl/pen/jOqZQxQ">EXAMPLE</a></p>
+
+<p>As the number increases, the priority goes down.</p>
+
+<h3 id="flex-grow"><code class="language-plaintext highlighter-rouge">flex-grow</code></h3>
+
+<p>Defines the ability of a flex item to grow if necessary.</p>
+
+<p><a href="https://codepen.io/uufishtxl/pen/zYqRMLx">EXAMPLE</a></p>
+
+<h3 id="flex-shrink"><code class="language-plaintext highlighter-rouge">flex-shrink</code></h3>
+
+<p>Defines the ability of a flex item to shrink if necessary.</p>
+
+<p>When the container is not large enough to accommodate all its children, the latter ones default to shrink by the same proportion to suit themselves. However, you may define a scale specifically for a flex item to let it shrink to a different size. Negative numbers are invalid here.</p>
+
+<p><a href="https://codepen.io/uufishtxl/pen/mdPXQQq">EXAMPLE</a></p>
+
+<h3 id="flex-basis"><code class="language-plaintext highlighter-rouge">flex-basis</code></h3>
+
+<p><code class="language-plaintext highlighter-rouge">flex-basis</code> is much like <code class="language-plaintext highlighter-rouge">width</code>. When they co-exist, <code class="language-plaintext highlighter-rouge">flex-basis</code> prevails over the other.</p>
+
+<blockquote>
+  <p>如果flex-basis和width其中有一个是auto，那么另外一个非auto的属性优先级会更高。</p>
+
+  <p><a href="https://zhoon.github.io/css3/2014/08/23/flex.html">RETRIEVED HERE</a></p>
+</blockquote>
+
+<h3 id="flex"><code class="language-plaintext highlighter-rouge">flex</code></h3>
+
+<p>A shorthand for <code class="language-plaintext highlighter-rouge">flex-grow</code>, <code class="language-plaintext highlighter-rouge">flex-shrink</code> and <code class="language-plaintext highlighter-rouge">flex-basis</code>. The shorthand is recommended rather than separate configurations for three independent properties. Note that the second and third parameters are optional.</p>
+
+<h3 id="align-self"><code class="language-plaintext highlighter-rouge">align-self</code></h3>
+
+<p>Overrides the default alignment dependent upon the <code class="language-plaintext highlighter-rouge">align-items</code> configuration on the parent element.</p>
+
+<p><a href="">EXAMPLE</a></p>
+
+<p>The free space is calculated after any non-flexible items.</p>
+
+<p>Repeating the name of a grid area causes the content to span those cells.</p>
+
+<p>Set a column to be 1fr, but shrink no further than 200px
+grid-template-columns: 1fr minmax(200px, 1fr);</p>
+
+<p>There is repeat() function, which saves some typing, like making 10 columns:
+grid-template-columns: repeat(10, 1fr);</p>
+
+<p>If no end line value is declared, the item will span 1 track by default.</p>
+:ET

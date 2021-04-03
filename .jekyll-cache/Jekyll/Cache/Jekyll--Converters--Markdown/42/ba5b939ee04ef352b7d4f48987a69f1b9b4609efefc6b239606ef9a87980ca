@@ -1,0 +1,98 @@
+I"d<h2 id="匀速运动">匀速运动</h2>
+
+<h3 id="思路">思路</h3>
+
+<ol>
+  <li>
+    <p>为需要运动的元素定位。</p>
+  </li>
+  <li>
+    <p>运动总是有速度，所以要想到用<code class="language-plaintext highlighter-rouge">setInterval()</code>方法来定义速度。</p>
+  </li>
+  <li>
+    <p>要设置一个目的地的临界值，并且清除计时器。</p>
+  </li>
+  <li>
+    <p>目的地的取值也要注意。如果是要元素移动位置，那么要用offset dimension中的属性。原因如下：offset dimension不是css中的值，可以直接用dot notation来取值，样式属性太麻烦了(也可以做，但是要引入能够获取内联及外联样式属性的方法，并且定位的left值是带像素单位，还要进行数值转换，太麻烦了)。</p>
+
+    <p>那可能会问，既然说取非行间样式中的属性那么难，那为什么赋值的时候就可以用<code class="language-plaintext highlighter-rouge">ele.style.left</code>？因为这是赋值啊，这不是取值。就好像如果是行间样式，你也可以这样直接取出样式属性一样，当这样赋值的时候，也是直接赋予行间样式。</p>
+  </li>
+  <li>
+    <p>解决计数器的独立性：多次点击按钮会让计时器效果叠加，速度会越来越快。所以，应该在点击事件产生的函数中，首先需要清除计时器。这样一来，计时器方法在声明前，就需要调用。所以最好的做法是在全局声明一个变量，为它赋值<code class="language-plaintext highlighter-rouge">null</code> (空对象)，表示计时器。</p>
+  </li>
+  <li>
+    <p>如果觉得<code class="language-plaintext highlighter-rouge">ele.offsetTop</code>太长，想要为它声明一个变量，那么要在计时器内声明。如果在全局声明，需要在计时器中再对它重新赋值，才能有效。</p>
+  </li>
+</ol>
+
+<h3 id="封装函数中的思路">封装函数中的思路</h3>
+
+<p>需要考虑的点：</p>
+
+<ol>
+  <li>
+    <p>参数：运动对象 obj / 目标位置 target</p>
+  </li>
+  <li>
+    <p>需要根据运动方向（目标相对起点的方向）来判断速度的方向。</p>
+  </li>
+</ol>
+
+<h3 id="练习可隐藏的菜单">练习：可隐藏的菜单</h3>
+
+<p>一点试错的经验。我在为元素绑定事件的时候，直接在函数变量后面加上了括号。发现一加载页面，不经判断，菜单就划动进来了。后来发现有这么几条：</p>
+
+<ol>
+  <li>
+    <p>绑定事件应该是，比如说<code class="language-plaintext highlighter-rouge">ele.onmouseover = function() {要调用的函数}</code>，但是我都直接写成了<code class="language-plaintext highlighter-rouge">ele.onmouseover = 要调用的函数()</code></p>
+  </li>
+  <li>
+    <p>函数加不加括号的区别，不加括号，表示只是指向函数，这只是一个指针，需要的时候，程序会去调用函数。而如果加上函数，意思是立即执行。虽然我也没明白过来，为啥没满足条件，就直接执行了。</p>
+  </li>
+</ol>
+
+<h2 id="变速运动">变速运动</h2>
+
+<p>变速运动和匀速运动区别并不大。主要要注意这两点：</p>
+
+<ol>
+  <li>
+    <p>要实现速度的变化，可以这样定义速度<code class="language-plaintext highlighter-rouge">(目标位置 - 起点) / 10</code>，这样一来，随着目标的接近，速度就会放慢。</p>
+  </li>
+  <li>
+    <p>但是这会产生一个问题，如果标记一下目标位置，会发现运动对象并不会精确地停止在目的位置。这是因为，当运动速度放缓到一定程度时，会小于1px。而浏览器只能处理1px以上的运动。所以，这时候，需要用<code class="language-plaintext highlighter-rouge">Math.ceil()</code>和<code class="language-plaintext highlighter-rouge">Math.floor</code>函数，进行取值。当运动方向为正，向上取值到1；当运动方向为负，向下取值到-1。</p>
+  </li>
+  <li>
+    <p>根据速度方向取值用三元运算符看起来会简单很多。</p>
+
+    <pre><code class="language-JS">// 三元运算符
+var speed = (target - obj.offsetLeft) / 10;
+
+speed &gt; 0 ? speed = Math.ceil(speed) : speed = Math.floor(speed);
+</code></pre>
+
+    <pre><code class="language-JS">// if...else...
+var speed;
+
+if (target &gt;= obj.offsetLeft) {
+                speed = Math.ceil((target - obj.offsetLeft) / 10); 
+            } else {
+                speed = Math.floor((target - obj.offsetLeft) / 10); 
+            }
+</code></pre>
+  </li>
+</ol>
+
+<h3 id="练习弹出广告视窗跟随滚动条划动">练习：弹出广告视窗跟随滚动条划动</h3>
+
+<p>需求：设计一个广告弹窗。无论滚动条如何上下滚动，它都一直处于文档右下角。</p>
+
+<p>这道题的关键就要计算目标距离。并且这个目标距离应该是在触发窗口滚动事件后，且在进入计时循环前计算的。</p>
+
+<p>如果要定位在右下角，那么定位的位置（obj.style.top）的计算方式是：<mark>html的clientHeight + html的scrollTop - 元素的offsetHeight</mark>。另外一种情况，如果要定位在垂直窗口的中央，那么计算方式是：<mark>html的scrollTop + (html的clientHeight -  元素的offsetHeight) / 2</mark>。</p>
+
+<p>另外，还有一个与之前变速前往目的地类似的问题，那就是如果距离有小数点，那么就好比飞行器走最后那6步以内，要是怎么都走不到目标的那个点，就会发生徘徊抖动，解决方式是将distance转换为一个整数。</p>
+
+<p>关于文档或元素的一些大小的计算，以及视口大小的检查，可以查看<a href="/js_basics_motion_part1.html">这里的笔记</a>。</p>
+
+:ET

@@ -1,0 +1,51 @@
+I"�<blockquote>
+  <p>Arrow function expressions are ill suited as methods, and they cannot be used as constructors.</p>
+</blockquote>
+
+<p>In the old days, we define a function like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function addNums(num1, num2) {
+  console.log(num1 + num2);
+}
+// expected printout: NaN, means not a number, given that we didn't specify the values
+</code></pre></div></div>
+
+<p>Assign default values to parameters:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function addNums(num1 = 1, num2 = 1) {
+  console.log(num1 + num2);
+}
+// expected printout: 2; the function takes in the default values
+</code></pre></div></div>
+
+<p>Call-back:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function addNums (num1 = 1, num2 = 1) {
+    return num1 + num2;
+}
+
+console.log(addNums(5,5));
+// expected printout: 10
+</code></pre></div></div>
+
+<h3 id="let-arrow-funtion-come-into-play">Let arrow funtion come into play</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const addNums = (num1 = 1, num2 = 1) =&gt; {
+    return num1 + num2;
+}
+console.log(addNums(5,5));
+</code></pre></div></div>
+
+<p>It works, but you don’t necessarily have to include the curly braces. Make it simple like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const addNums = (num1 = 1, num2 = 1) =&gt; console.log(num1 + num2);
+
+addNums(5,5)
+</code></pre></div></div>
+
+<p>If you want to return the result, you don’t even need the return keyword.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const addNums = (num1 = 1, num2 = 1) =&gt; num1 + num2;
+console.log(addNums(5,5));
+</code></pre></div></div>
+:ET

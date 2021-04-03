@@ -1,0 +1,49 @@
+I"�<h2 id="透明度的改变">透明度的改变</h2>
+
+<p>透明度的改变和变速运动没有很大的区别。</p>
+
+<p>但是，需要注意的是，<code class="language-plaintext highlighter-rouge">filter</code>属性只适合标准浏览器。为了兼容IE8及以下版本的服务器，需要使用<code class="language-plaintext highlighter-rouge">alpha</code>属性。</p>
+
+<h2 id="多div框宽度伸缩">多div框宽度伸缩</h2>
+
+<p>需求：有多个div框，要求封装一个函数，当鼠标对这些div框做移入和移出操作时，将改变div框的宽度。</p>
+
+<p>需要注意以下几点：</p>
+
+<ul>
+  <li>
+    <p>需要为每个div框设置独立的计时器。只要获取一个包含所有div框的数组，然后对它进行遍历，并未每个元素设置独立的计时器(array[i].timer)即可。</p>
+  </li>
+  <li>
+    <p>为遍历到的元素绑定计时器时，obj形参位置可以传入this，表示调用该函数的对象。</p>
+  </li>
+</ul>
+
+<h2 id="offset-dimension的副作用">offset dimension的副作用</h2>
+
+<p><code class="language-plaintext highlighter-rouge">offsetWidth</code>是指内容宽度（<code class="language-plaintext highlighter-rouge">obj.style.width</code>）和左右边框的总和。那么，当速度很小（比如说-1）的时候，如果直接用<code class="language-plaintext highlighter-rouge">obj.style.width = offsetWidth + speed + 'px'</code>来改变宽度的话，虽然负数的速度是想要缩小宽度，但是计算下来实质上却是在增加宽度。所以这种情况下，<code class="language-plaintext highlighter-rouge">offsetWidth</code>明显不适用了。</p>
+
+<h2 id="div框完成两个连续的操作">div框完成两个连续的操作</h2>
+
+<p>需求：鼠标移入时，增加边框宽度到100像素，完成后，伸长div框的高度到400像素。移出时，先缩小高度，然后缩小边框宽度。</p>
+
+<ol>
+  <li>
+    <p>考虑到是两个连续的操作，所以要在封装的运动框架中传入一个回调函数，作为参数。</p>
+  </li>
+  <li>获取起点/当前css的值。
+    <div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 需要根据css值是否为opacity，来调整css的值。如果是opacity，需要乘以100。</div>
+  </li>
+  <li>
+    <p>计算速度。</p>
+  </li>
+  <li>
+    <p>要考虑到如果传入了回调函数，那么需要在结束计时器时（到达目标位置），调用回调函数。</p>
+  </li>
+  <li>定义运动时，要考虑到如果是opacity属性，如何兼容不同的浏览器。
+    <div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> css属性是以引号形式传入的。所以显然，不能用dot notation来定义行间样式的属性了。所以要用<code class="language-plaintext highlighter-rouge">obj.style[attr]</code>的形式进行定义。</div>
+
+    <div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> css用驼峰式。比如<code class="language-plaintext highlighter-rouge">border-width</code>，就要写成<code class="language-plaintext highlighter-rouge">borderWidth</code></div>
+  </li>
+</ol>
+:ET

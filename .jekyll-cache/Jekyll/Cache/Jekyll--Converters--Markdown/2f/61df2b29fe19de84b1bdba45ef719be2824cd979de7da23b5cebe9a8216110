@@ -1,0 +1,45 @@
+I"$	<ul>
+  <li><code class="language-plaintext highlighter-rouge">build</code>：webpack的相关配置信息</li>
+  <li><code class="language-plaintext highlighter-rouge">config</code>：整个项目核心的配置文件</li>
+  <li><code class="language-plaintext highlighter-rouge">node_modules</code>：项目的依赖包。打包时可以删除或者ignore。建议用DOS命令删除。</li>
+  <li><code class="language-plaintext highlighter-rouge">src</code>：整个项目的模块。
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">main.js</code>：入口文件</li>
+      <li><code class="language-plaintext highlighter-rouge">App.vue</code>入口的组件</li>
+      <li><code class="language-plaintext highlighter-rouge">router</code>：对应的路由</li>
+      <li><code class="language-plaintext highlighter-rouge">components</code>：组件</li>
+      <li><code class="language-plaintext highlighter-rouge">assets</code>：静态资源，图片、字体图标、css等</li>
+    </ul>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">static</code>：全局的静态资源，与<code class="language-plaintext highlighter-rouge">src</code>文件不同的是，打包的时候会直接拷贝，不会改变路径。</li>
+  <li><code class="language-plaintext highlighter-rouge">test</code>：测试相关</li>
+  <li><code class="language-plaintext highlighter-rouge">.babellrc</code>: bable</li>
+  <li><code class="language-plaintext highlighter-rouge">package.json</code>: 配置文件</li>
+</ul>
+
+<h2 id="mainjs"><code class="language-plaintext highlighter-rouge">main.js</code></h2>
+
+<p><code class="language-plaintext highlighter-rouge">Vue.config.productionTip = false</code> 阻止生产模式的一些消息</p>
+
+<p><code class="language-plaintext highlighter-rouge">#el: '#ele'</code> 挂载元素</p>
+
+<h2 id="router--indexjs"><code class="language-plaintext highlighter-rouge">router &gt; index.js</code></h2>
+
+<p>路由配置信息：</p>
+
+<pre><code class="language-JS">...
+export default new Router({
+  routes: [
+    {
+      path: "/", // 路径
+      name: 'HelloWorld', // 路由的名字
+      component: HelloWorld // 要加载的组件
+    }
+  ]
+})
+</code></pre>
+
+<h3 id="关于">关于@</h3>
+
+<p>@ 前往 build &gt; webpack.base.conf.js，就能看到@配置的是什么</p>
+:ET

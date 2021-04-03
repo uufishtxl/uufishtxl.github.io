@@ -1,0 +1,252 @@
+I"+:<h2 id="el"><code class="language-plaintext highlighter-rouge">el</code></h2>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"app"</span><span class="nt">&gt;&lt;/div&gt;</span>
+var app = new Vue ({
+  el: document.getElementById('app') // 或者是#app
+})
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">el</code>: 用于指定一个页面中已存在的 DOM 元素来挂载 Vue 实例，可以是 HTML Element，也可以是 CSS 选择器。挂载成功后，可以通过<code class="language-plaintext highlighter-rouge">app.$el</code>来访问该元素。</p>
+
+<h2 id="数据绑定">数据绑定</h2>
+
+<p><code class="language-plaintext highlighter-rouge">v-model</code>的值对应于创建的 Vue 实例的 <code class="language-plaintext highlighter-rouge">data</code> 选项中的 <code class="language-plaintext highlighter-rouge">name</code> 字段，这就是 Vue 的数据绑定。通过 Vue 实例的 <code class="language-plaintext highlighter-rouge">data</code> 选项，可以声明应用内需要双向绑定的数据。Vue 实例本身也代理了 <code class="language-plaintext highlighter-rouge">data</code> 对象里的所有属性，所以可以这样访问。</p>
+
+<pre><code class="language-JavaScript">var app = new Vue ({
+  el: '#app',
+  data: {
+    a: 2
+  }
+})
+
+console.log(app.a); // 2
+</code></pre>
+
+<p>除了显示地声明数据外，也可以指向一个已有的变量，并且它们之间默认建立了双向绑定，当修改其中任意一个时，另一个也会起变化。</p>
+
+<pre><code class="language-JavaScript">var myData = {
+  a: 1
+}
+
+var app = new Vue ({
+  el: '#app',
+  data: myData
+})
+
+console.log(app.a) // 2
+
+app.a = 2;
+console.log(myData.a) // 2
+
+myData.a = 3;
+console.log(app.a) // 3
+</code></pre>
+
+<h2 id="vue-的生命周期">Vue 的生命周期</h2>
+
+<p>与 <code class="language-plaintext highlighter-rouge">JQuery</code> 的 <code class="language-plaintext highlighter-rouge">ready()</code>方法相似。</p>
+
+<pre><code class="language-JavaScript">$(document).ready(function() {
+  // DOM 加载完成后，会执行这里的代码
+  ...
+});
+</code></pre>
+
+<p>Vue 的生命周期钩子与之类似。比较常用都有：</p>
+
+<p><code class="language-plaintext highlighter-rouge">created</code> 实例创建完成后调用，此阶段完成了数据的观测，但尚未挂载，<code class="language-plaintext highlighter-rouge">$el</code>尚不可用。需要初始化处理一些数据会用到。</p>
+
+<p><code class="language-plaintext highlighter-rouge">mounted</code> <code class="language-plaintext highlighter-rouge">el</code>挂载到实例上后调用，第一个业务逻辑会在这里开始。</p>
+
+<p><code class="language-plaintext highlighter-rouge">beforeDestroy</code> 实例销毁之前调用。主要解绑一些使用 <code class="language-plaintext highlighter-rouge">addEventListener</code> 监听的事件等。</p>
+
+<p>这些钩子与 <code class="language-plaintext highlighter-rouge">el</code> 和 <code class="language-plaintext highlighter-rouge">data</code> 类似，也是作为选项写入 Vue 实例内，并且钩子的 <code class="language-plaintext highlighter-rouge">this</code> 指向的调用它的 Vue 实例。</p>
+
+<h2 id="v-html"><code class="language-plaintext highlighter-rouge">&lt;v-html&gt;</code></h2>
+
+<p>输出 <code class="language-plaintext highlighter-rouge">html</code>，而不是纯文本。</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id = </span><span class="s">"app"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;span</span> <span class="na">v-html = </span><span class="s">"link"</span><span class="nt">&gt;&lt;/span&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+
+<span class="nt">&lt;script&gt;</span>
+  <span class="kd">var</span> <span class="nx">app</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Vue</span><span class="p">({</span>
+    <span class="na">data</span><span class="p">:</span> <span class="p">{</span>
+      <span class="na">link</span><span class="p">:</span><span class="dl">'</span><span class="s1">&lt;a href="#"&gt;链接&lt;/a&gt;</span><span class="dl">'</span>
+    <span class="p">}</span>
+  <span class="p">})</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>
+
+<h2>{{}}</h2>
+
+<h3 id="文本插值">文本插值</h3>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;h1&gt;&lt;/h1&gt;</span>
+</code></pre></div></div>
+
+<h3 id="显示文本插值的标签">显示文本插值的标签</h3>
+
+<p>在元素标签上加上<code class="language-plaintext highlighter-rouge">v-pre</code>。</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;span</span> <span class="na">v-pre</span><span class="nt">&gt;</span> {{这里的内容不会被编译}} <span class="nt">&lt;/span&gt;</span>
+</code></pre></div></div>
+
+<h3 id="简单运算和三元运算">简单运算和三元运算</h3>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div&gt;</span>
+
+  {{ number * 2 }}
+  {{ isComplete ? '完成' : '未完成' }}
+  {{  text.splite(',').reverse().join(',')}}
+
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> Vue.js 只支持单个表达式，不支持语句和流控制。在表达式中，不能使用用户自定义的全局变量，只能使用 Vue 白名单内的全局变量，例如 Math 和 Date。</div>
+
+<h2 id="过滤器">过滤器</h2>
+
+<p>支持在文本插值的尾部添加一个管道符 “ | ”，经常用于文本的格式化，比如：</p>
+
+<ul>
+  <li>字母全部大写</li>
+  <li>数字加入千位符</li>
+  <li>时间的格式化</li>
+</ul>
+
+<p>还是用刚才的时间显示做例子。</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- formatDate 是一个自定义的用于过滤的函数 写入 Vue 的filters选项中 --&gt;</span>
+{{ date | formatDate }} 
+</code></pre></div></div>
+
+<pre><code class="language-JavaScript">&lt;script&gt;
+  var padDate = function(value) {
+    return value &lt; 10 ? '0' + value : value;
+  }
+  export default {
+    ...,
+    filters: {
+      formatDate = function(value) {
+        var date = new date(value); // value是指位于管道符前需要过滤的数据
+        var year = date.getFullYear();
+        var month = padDate(date.getMonth() + 1);
+        var day = padDate(date.getDate());
+        var hours = padDate(date.getHours());
+        var minutes = padDate(date.getMonths());
+        var seconds = padDate(date.getSeconds());
+        return year + '-' + month + '-' + 'day' + ' ' + hours + ' : ' + minutes + ' : ' + seconds;
+      }
+    }
+  }
+&lt;/script&gt;
+</code></pre>
+
+<h3 id="过滤器的串联">过滤器的串联</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{{ message | filterA | filterB }}
+</code></pre></div></div>
+
+<h3 id="接收参数">接收参数</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> {{ message | filterA('arg1', 'arg2') }} 
+</code></pre></div></div>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 过滤器用于简单的文本转换，如果要实现更为复杂的数据变化，应该使用计算属性。</div>
+
+<h2 id="指令与事件">指令与事件</h2>
+
+<p>指令的<strong>主要职责</strong>：当其表达式的值改变时，相应地将某些行为应用到 DOM 上。</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"app"</span><span class="nt">&gt;</span>
+  <span class="c">&lt;!-- show的值为true时，才会显示p元素 --&gt;</span>
+  <span class="nt">&lt;p</span> <span class="na">v-if=</span><span class="s">"show"</span><span class="nt">&gt;</span>显示这段文本<span class="nt">&lt;/p&gt;</span> 
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+
+<p><strong><em>数据驱动 DOM 是 Vue.js 的核心理念</em></strong>，因此，不到万不得已，不要自行主动操作 DOM，只需要维护好数据，Vue 会优雅地帮忙处理 DOM 的改动。</p>
+
+<h3 id="v-bind"><code class="language-plaintext highlighter-rouge">v-bind</code></h3>
+
+<p>用于动态更新 <strong><em>HTML 元素上的属性</em></strong>，比如<code class="language-plaintext highlighter-rouge">id</code>、<code class="language-plaintext highlighter-rouge">class</code>等。</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"app"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;a</span> <span class="na">v-bind:href=</span><span class="s">"url"</span><span class="nt">&gt;</span>链接<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+
+<span class="nt">&lt;script&gt;</span>
+  <span class="kd">var</span> <span class="nx">app</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Vue</span><span class="p">({</span>
+    <span class="na">el</span><span class="p">:</span> <span class="dl">'</span><span class="s1">#app</span><span class="dl">'</span><span class="p">,</span>
+    <span class="na">data</span><span class="p">:</span> <span class="p">{</span>
+      <span class="na">url</span><span class="p">:</span> <span class="dl">'</span><span class="s1">https://www.baidu.com</span><span class="dl">'</span>
+    <span class="p">}</span>
+  <span class="p">})</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>
+
+<h3 id="v-on"><code class="language-plaintext highlighter-rouge">v-on</code></h3>
+
+<p>绑定事件的监听器。</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"app"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;p</span> <span class="na">v-if=</span><span class="s">"show"</span><span class="nt">&gt;</span>这是文本<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;button</span> <span class="na">v-on:click=</span><span class="s">"handleClose"</span><span class="nt">&gt;</span>点击隐藏<span class="nt">&lt;/button&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+
+<span class="nt">&lt;script&gt;</span>
+  <span class="kd">var</span> <span class="nx">app</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Vue</span><span class="p">({</span>
+    <span class="na">el</span><span class="p">:</span> <span class="dl">'</span><span class="s1">#app</span><span class="dl">'</span><span class="p">,</span>
+    <span class="na">data</span><span class="p">:</span> <span class="p">{</span>
+      <span class="na">show</span><span class="p">:</span> <span class="kc">true</span>
+    <span class="p">},</span>
+    <span class="na">methods</span><span class="p">:</span> <span class="p">{</span>
+      <span class="na">handleClose</span><span class="p">:</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+        <span class="k">this</span><span class="p">.</span><span class="nx">show</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+      <span class="p">}</span>
+    <span class="p">}</span>
+  <span class="p">})</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>
+
+<p>除了<code class="language-plaintext highlighter-rouge">click</code>外，还有<code class="language-plaintext highlighter-rouge">dbclick</code>、<code class="language-plaintext highlighter-rouge">keyup</code>、<code class="language-plaintext highlighter-rouge">mousemove</code>等。表达式可以是</p>
+
+<ul>
+  <li>
+    <p>一个方法名，这些方法都写在Vue实例的<code class="language-plaintext highlighter-rouge">methods</code>属性内，并且是函数的形式，函数内的 <code class="language-plaintext highlighter-rouge">this</code>指向的是当前 Vue 实例本身，因此可以直接用this.xxx的形式来访问或修改数据，如实例中的 <code class="language-plaintext highlighter-rouge">this.show = false</code>；</p>
+  </li>
+  <li>
+    <p>也可以直接是一个内联语句</p>
+
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"app"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;p</span> <span class="na">v-if=</span><span class="s">"show"</span><span class="nt">&gt;</span>这是文本<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;button</span> <span class="na">v-on:click=</span><span class="s">"show = false"</span><span class="nt">&gt;</span>按钮<span class="nt">&lt;/button&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<p>Vue.js 将 <code class="language-plaintext highlighter-rouge">methods</code> 里的方法也代理了，所以可以像访问 Vue 那样来调用方法。</p>
+
+<h2 id="语法糖">语法糖</h2>
+
+<p>不影响功能的情况下，添加某种方法实现同样的效果，从而方便程序开发。</p>
+
+<p><code class="language-plaintext highlighter-rouge">v-bind</code>和<code class="language-plaintext highlighter-rouge">v-on</code>都提供了语法糖，也可以说是缩写:</p>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">v-bind</code>可以省略直接写成一个冒号</p>
+
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;a</span> <span class="na">:href=</span><span class="s">"url"</span><span class="nt">&gt;</span>链接<span class="nt">&lt;/a&gt;</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">v-on</code>可以直接用@来缩写</p>
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;button</span> <span class="err">@</span><span class="na">click=</span><span class="s">"handleClose"</span><span class="nt">&gt;</span>按钮<span class="nt">&lt;/button&gt;</span>
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+:ET

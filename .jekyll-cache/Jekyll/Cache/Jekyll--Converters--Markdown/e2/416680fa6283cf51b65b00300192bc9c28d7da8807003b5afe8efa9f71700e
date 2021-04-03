@@ -1,0 +1,34 @@
+I".<h2 id="conref">conref</h2>
+
+<ol>
+  <li>
+    <p>建立一个重用库，比如说<code class="language-plaintext highlighter-rouge">snippets.dita</code>，ID是<code class="language-plaintext highlighter-rouge">note123</code> 。</p>
+  </li>
+  <li>
+    <p>在重用库中，赋予要引用的内容一个独一无二的<code class="language-plaintext highlighter-rouge">id</code>。</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;note type="warning" id="tightening_warning"&gt;Do not...&lt;/note&gt;
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>在别的主题中引用该内容时，需要：</p>
+
+    <ul>
+      <li>确保与要引用的内容属于同一种标签</li>
+      <li>
+        <p>在该标签中，用<code class="language-plaintext highlighter-rouge">conref</code>属性来指定引用目标，格式是<code class="language-plaintext highlighter-rouge">&lt;labelName conref="library.dita#libraryId/conotentId"&gt;</code></p>
+
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;note conref="snippets.dita#note123/tightening_warning"&gt;
+</code></pre></div>        </div>
+      </li>
+    </ul>
+
+    <div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 如果要引用的内容在其他文件夹中，必须在文件名前提供正确的路径。</div>
+  </li>
+</ol>
+
+<h2 id="topiref的属性processing-role"><code class="language-plaintext highlighter-rouge">topiref</code>的属性<code class="language-plaintext highlighter-rouge">processing-role</code></h2>
+
+<p>在<code class="language-plaintext highlighter-rouge">ditamap</code>中，引用<code class="language-plaintext highlighter-rouge">topicref</code>时，有一个属性叫做<code class="language-plaintext highlighter-rouge">processing-role</code>，当设置为<code class="language-plaintext highlighter-rouge">processing-role="resource-only"</code>时，只会将该主题包含到这个map中，而不会显示到输出文件中。</p>
+
+:ET

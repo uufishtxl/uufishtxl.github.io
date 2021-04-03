@@ -1,0 +1,51 @@
+I"<h2 id="game"><code class="language-plaintext highlighter-rouge">Game</code></h2>
+
+<p>Personalize your visual gameplay experience.</p>
+
+<h3 id="preset-modes"><code class="language-plaintext highlighter-rouge">Preset Modes</code></h3>
+
+<p>Choose from a list of preset color modes.</p>
+
+<p><a href="osd_game_preset.html">MORE HELP INFORMATION</a></p>
+
+<h3 id="game-enhance-mode"><code class="language-plaintext highlighter-rouge">Game Enhance Mode</code></h3>
+
+<p>Adjust Game Enhance Mode.</p>
+
+<p><a href="osd_game_enhanced.html">MORE HELP INFORMATION</a></p>
+
+<h3 id="freesync"><code class="language-plaintext highlighter-rouge">FreeSync</code></h3>
+
+<p>Set FreeSync to <code class="language-plaintext highlighter-rouge">On</code> or <code class="language-plaintext highlighter-rouge">Off</code>. Turning it on helps to avoid tearing and reduce shuttering caused by misalignment with content’s frame rate.</p>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> FreeSync is an adaptive synchronization technology for liquid-crystal displays that support a variable refresh rate, aimed at avoiding tearing and reducing stuttering caused by misalignment with content’s frame rate.</div>
+
+<h3 id="response-time"><code class="language-plaintext highlighter-rouge">Response Time</code></h3>
+
+<p>Set the <code class="language-plaintext highlighter-rouge">Response Time</code> to <code class="language-plaintext highlighter-rouge">Fast</code>, <code class="language-plaintext highlighter-rouge">Super Fast</code>, or <code class="language-plaintext highlighter-rouge">Extreme</code>.</p>
+
+<h3 id="dark-stabilizer"><code class="language-plaintext highlighter-rouge">Dark Stabilizer</code></h3>
+
+<p>Adjust to improve the visibility in dark gaming scenarios. The higher the value, the better visibility in dark area of the display image.</p>
+
+<h3 id="hue"><code class="language-plaintext highlighter-rouge">Hue</code></h3>
+
+<p>Shift the color of the video image to green or purple to attain the desired flesh-tone color. <code class="language-plaintext highlighter-rouge">Hue</code> adjustment is available only for <code class="language-plaintext highlighter-rouge">FPS</code>, <code class="language-plaintext highlighter-rouge">RTS</code>, <code class="language-plaintext highlighter-rouge">RPG</code> or <code class="language-plaintext highlighter-rouge">SPORTS</code> mode.</p>
+
+<h4 id="on-entering-hue">On Entering <code class="language-plaintext highlighter-rouge">Hue</code></h4>
+
+<p>Use the joystick to adjust the hue from 0 to 100. Move it up to increase the green shade of the video image. Move it down to increase the purple shade.</p>
+
+<h3 id="saturation"><code class="language-plaintext highlighter-rouge">Saturation</code></h3>
+
+<p>Adjust the color saturation of the video image. Saturation adjustment is available only for <code class="language-plaintext highlighter-rouge">FPS</code>, <code class="language-plaintext highlighter-rouge">RTS</code>, <code class="language-plaintext highlighter-rouge">RPG</code> or <code class="language-plaintext highlighter-rouge">SPORTS</code> mode.</p>
+
+<h4 id="on-entering-saturation">On Entering <code class="language-plaintext highlighter-rouge">Saturation</code></h4>
+
+<p>Use the joystick to adjust the saturation from 0 to 100. Move it up to increase the colorful appearance of the video image. Move it down to increase the monochrome appearance.</p>
+
+<h3 id="reset-game"><code class="language-plaintext highlighter-rouge">Reset Game</code></h3>
+
+<p>Reset your monitor’s Game settings to the factory defaults.</p>
+
+:ET

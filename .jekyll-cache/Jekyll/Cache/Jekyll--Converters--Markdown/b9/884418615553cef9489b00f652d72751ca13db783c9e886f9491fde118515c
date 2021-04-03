@@ -1,0 +1,11 @@
+I"�<h1 id="当查询参数中包含实参">当查询参数中包含实参</h1>
+
+<p>比方说，下面的endpoint后缀的查询参数中就包含了一个实参，这种情况openAPI规格有覆盖吗？</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{user-id}?fields=feed.limit(3)
+</code></pre></div></div>
+
+<p>TBC</p>
+
+<p>Serve as the Question Page</p>
+:ET

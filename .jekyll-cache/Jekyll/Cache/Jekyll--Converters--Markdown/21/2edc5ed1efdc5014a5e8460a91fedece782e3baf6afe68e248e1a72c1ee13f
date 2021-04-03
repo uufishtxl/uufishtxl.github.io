@@ -1,0 +1,82 @@
+I"4<p>模板内的表达式常用语简单运算，逻辑较复杂时，常用更易于维护的计算属性来解决问题。</p>
+
+<h2 id="什么是计算属性">什么是计算属性</h2>
+
+<p>前面章节中有个例子：</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"app"</span><span class="nt">&gt;</span>
+  {{ text.split('.').reverse().join('') }}
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+
+<p>改写：</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"app"</span><span class="nt">&gt;</span>
+  {{ reversedText }}
+<span class="nt">&lt;/div&gt;</span>
+var app = new Vue({
+	el: '#app',
+  data: {
+  	text: '123, 456'
+  },
+  computed: {
+  	reversedText: function() {
+    	return this.text.split(',').reverse().join(',');
+    }
+  }
+})
+</code></pre></div></div>
+
+<h2 id="计算属性的用法">计算属性的用法</h2>
+
+<h3 id="依赖多个vue实例中的数据重新执行计算属性">依赖多个Vue实例中的数据重新执行计算属性</h3>
+
+<p><a href="https://jsfiddle.net/edith_tang/8L9x3jm5/1/">《Vue.js实战》中的例子</a></p>
+
+<h3 id="getter-和-setter"><code class="language-plaintext highlighter-rouge">getter</code> 和 <code class="language-plaintext highlighter-rouge">setter</code></h3>
+
+<p>上面的例子都是用了计算属性的默认用法，也就是利用getter来读取。需要时，也可以提供一个setter函数，当手动修改计算属性的值就像修改一个普通数据那样时，就会触发setter函数，执行一些自定义操作。</p>
+
+<p><a href="https://jsfiddle.net/edith_tang/ucsz3rne/15/">使用计算属性的setter函数</a></p>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 实际应用中，很少会用到setter函数。这时候，就不需要分别声明<code class="language-plaintext highlighter-rouge">get</code>和<code class="language-plaintext highlighter-rouge">set</code>函数，可以直接使用默认的写法。</div>
+
+<h3 id="应用场景">应用场景</h3>
+
+<h4 id="文本插值">文本插值</h4>
+
+<p>上述例子都将计算属性应用在文本插值。</p>
+
+<h4 id="class属性和内联样式-style"><code class="language-plaintext highlighter-rouge">class</code>属性和内联样式 style</h4>
+
+<p><a href="vue_note_computed.html">链接：稍后补全</a></p>
+
+<h3 id="小技巧">小技巧</h3>
+
+<ul>
+  <li>
+    <p>计算属性可以依赖其他计算属性</p>
+  </li>
+  <li>
+    <p>计算属性不仅可以依赖当前Vue实例的数据，还可以依赖其他实例的数据<br />
+<a href="https://jsfiddle.net/edith_tang/9awdLbzj/4/">《Vue.js实战》中的例子</a></p>
+  </li>
+</ul>
+
+<h2 id="计算属性缓存">计算属性缓存</h2>
+
+<p>计算属性所完成的最终效果，用<code class="language-plaintext highlighter-rouge">methods</code>也能实现，比如下面的例子。</p>
+
+<p><a href="https://jsfiddle.net/edith_tang/9awdLbzj/7/">《Vue.js实战》中的例子</a></p>
+
+<p>甚至用methods，还能传入参数，似乎更为灵活。那么两者有什么区别，为什么要用计算属性呢？</p>
+
+<p>原因就是：<strong><em>计算属性是基于它的依赖缓存的</em></strong>（(&gt;^ω^&lt;) 喵喵喵？）</p>
+
+<blockquote>
+  <p>一个计算属性所依赖的数据发生变化时，它才会重新取值，所以 <code class="language-plaintext highlighter-rouge">text</code> 只要不发生变化，计算属性也就不更新。</p>
+
+  <p>使用计算属性还是 methods 取决于你是否需要缓存，当遍历大数组和做大量计算时，应当使用计算属性，除非你不希望得到缓存。</p>
+</blockquote>
+
+:ET

@@ -1,0 +1,53 @@
+I"’<h2 id="if-statement">if statement</h2>
+
+<h3 id="-is-or"><code class="language-plaintext highlighter-rouge">||</code>: is or</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const x = 6;
+const y = 11;
+if(x &gt; 5 || y &gt; 10) {
+console.log('x is more than 5 or y is greater than 10');
+};
+</code></pre></div></div>
+
+<h3 id="-is-and"><code class="language-plaintext highlighter-rouge">&amp;&amp;</code>: is and</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const x = 6;
+const y = 11;
+if(x &gt; 5 &amp;&amp; y &gt; 10) {
+    console.log('x is more than 5 and y is greater than 10');
+}
+</code></pre></div></div>
+
+<p>This is much more efficient than nesting if statements within another if expression.</p>
+
+<h3 id="-is-then--else"><code class="language-plaintext highlighter-rouge">?</code> is then, <code class="language-plaintext highlighter-rouge">:</code> else</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const x = 10;
+
+const color = x &gt; 10 ? 'red' : 'blue';
+
+console.log(color)
+</code></pre></div></div>
+
+<h2 id="switches">Switches</h2>
+
+<p>Route judgment into different directions (cases) and thus produce disparate results.</p>
+
+<p>keywords: <code class="language-plaintext highlighter-rouge">case</code>, <code class="language-plaintext highlighter-rouge">break</code>, <code class="language-plaintext highlighter-rouge">default</code></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const x = 10;
+
+const color = x &gt; 10 ? 'red' : 'blue';
+
+switch(color) {
+    case 'red':
+        console.log('color is red');
+        break;
+    case 'blue':
+        console.log('color is blue');
+        break;
+    default: 
+        console.log('color is not red or blue');
+}
+</code></pre></div></div>
+:ET

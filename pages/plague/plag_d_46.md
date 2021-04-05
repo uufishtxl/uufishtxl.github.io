@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1.  Besides the comforts sent by air or overland, compassionate or admiring comments were lavished on the henceforth isolated town, by way of newspaper articles or broadcast talks. And invariably their epical or prize-speech verbiage <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_46_a1}}">`________(使感到不快/使吃惊)`</b> on the doctor.
+1.  Besides the comforts sent by air or overland, compassionate or admiring comments were lavished on the henceforth isolated town, by way of newspaper articles or broadcast talks. And invariably their epical or prize-speech verbiage <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_46_a1}}">`________(使感到不快/使吃惊)`</b> the doctor.
 
 2.  Rambert fought to prevent the plague from <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_46_b1}}">`________(打败/胜过)`</b> him.
 

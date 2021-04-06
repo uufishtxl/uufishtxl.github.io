@@ -11,7 +11,7 @@ summary:
 
 1.  Hither to the plague had found far more victims in the more thickly populated and less <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_54_a1}}">`________(陈设得当)`</b> outer districts than in the heart of the town.
 
-2.  Man is an idea, and a precious small ideea, once he <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_54_b1}}">`________(备齐/抛弃)`</b> love.
+2.  Man is an idea, and a precious small idea, once he <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_54_b1}}">`________(背弃/抛弃)`</b> love.
 
 3.  During the months when not a drop of rain had refreshed the town, a gray crust had formed on everything, and this <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_54_c1}}">`________(剥落)`</b> under the wind, disintegrating into dust-clouds.
 

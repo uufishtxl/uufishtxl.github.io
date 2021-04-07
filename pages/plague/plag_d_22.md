@@ -23,6 +23,6 @@ summary:
 
 7.  Sons who had lived beside their mothers hardly giving them a glance <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_22_g1}}">`________(着手做某事)`</b> picturing with <b data-toggle="tooltip" data-original-title="{{site.data.glossary.poignant}}">`poignant`</b> regret each wrinkle in the absent face that memory cast upon the screen.
 
-8.  But this ruthless, protracted separation enabled them to realize that they could not live apart, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_22_h1}}">`________(在这一发现的光辉中)`</b> the risk of plague seemed insignificant.
+8.  But this ruthless, protracted separation enabled them to realize that they could not live apart, and <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_22_h1}}">`________(在这一突然发现的光辉中)`</b> the risk of plague seemed insignificant.
 
 9.  They weren’t one of those exemplary married couples of <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_22_i1}}">`________(模范型夫妻)`</b>; on the contrary, the narrator <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_22_i2}}">`________(有理由说某事)`</b> saying that, in all probability, neither partner felt quite sure the marriage was all that could have been desired.

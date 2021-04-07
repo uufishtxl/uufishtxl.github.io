@@ -13,7 +13,7 @@ summary:
 
 2.  And obviously contagion is never absolute; otherwise you'd have a constant mathemetical progression and the death rate would <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_16_b1}}">`________(迅速增长)`</b> catastrophically.
 
-3.  The <b data-toggle="tooltip" data-original-title="{{site.data.glossary.foci}}">`foci`</b> of infection are steadily extending. Judging by the rapidity with which the disease is spreading, it may well, unless we can stop it, kill off half the town <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_16_c1}}">`________(两个月不到)`</b>
+3.  The <b data-toggle="tooltip" data-original-title="{{site.data.glossary.foci}}">`foci`</b> of infection are steadily extending. Judging by the rapidity with which the disease is spreading, it may well, unless we can stop it, kill off half the town <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_16_c1}}">`________(两个月不到)`</b>.
 
 4.  Next day, <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_16_d1}}">`________(凭借/通过)`</b> a persistence that many thought ill-advised, Rieux persuaded the authorities to convene a health committee at the Prefect’s office.
 

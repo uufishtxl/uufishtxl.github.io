@@ -307,3 +307,35 @@ entries:
     - title: D63
       url: /r_plague_4_14.html
       output: web, pdf
+
+  - title: 64 ~ 70 
+    output: web, pdf
+    folderitems:
+
+    - title: D64
+      url: /r_plague_4_15.html
+      output: web, pdf
+
+    - title: D65
+      url: /r_plague_4_16.html
+      output: web, pdf
+
+    - title: D66
+      url: /r_plague_4_17.html
+      output: web, pdf
+
+    - title: D67
+      url: /r_plague_4_18.html
+      output: web, pdf
+
+    - title: D68
+      url: /r_plague_4_19.html
+      output: web, pdf
+
+    - title: D69
+      url: /r_plague_4_20.html
+      output: web, pdf
+
+    - title: D70
+      url: /r_plague_4_21.html
+      output: web, pdf

@@ -371,3 +371,35 @@ entries:
     - title: D77
       url: /r_plague_4_28.html
       output: web, pdf
+
+  - title: 78 ~ 84 
+    output: web, pdf
+    folderitems:
+
+    - title: D78
+      url: /r_plague_4_29.html
+      output: web, pdf
+
+    - title: D79
+      url: /r_plague_4_30.html
+      output: web, pdf
+
+    - title: D80
+      url: /r_plague_5_1.html
+      output: web, pdf
+
+    - title: D81
+      url: /r_plague_5_2.html
+      output: web, pdf
+
+    - title: D82
+      url: /r_plague_5_3.html
+      output: web, pdf
+    
+    - title: D83
+      url: /r_plague_5_4.html
+      output: web, pdf
+
+    - title: D84
+      url: /r_plague_5_5.html
+      output: web, pdf

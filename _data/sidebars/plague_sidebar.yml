@@ -403,3 +403,79 @@ entries:
     - title: D84
       url: /r_plague_5_5.html
       output: web, pdf
+
+  - title: 85 ~ 91 
+    output: web, pdf
+    folderitems:
+
+    - title: D85
+      url: /r_plague_5_6.html
+      output: web, pdf
+
+    - title: D86
+      url: /r_plague_5_7.html
+      output: web, pdf
+
+    - title: D87
+      url: /r_plague_5_8.html
+      output: web, pdf
+
+    - title: D88
+      url: /r_plague_5_9.html
+      output: web, pdf
+
+    - title: D89
+      url: /r_plague_5_10.html
+      output: web, pdf
+
+    - title: D90
+      url: /r_plague_5_11.html
+      output: web, pdf
+
+    - title: D91
+      url: /r_plague_5_12.html
+      output: web, pdf
+
+  - title: 92 ~ 98 
+    output: web, pdf
+    folderitems:
+
+    - title: D92
+      url: /r_plague_5_13.html
+      output: web, pdf
+
+    - title: D93
+      url: /r_plague_5_14.html
+      output: web, pdf
+
+    - title: D94
+      url: /r_plague_5_15.html
+      output: web, pdf
+
+    - title: D95
+      url: /r_plague_5_16.html
+      output: web, pdf
+
+    - title: D96
+      url: /r_plague_5_17.html
+      output: web, pdf
+
+    - title: D97
+      url: /r_plague_5_18.html
+      output: web, pdf
+
+    - title: D98
+      url: /r_plague_5_19.html
+      output: web, pdf
+
+  - title: 99 ~ 100 
+    output: web, pdf
+    folderitems:
+
+    - title: D99
+      url: /r_plague_5_20.html
+      output: web, pdf
+
+    - title: D100
+      url: /r_plague_5_21.html
+      output: web, pdf

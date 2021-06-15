@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1.  The damp heat of the spring made everyone long for the coming of the dry, clean summer heat. On the town, humped <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_10_a1}}">`________(像蛇一样的)`</b> on its plateau and shut off almost everywhere from the sea, a mood of <b data-toggle="tooltip" data-original-title="{{site.data.glossary.listlessness}}">`listlessness`</b> descended.
+1.  The damp heat of the spring made everyone long for the coming of the dry, clean summer heat. On the town, humped <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_10_a1}}">`________(像蜗牛一样的)`</b> on its plateau and shut off almost everywhere from the sea, a mood of <b data-toggle="tooltip" data-original-title="{{site.data.glossary.listlessness}}">`listlessness`</b> descended.
 
 2.  "<b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_10_b1}}">`________(天气和蒸笼一样)`</b>," he said. "<b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_10_b2}}">`________(正是...所需要的)`</b> for asthma."
 

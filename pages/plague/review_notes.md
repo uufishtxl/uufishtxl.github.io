@@ -63,3 +63,10 @@ summary:
 - Though prices soared inevitably, never had so much money been <b data-toggle="tooltip" data-original-title="{{site.data.glossary.squandered}}">`squandered`</b>, and while <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_64_a1}}">`________(基本需求/日常必需品)`</b> were often lacking, never had so much been spent on superfluties.
 
 - “Gas is running out,” he said. “We’ll have to <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_67_d1}}">`________(在泥泞中费劲地步行)`</b> it tomorrow.”
+
+- “We’ll <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_65_m1}}">`________(约定一个时间)`</b>, you and I. If I don’t turn up, go straight to their place. I’ll give you the address.”
+
+
+- Some rather <b data-toggle="tooltip" data-original-title="{{site.data.glossary.jerky}}">`jerky`</b> movements he <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_65_f1}}">`________(参加/参与[尤指违法行动])`</b> gave our <b data-toggle="tooltip" data-original-title="{{site.data.glossary.connoisseurs}}">`connoisseurs`</b> of statecraft an impression of clever, if slightly overdone, effects, intended to <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_65_f2}}">`________(使表现出)`</b> the emotion of the words he sang.
+
+- In other manifestations of life God made things easy for us and, <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_73_c1}}">`________(到目前为止/迄今为止)`</b>, our religion had no merit.

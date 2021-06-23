@@ -9,6 +9,7 @@ summary:
 ---
 
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.ostentation}}">`ostentation`</b>
+-   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.fastidious}}">`fastidious`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.elated}}">`elated`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.supercilious}}">`supercilious`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.celerity}}">`celerity`</b>
@@ -39,6 +40,18 @@ summary:
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.obeisance}}">`obeisance`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.depravity}}">`depravity`</b>
 -   <b data-toggle="tooltip" data-original-title="{{site.data.glossary.wanton}}">`wanton`</b>
+
+**01**
+
+- <b data-toggle="tooltip" data-original-title="{{site.data.answers.d01_b}}">`________(我看没有这个必要)`</b>.
+
+**02**
+
+- And already had Mrs. Bennet planned the courses that were to ________________(使值得称赞) her housekeeping, when an answer arrived which deferred it all.
+
+**03**
+
+- She is tolerable, but not handsome enough to tempt me, and I am in no humor at present to <b data-toggle="tooltip" data-original-title="{{site.data.answers.d03_e}}">`________(关注/重视)`</b> to young ladies who are slighted by other men.
 
 **05**
 

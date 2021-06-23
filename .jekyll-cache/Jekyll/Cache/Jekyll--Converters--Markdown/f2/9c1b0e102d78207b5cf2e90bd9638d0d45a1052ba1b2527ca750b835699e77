@@ -1,0 +1,7 @@
+I"G<h3 id="简介">简介</h3>
+
+<p><code class="language-plaintext highlighter-rouge">svg sprite</code>有一个缺点，就是无法实现增量更新。这时候，我们就需要了解一下<code class="language-plaintext highlighter-rouge">svg-sprite-loader</code>。</p>
+
+<p><code class="language-plaintext highlighter-rouge">svg-sprite-loader</code>的工作原理是，通过某个文件夹来统一管理<code class="language-plaintext highlighter-rouge">svg</code>文件，然后通过<code class="language-plaintext highlighter-rouge">loader</code>将它们打包成<code class="language-plaintext highlighter-rouge">sprite</code>，这样，就实现了增量更新。如果想要新增图标，只需要将新加的<code class="language-plaintext highlighter-rouge">svg</code>文件放到对应的文件夹下就可以了。</p>
+
+:ET

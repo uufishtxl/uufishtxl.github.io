@@ -95,3 +95,19 @@ entries:
     - title: 练习2：创建一个标签页组件
       url: vue_components_in_action_2.html
       output: web, pdf
+
+  - title: 在 VUE 项目中渲染 SVG 图标
+    output: web, pdf
+    folderitems:
+
+    - title: 在 VUE 项目中渲染 SVG 图标
+      url: /vue_svg_sprite.html
+      output: web, pdf
+
+    - title: 基础知识：SVG / SYMBOL / USE
+      url: /vue_svg_symbol_use.html
+      output: web, pdf
+
+    - title: 使用svg-sprite-loader
+      url: /vue_svg_sprite_loader.html
+      output: web, pdf

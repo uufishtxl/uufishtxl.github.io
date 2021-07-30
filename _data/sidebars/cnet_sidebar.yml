@@ -19,6 +19,14 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: 001 - 000
+    output: web, pdf
+    folderitems:
+
+    - title: Article 01
+      url: /cnet_001.html
+      output: web, pdf
+
   - title: 064 - 058
     output: web, pdf
     folderitems:

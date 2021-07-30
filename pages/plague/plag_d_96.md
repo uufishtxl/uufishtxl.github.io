@@ -9,7 +9,7 @@ summary:
 ---
 
 
-1. And <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_96_a1}}">`________(他伸出双臂牢牢抱住她)`</b>r, pressing to his shoulder the head of which he saw only the familiar hair, he let his tears flow freely, unknowing if they rose from present joy or from sorrow too long repressed.
+1. And <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_96_a1}}">`________(他伸出双臂牢牢抱住她)`</b>, pressing to his shoulder the head of which he saw only the familiar hair, he let his tears flow freely, unknowing if they rose from present joy or from sorrow too long repressed.
 
 2. Every passenger had reserved his seat long in advance and had been<b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_96_b1}}">`________(紧张不安/提心吊胆)`</b> during the past fortnight lest at the last moment the authorities should <b data-toggle="tooltip" data-original-title="{{site.data.answers.plag_d_96_b2}}">`________(取消这一决定)`</b>.
 

@@ -31,6 +31,10 @@ entries:
       url: /cnet_002.html
       output: web, pdf
 
+    - title: Article 03
+      url: /cnet_003.html
+      output: web, pdf
+
   - title: 064 - 058
     output: web, pdf
     folderitems:

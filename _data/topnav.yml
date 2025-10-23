@@ -42,5 +42,3 @@ topnav_dropdowns:
           url: /eng_spoken.html
         - title: DITA
           url: /dita_basics.html
-        - title: OSD Temporal Help
-          url: /osd_game.html
